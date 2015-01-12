@@ -1,0 +1,477 @@
+"RegionType","RegionName","State","CBSA Title","SizeRankCity","SizeRankMetro","SaleToListPrice","PctPriceCut","DaysOnMarket","BuyerSellerIndex","BuyerSellerIndexMetro"
+"Neighborhood","River North","IL","Chicago-Naperville-Joliet, IL-IN-WI",4794,3,0.9987,40.4145,97,0.9375,8.73417721518987
+"Neighborhood","Archer Heights","IL","Chicago-Naperville-Joliet, IL-IN-WI",486,3,1.0022,34.6939,102,0.625,8.73417721518987
+"Neighborhood","Jefferson Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",733,3,0.9726,52.6882,105,7.8125,8.73417721518987
+"Neighborhood","Rogers Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",524,3,0.9681,40.1674,116,8.75,8.73417721518987
+"Neighborhood","Belmont Heights","IL","Chicago-Naperville-Joliet, IL-IN-WI",3394,3,0.952834683182468,41.25,105,8.125,8.73417721518987
+"Neighborhood","West Town","IL","Chicago-Naperville-Joliet, IL-IN-WI",1374,3,0.9811,43.0108,101,3.75,8.73417721518987
+"Neighborhood","Mount Greenwood","IL","Chicago-Naperville-Joliet, IL-IN-WI",2324,3,0.9716,42.7184,104,5.9375,8.73417721518987
+"Neighborhood","Lincoln Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",2898,3,0.9729,41.7647,104,4.6875,8.73417721518987
+"Neighborhood","Near East Side","IL","Chicago-Naperville-Joliet, IL-IN-WI",5263,3,0.9628,32.6733,112,6.5625,8.73417721518987
+"Neighborhood","Lake View","IL","Chicago-Naperville-Joliet, IL-IN-WI",573,3,0.9771,50.677,100,5,8.73417721518987
+"Neighborhood","Humboldt Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",744,3,0.9786,41.5842,89,1.5625,8.73417721518987
+"Neighborhood","Garfield Ridge","IL","Chicago-Naperville-Joliet, IL-IN-WI",1158,3,0.9562,44.697,91,5.625,8.73417721518987
+"Neighborhood","Bucktown","IL","Chicago-Naperville-Joliet, IL-IN-WI",2096,3,0.9685,41.7722,103,6.25,8.73417721518987
+"Neighborhood","West Rogers Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",398,3,0.9684,35.2227,97,4.0625,8.73417721518987
+"Neighborhood","Clearing (W)","IL","Chicago-Naperville-Joliet, IL-IN-WI",2561,3,0.9656,40.4762,111,7.5,8.73417721518987
+"Neighborhood","South Loop","IL","Chicago-Naperville-Joliet, IL-IN-WI",853,3,0.9843,34.4988,114,3.125,8.73417721518987
+"Neighborhood","Old Town","IL","Chicago-Naperville-Joliet, IL-IN-WI",3968,3,0.9917,41.6667,98,1.875,8.73417721518987
+"Neighborhood","South Shore","IL","Chicago-Naperville-Joliet, IL-IN-WI",696,3,0.9279,40.2299,133.5,10,8.73417721518987
+"Neighborhood","Wrightwood Neighbors","IL","Chicago-Naperville-Joliet, IL-IN-WI",4346,3,0.9727,42.5,101,4.375,8.73417721518987
+"Neighborhood","Lake View East","IL","Chicago-Naperville-Joliet, IL-IN-WI",799,3,0.9741,50.9479,109,7.1875,8.73417721518987
+"Neighborhood","Gresham","IL","Chicago-Naperville-Joliet, IL-IN-WI",599,3,0.9702,40.3226,131,8.4375,8.73417721518987
+"Neighborhood","Logan Square","IL","Chicago-Naperville-Joliet, IL-IN-WI",270,3,0.9774,35.0598,93,0.3125,8.73417721518987
+"Neighborhood","West Lawn","IL","Chicago-Naperville-Joliet, IL-IN-WI",896,3,0.9737,34.2105,102,2.8125,8.73417721518987
+"Neighborhood","Edgewater Beach","IL","Chicago-Naperville-Joliet, IL-IN-WI",928,3,0.9519,44.856,110,9.375,8.73417721518987
+"Neighborhood","Gold  Coast","IL","Chicago-Naperville-Joliet, IL-IN-WI",999,3,0.9621,42.4963,122.5,9.0625,8.73417721518987
+"Neighborhood","Albany Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",527,3,0.9922,47.1698,112,5.3125,8.73417721518987
+"Neighborhood","Buena Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",3797,3,0.9684,50.3356,113,9.6875,8.73417721518987
+"Neighborhood","West Loop Gate","IL","Chicago-Naperville-Joliet, IL-IN-WI",5230,3,1.0036,45.1613,99,2.5,8.73417721518987
+"Neighborhood","Near North","IL","Chicago-Naperville-Joliet, IL-IN-WI",1600,3,0.9714,34.8101,95,2.1875,8.73417721518987
+"Neighborhood","Ravenswood","IL","Chicago-Naperville-Joliet, IL-IN-WI",1171,3,0.9704,43.3155,106,6.875,8.73417721518987
+"Neighborhood","Scottsdale","IL","Chicago-Naperville-Joliet, IL-IN-WI",3026,3,0.9759,36.8421,95,1.25,8.73417721518987
+"Neighborhood","Portage Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",705,3,0.9808,45.8599,96,3.4375,8.73417721518987
+"Neighborhood","Northeast Colorado Springs","CO","Colorado Springs, CO",495,67,0.9838,45.9215,72,7.27272727272727,2.72151898734177
+"Neighborhood","East Colorado Springs","CO","Colorado Springs, CO",482,67,0.9876,33.9339,69,2.72727272727273,2.72151898734177
+"Neighborhood","Southwest Colorado Springs","CO","Colorado Springs, CO",909,67,0.978,44.4169,89,10,2.72151898734177
+"Neighborhood","Powers","CO","Colorado Springs, CO",876,67,0.9917,41.2987,68,1.81818181818182,2.72151898734177
+"Neighborhood","Old Colorado City","CO","Colorado Springs, CO",2263,67,0.9773,42.8571,65,6.36363636363636,2.72151898734177
+"Neighborhood","Central Colorado Springs","CO","Colorado Springs, CO",496,67,0.9814,37.5,68.5,4.54545454545455,2.72151898734177
+"Neighborhood","Northwest Colorado Springs","CO","Colorado Springs, CO",1194,67,0.9848,52.4904,76,8.18181818181818,2.72151898734177
+"Neighborhood","Falcon","CO","Colorado Springs, CO",4324,67,0.9879,35.9756,73,3.63636363636364,2.72151898734177
+"Neighborhood","Briargate","CO","Colorado Springs, CO",714,67,0.9834,42.9885,80,9.09090909090909,2.72151898734177
+"Neighborhood","Southeast Colorado Springs","CO","Colorado Springs, CO",455,67,0.9869,31.0954,65,0.909090909090909,2.72151898734177
+"Neighborhood","West Colorado Springs","CO","Colorado Springs, CO",2780,67,0.9781,32.4503,70,5.45454545454545,2.72151898734177
+"Neighborhood","North","TX","Dallas-Fort Worth-Arlington, TX",786,4,0.9923,28,78,6.36363636363636,0.632911392405063
+"Neighborhood","Southwest Dallas","TX","Dallas-Fort Worth-Arlington, TX",222,4,1.0109,29.249,64,3.18181818181818,0.632911392405063
+"Neighborhood","Southeast Dallas","TX","Dallas-Fort Worth-Arlington, TX",139,4,0.9857,24.2678,63,5,0.632911392405063
+"Neighborhood","Southwest","TX","Dallas-Fort Worth-Arlington, TX",628,4,0.987,28.2443,55,3.63636363636364,0.632911392405063
+"Neighborhood","Northeast Dallas","TX","Dallas-Fort Worth-Arlington, TX",56,4,0.9446,36.6733,55,7.27272727272727,0.632911392405063
+"Neighborhood","Southeast","TX","Dallas-Fort Worth-Arlington, TX",276,4,1.0208,19.4444,49,0.454545454545455,0.632911392405063
+"Neighborhood","Oak Lawn","TX","Dallas-Fort Worth-Arlington, TX",639,4,0.8669,32.1782,70.5,9.54545454545454,0.632911392405063
+"Neighborhood","Wolf Creek","TX","Dallas-Fort Worth-Arlington, TX",900,4,1.0272,30.3371,66,2.27272727272727,0.632911392405063
+"Neighborhood","Cedar Crest","TX","Dallas-Fort Worth-Arlington, TX",471,4,1.4164,25.3968,63,1.36363636363636,0.632911392405063
+"Neighborhood","Far North","TX","Dallas-Fort Worth-Arlington, TX",111,4,0.9627,37.0438,50,5.90909090909091,0.632911392405063
+"Neighborhood","North Dallas","TX","Dallas-Fort Worth-Arlington, TX",759,4,0.8699,43.2584,80,10,0.632911392405063
+"Neighborhood","Sendera Ranch","TX","Dallas-Fort Worth-Arlington, TX",5419,4,0.908,36.8421,59,8.63636363636364,0.632911392405063
+"Neighborhood","M Streets","TX","Dallas-Fort Worth-Arlington, TX",967,4,0.9878,30.3483,55,1.81818181818182,0.632911392405063
+"Neighborhood","Heritage","TX","Dallas-Fort Worth-Arlington, TX",4537,4,0.998,28.75,60.5,2.72727272727273,0.632911392405063
+"Neighborhood","Summerfields","TX","Dallas-Fort Worth-Arlington, TX",2066,4,1.0052,17.3469,55,0.909090909090909,0.632911392405063
+"Neighborhood","Villages of Woodland Springs","TX","Dallas-Fort Worth-Arlington, TX",3857,4,0.9763,31.9672,55,5.45454545454545,0.632911392405063
+"Neighborhood","Wedgwood","TX","Dallas-Fort Worth-Arlington, TX",2680,4,0.9969,50.4505,70,7.72727272727273,0.632911392405063
+"Neighborhood","West","TX","Dallas-Fort Worth-Arlington, TX",331,4,0.9962,32.9545,57.5,4.54545454545455,0.632911392405063
+"Neighborhood","East","TX","Dallas-Fort Worth-Arlington, TX",237,4,0.9756,31.4286,53,4.09090909090909,0.632911392405063
+"Neighborhood","Preston Hollow","TX","Dallas-Fort Worth-Arlington, TX",286,4,0.9335,43.7198,56.5,8.18181818181818,0.632911392405063
+"Neighborhood","Bluffview","TX","Dallas-Fort Worth-Arlington, TX",2855,4,0.8883,33.8843,71,9.09090909090909,0.632911392405063
+"Neighborhood","Lake Highlands","TX","Dallas-Fort Worth-Arlington, TX",566,4,0.9377,33.5484,55,6.81818181818182,0.632911392405063
+"Neighborhood","Bear Valley","CO","Denver-Aurora, CO",4544,20,0.9851,25,53,5.43478260869565,0.316455696202532
+"Neighborhood","Capitol Hill","CO","Denver-Aurora, CO",2815,20,0.9911,28.7234,54,4.78260869565217,0.316455696202532
+"Neighborhood","Fort Logan","CO","Denver-Aurora, CO",4643,20,0.986,27.7778,57,6.95652173913043,0.316455696202532
+"Neighborhood","Five Points","CO","Denver-Aurora, CO",3423,20,0.9846,32.2222,60,8.47826086956522,0.316455696202532
+"Neighborhood","North Aurora","CO","Denver-Aurora, CO",1987,20,1.005,25,51,1.95652173913043,0.316455696202532
+"Neighborhood","Highland","CO","Denver-Aurora, CO",4600,20,0.9827,20.8696,60.5,7.17391304347826,0.316455696202532
+"Neighborhood","Platt Park","CO","Denver-Aurora, CO",5245,20,0.9946,41.0256,49,4.34782608695652,0.316455696202532
+"Neighborhood","Heather Gardens","CO","Denver-Aurora, CO",5265,20,0.9901,11.4286,58,3.69565217391304,0.316455696202532
+"Neighborhood","Gateway - Green Valley Ranch","CO","Denver-Aurora, CO",1067,20,1,20.2899,55,3.26086956521739,0.316455696202532
+"Neighborhood","Harvey Park","CO","Denver-Aurora, CO",3680,20,1.0035,27.2727,46,1.08695652173913,0.316455696202532
+"Neighborhood","Cheesman Park","CO","Denver-Aurora, CO",4775,20,0.9912,19.5652,65,4.56521739130435,0.316455696202532
+"Neighborhood","Windsor","CO","Denver-Aurora, CO",3547,20,0.9893,22.6415,46,2.60869565217391,0.316455696202532
+"Neighborhood","North Park Hill","CO","Denver-Aurora, CO",4441,20,0.9873,23.4375,60,5.8695652173913,0.316455696202532
+"Neighborhood","Village East","CO","Denver-Aurora, CO",4593,20,0.9934,33.3333,47.5,3.47826086956522,0.316455696202532
+"Neighborhood","Hilltop","CO","Denver-Aurora, CO",4675,20,0.9697,41.2698,61,9.78260869565217,0.316455696202532
+"Neighborhood","Montbello","CO","Denver-Aurora, CO",753,20,1,6.25,59,1.52173913043478,0.316455696202532
+"Neighborhood","South Park Hill","CO","Denver-Aurora, CO",4609,20,0.9926,48.8372,55.5,7.82608695652174,0.316455696202532
+"Neighborhood","Athmar Park","CO","Denver-Aurora, CO",4470,20,0.9988,6.25,47,0.217391304347826,0.316455696202532
+"Neighborhood","Marston","CO","Denver-Aurora, CO",3781,20,0.9965,21.875,49,1.73913043478261,0.316455696202532
+"Neighborhood","Hampden South","CO","Denver-Aurora, CO",2905,20,0.9828,29.1667,54,7.60869565217391,0.316455696202532
+"Neighborhood","Carriage Place","CO","Denver-Aurora, CO",4766,20,0.9938,18.9189,44,0.652173913043478,0.316455696202532
+"Neighborhood","University Hills","CO","Denver-Aurora, CO",5216,20,0.9898,34.8837,52,5.65217391304348,0.316455696202532
+"Neighborhood","Congress Park","CO","Denver-Aurora, CO",4127,20,0.9864,37.5,50.5,6.30434782608696,0.316455696202532
+"Neighborhood","Belcaro","CO","Denver-Aurora, CO",5357,20,0.9676,36.7347,67,9.56521739130435,0.316455696202532
+"Neighborhood","Virginia Village","CO","Denver-Aurora, CO",3403,20,0.9912,25,46,2.17391304347826,0.316455696202532
+"Neighborhood","Washington Park West","CO","Denver-Aurora, CO",5102,20,0.9986,41.791,56,6.08695652173913,0.316455696202532
+"Neighborhood","Berkeley","CO","Denver-Aurora, CO",4685,20,0.979,28.8136,56,8.26086956521739,0.316455696202532
+"Neighborhood","Cory - Merrill","CO","Denver-Aurora, CO",5378,20,0.956989247311828,37.7778,68,10,0.316455696202532
+"Neighborhood","Aurora Highlands","CO","Denver-Aurora, CO",3820,20,1.0063,14.7541,51.5,0.869565217391304,0.316455696202532
+"Neighborhood","Side Creek","CO","Denver-Aurora, CO",5196,20,1.0004,30.7692,47,1.30434782608696,0.316455696202532
+"Neighborhood","Sunnyside","CO","Denver-Aurora, CO",4330,20,0.9932,36.5385,48.5,4.1304347826087,0.316455696202532
+"Neighborhood","Stapleton","CO","Denver-Aurora, CO",5392,20,0.9883,26.3804,60,6.52173913043478,0.316455696202532
+"Neighborhood","Aurora Knolls - Hutchinson Heights","CO","Denver-Aurora, CO",5019,20,0.9866,20,43,2.39130434782609,0.316455696202532
+"Neighborhood","Sloan Lake","CO","Denver-Aurora, CO",4936,20,0.9817,45,59,9.34782608695652,0.316455696202532
+"Neighborhood","East Colfax","CO","Denver-Aurora, CO",4092,20,0.998,29.4118,53,3.91304347826087,0.316455696202532
+"Neighborhood","Westwood","CO","Denver-Aurora, CO",2636,20,0.993039443155452,25.7143,63,5.21739130434783,0.316455696202532
+"Neighborhood","Lowry Field","CO","Denver-Aurora, CO",4706,20,0.9887,40.678,53,7.39130434782609,0.316455696202532
+"Neighborhood","Aurora Hills","CO","Denver-Aurora, CO",5057,20,1.0218,16,48.5,0.434782608695652,0.316455696202532
+"Neighborhood","West Highland","CO","Denver-Aurora, CO",4547,20,0.9871,39.0805,54,8.04347826086956,0.316455696202532
+"Neighborhood","Speer","CO","Denver-Aurora, CO",3895,20,0.9856,36.8421,51,6.73913043478261,0.316455696202532
+"Neighborhood","Washington Park","CO","Denver-Aurora, CO",4989,20,0.9775,33.7838,78,8.91304347826087,0.316455696202532
+"Neighborhood","Cherry Creek","CO","Denver-Aurora, CO",5227,20,0.9701,32.1739,81,8.69565217391304,0.316455696202532
+"Neighborhood","Northeast Park Hill","CO","Denver-Aurora, CO",4786,20,1,23.8095,53,3.04347826086957,0.316455696202532
+"Neighborhood","Union Station","CO","Denver-Aurora, CO",5353,20,0.9854,43.4783,70.5,9.1304347826087,0.316455696202532
+"Neighborhood","Washington Virginia Vale","CO","Denver-Aurora, CO",3328,20,0.9847,26.9841,50.5,5,0.316455696202532
+"Neighborhood","Hampden","CO","Denver-Aurora, CO",1832,20,0.9913,18.8119,52,2.82608695652174,0.316455696202532
+"Neighborhood","Kyle Canyon","NV","Las Vegas-Paradise, NV",3709,27,0.9904,33.6134,80,3.79310344827586,1.45569620253165
+"Neighborhood","Desert Shores","NV","Las Vegas-Paradise, NV",2651,27,0.9788,34.7826,87.5,7.93103448275862,1.45569620253165
+"Neighborhood","Michael Way","NV","Las Vegas-Paradise, NV",605,27,0.9835,33.8323,97,7.58620689655172,1.45569620253165
+"Neighborhood","Rancho Charleston","NV","Las Vegas-Paradise, NV",887,27,0.9828,29.5,89,5.86206896551724,1.45569620253165
+"Neighborhood","Sunrise Manor","NV","Las Vegas-Paradise, NV",82,27,1,27.9359,95,2.41379310344828,1.45569620253165
+"Neighborhood","Centennial Hills","NV","Las Vegas-Paradise, NV",594,27,0.9819,31.484,74.5,4.13793103448276,1.45569620253165
+"Neighborhood","North Cheyenne","NV","Las Vegas-Paradise, NV",793,27,0.9922,30.198,89,3.44827586206897,1.45569620253165
+"Neighborhood","Huntridge","NV","Las Vegas-Paradise, NV",2469,27,0.9774,19.3277,74.5,2.75862068965517,1.45569620253165
+"Neighborhood","Paradise","NV","Las Vegas-Paradise, NV",60,27,0.992,29.1262,80,1.37931034482759,1.45569620253165
+"Neighborhood","Anthem","NV","Las Vegas-Paradise, NV",1582,27,0.9794,42.0195,94,9.31034482758621,1.45569620253165
+"Neighborhood","Valley View","NV","Las Vegas-Paradise, NV",3107,27,0.9975,17.0732,63,0.344827586206897,1.45569620253165
+"Neighborhood","Sun City Summerlin","NV","Las Vegas-Paradise, NV",3552,27,0.9686,45,99,10,1.45569620253165
+"Neighborhood","The Strip","NV","Las Vegas-Paradise, NV",5424,27,0.9375,23.8095,73,4.48275862068965,1.45569620253165
+"Neighborhood","Summerlin South","NV","Las Vegas-Paradise, NV",1017,27,0.974,37.3563,75,6.89655172413793,1.45569620253165
+"Neighborhood","Pioneer Park","NV","Las Vegas-Paradise, NV",2851,27,0.9836,31.9249,61,1.72413793103448,1.45569620253165
+"Neighborhood","East Las Vegas","NV","Las Vegas-Paradise, NV",927,27,0.9884,36.6906,76,5.17241379310345,1.45569620253165
+"Neighborhood","Green Valley North","NV","Las Vegas-Paradise, NV",815,27,0.9854,33.427,81,5.51724137931035,1.45569620253165
+"Neighborhood","Winchester","NV","Las Vegas-Paradise, NV",1267,27,0.9627,29.6748,103,8.96551724137931,1.45569620253165
+"Neighborhood","The Lakes","NV","Las Vegas-Paradise, NV",1026,27,0.9762,33.7176,89.5,8.62068965517241,1.45569620253165
+"Neighborhood","Lone Mountain","NV","Las Vegas-Paradise, NV",582,27,0.9878,39.0424,71.5,4.82758620689655,1.45569620253165
+"Neighborhood","Summerlin North","NV","Las Vegas-Paradise, NV",641,27,0.9826,37.084,76,6.20689655172414,1.45569620253165
+"Neighborhood","Tule Springs","NV","Las Vegas-Paradise, NV",1971,27,0.9811,40.0901,104.5,9.6551724137931,1.45569620253165
+"Neighborhood","Spring Valley","NV","Las Vegas-Paradise, NV",88,27,0.9803,31.1097,71.5,3.10344827586207,1.45569620253165
+"Neighborhood","Enterprise","NV","Las Vegas-Paradise, NV",182,27,0.9844,33.5758,90.5,6.55172413793103,1.45569620253165
+"Neighborhood","Charleston Heights","NV","Las Vegas-Paradise, NV",828,27,0.9958,27.8912,84.5,1.03448275862069,1.45569620253165
+"Neighborhood","Sheep Mountain","NV","Las Vegas-Paradise, NV",1807,27,0.9933,38.4892,120.5,8.27586206896552,1.45569620253165
+"Neighborhood","Green Valley South","NV","Las Vegas-Paradise, NV",1649,27,0.9831,34.5833,91,7.24137931034483,1.45569620253165
+"Neighborhood","West Las Vegas","NV","Las Vegas-Paradise, NV",1669,27,1,25.1613,87.5,0.689655172413793,1.45569620253165
+"Neighborhood","Whitney","NV","Las Vegas-Paradise, NV",916,27,0.9938,31.1579,87.5,2.06896551724138,1.45569620253165
+"Neighborhood","Encino","CA","Los Angeles-Long Beach-Santa Ana, CA",517,2,0.9775,30.1402,65,7.23076923076923,0.886075949367089
+"Neighborhood","Hollywood Hills","CA","Los Angeles-Long Beach-Santa Ana, CA",983,2,0.9772,31.686,82,9.69230769230769,0.886075949367089
+"Neighborhood","The Plaza","CA","Los Angeles-Long Beach-Santa Ana, CA",1950,2,0.9903,34.0659,55,3.84615384615385,0.886075949367089
+"Neighborhood","Canoga Park","CA","Los Angeles-Long Beach-Santa Ana, CA",312,2,0.9929,28.3784,61,2,0.886075949367089
+"Neighborhood","San Pedro","CA","Los Angeles-Long Beach-Santa Ana, CA",339,2,0.9924,36.1868,71.5,6.92307692307692,0.886075949367089
+"Neighborhood","Anaheim Hills","CA","Los Angeles-Long Beach-Santa Ana, CA",742,2,0.9781,29.5374,72,8.30769230769231,0.886075949367089
+"Neighborhood","West Side","CA","Los Angeles-Long Beach-Santa Ana, CA",1098,2,0.9992,21.6667,65.5,1.23076923076923,0.886075949367089
+"Neighborhood","Hollywood","CA","Los Angeles-Long Beach-Santa Ana, CA",117,2,0.9914,28,78.5,6.30769230769231,0.886075949367089
+"Neighborhood","Mid City West","CA","Los Angeles-Long Beach-Santa Ana, CA",659,2,0.9761,30.5785,60,6.61538461538461,0.886075949367089
+"Neighborhood","Arleta","CA","Los Angeles-Long Beach-Santa Ana, CA",796,2,1,27.8481,69,2.15384615384615,0.886075949367089
+"Neighborhood","Northwood","CA","Los Angeles-Long Beach-Santa Ana, CA",1708,2,0.9845,33.0357,63,6.46153846153846,0.886075949367089
+"Neighborhood","Newhall","CA","Los Angeles-Long Beach-Santa Ana, CA",740,2,0.9856,32.3353,75,8,0.886075949367089
+"Neighborhood","Valencia","CA","Los Angeles-Long Beach-Santa Ana, CA",604,2,0.9897,33.0612,64,5.53846153846154,0.886075949367089
+"Neighborhood","Glassell Park","CA","Los Angeles-Long Beach-Santa Ana, CA",1097,2,0.993,24.4681,62,1.38461538461538,0.886075949367089
+"Neighborhood","Mar Vista","CA","Los Angeles-Long Beach-Santa Ana, CA",770,2,0.9923,25.3968,52.5,1.07692307692308,0.886075949367089
+"Neighborhood","Mid Wilshire","CA","Los Angeles-Long Beach-Santa Ana, CA",778,2,0.9929,25.7143,63,1.84615384615385,0.886075949367089
+"Neighborhood","South","CA","Los Angeles-Long Beach-Santa Ana, CA",1515,2,0.9857,30.2013,60,4.76923076923077,0.886075949367089
+"Neighborhood","Eagle Rock","CA","Los Angeles-Long Beach-Santa Ana, CA",1162,2,0.9962,24.6154,51.5,0.307692307692308,0.886075949367089
+"Neighborhood","Valley Village","CA","Los Angeles-Long Beach-Santa Ana, CA",1490,2,0.9941,25.7732,69,2.30769230769231,0.886075949367089
+"Neighborhood","Woodland Hills","CA","Los Angeles-Long Beach-Santa Ana, CA",681,2,0.9845,37.7005,74,9.23076923076923,0.886075949367089
+"Neighborhood","North Hollywood","CA","Los Angeles-Long Beach-Santa Ana, CA",202,2,0.9917,33.0049,62.5,4.92307692307692,0.886075949367089
+"Neighborhood","Pacific Palisades","CA","Los Angeles-Long Beach-Santa Ana, CA",1417,2,0.9797,19.0955,64,4.15384615384615,0.886075949367089
+"Neighborhood","Northridge","CA","Los Angeles-Long Beach-Santa Ana, CA",366,2,0.9817,32.9365,70,8.46153846153846,0.886075949367089
+"Neighborhood","Panorama City","CA","Los Angeles-Long Beach-Santa Ana, CA",416,2,0.9951,27.2727,75,3.53846153846154,0.886075949367089
+"Neighborhood","Studio City","CA","Los Angeles-Long Beach-Santa Ana, CA",788,2,0.9828,37.1528,69,8.61538461538461,0.886075949367089
+"Neighborhood","Westwood","CA","Los Angeles-Long Beach-Santa Ana, CA",551,2,0.9824,21.645,64,4.30769230769231,0.886075949367089
+"Neighborhood","Tarzana","CA","Los Angeles-Long Beach-Santa Ana, CA",1037,2,0.9834,37.7224,78.5,9.38461538461539,0.886075949367089
+"Neighborhood","Winnetka","CA","Los Angeles-Long Beach-Santa Ana, CA",647,2,0.9987,28.4946,76,4.61538461538461,0.886075949367089
+"Neighborhood","North Long Beach","CA","Los Angeles-Long Beach-Santa Ana, CA",245,2,0.9941,25,78,4.46153846153846,0.886075949367089
+"Neighborhood","Lower Peters Canyon","CA","Los Angeles-Long Beach-Santa Ana, CA",1662,2,0.98,46.4286,79.5,10,0.886075949367089
+"Neighborhood","West Park","CA","Los Angeles-Long Beach-Santa Ana, CA",1523,2,0.9775,34.375,63,7.84615384615385,0.886075949367089
+"Neighborhood","Playa Del Rey","CA","Los Angeles-Long Beach-Santa Ana, CA",2541,2,0.9915,31.25,60,3.07692307692308,0.886075949367089
+"Neighborhood","Hyde Park","CA","Los Angeles-Long Beach-Santa Ana, CA",847,2,0.9944,23.1579,81,4,0.886075949367089
+"Neighborhood","Brentwood","CA","Los Angeles-Long Beach-Santa Ana, CA",892,2,0.9854,20.1493,66,3.38461538461538,0.886075949367089
+"Neighborhood","Southeast Los Angeles","CA","Los Angeles-Long Beach-Santa Ana, CA",86,2,1,20.0837,91,2.92307692307692,0.886075949367089
+"Neighborhood","Porter Ranch","CA","Los Angeles-Long Beach-Santa Ana, CA",1678,2,0.9869,34.4444,68.5,7.38461538461539,0.886075949367089
+"Neighborhood","Wrigley","CA","Los Angeles-Long Beach-Santa Ana, CA",1157,2,1,25.4545,72,2.46153846153846,0.886075949367089
+"Neighborhood","Chatsworth","CA","Los Angeles-Long Beach-Santa Ana, CA",837,2,0.9845,36.8421,70.5,8.76923076923077,0.886075949367089
+"Neighborhood","Woodbridge","CA","Los Angeles-Long Beach-Santa Ana, CA",1287,2,0.9766,46.6667,71,9.84615384615385,0.886075949367089
+"Neighborhood","North Hills","CA","Los Angeles-Long Beach-Santa Ana, CA",441,2,0.9907,22.7778,62,1.69230769230769,0.886075949367089
+"Neighborhood","Reseda","CA","Los Angeles-Long Beach-Santa Ana, CA",401,2,0.9885,28.4946,70,5.38461538461539,0.886075949367089
+"Neighborhood","Sylmar","CA","Los Angeles-Long Beach-Santa Ana, CA",323,2,1,30.3419,75,3.69230769230769,0.886075949367089
+"Neighborhood","Silver Lake","CA","Los Angeles-Long Beach-Santa Ana, CA",811,2,1.011,21.6216,58.5,0.153846153846154,0.886075949367089
+"Neighborhood","Mid City","CA","Los Angeles-Long Beach-Santa Ana, CA",210,2,0.982,30.0885,70,7.53846153846154,0.886075949367089
+"Neighborhood","Northwest Anaheim","CA","Los Angeles-Long Beach-Santa Ana, CA",943,2,1,25.5814,74,2.61538461538462,0.886075949367089
+"Neighborhood","Downtown","CA","Los Angeles-Long Beach-Santa Ana, CA",3258,2,0.9822,30.2083,84,9.07692307692308,0.886075949367089
+"Neighborhood","Northeast Anaheim","CA","Los Angeles-Long Beach-Santa Ana, CA",589,2,0.9922,31.0345,71.5,5.84615384615385,0.886075949367089
+"Neighborhood","Westchester","CA","Los Angeles-Long Beach-Santa Ana, CA",841,2,1.0102,30.5263,52,0.461538461538462,0.886075949367089
+"Neighborhood","South Los Angeles","CA","Los Angeles-Long Beach-Santa Ana, CA",73,2,1,20.4545,86,2.76923076923077,0.886075949367089
+"Neighborhood","Sherman Oaks","CA","Los Angeles-Long Beach-Santa Ana, CA",76,2,0.9878,33.5907,68.5,6.76923076923077,0.886075949367089
+"Neighborhood","Sunland","CA","Los Angeles-Long Beach-Santa Ana, CA",1502,2,1.0069,27.619,59,0.769230769230769,0.886075949367089
+"Neighborhood","Canyon Country","CA","Los Angeles-Long Beach-Santa Ana, CA",739,2,0.9937,32.2176,64,3.23076923076923,0.886075949367089
+"Neighborhood","Los Feliz","CA","Los Angeles-Long Beach-Santa Ana, CA",1164,2,0.974,32.967,57,7.07692307692308,0.886075949367089
+"Neighborhood","West Hills","CA","Los Angeles-Long Beach-Santa Ana, CA",929,2,0.986,41.3636,68,8.15384615384615,0.886075949367089
+"Neighborhood","El Sereno","CA","Los Angeles-Long Beach-Santa Ana, CA",693,2,0.9936,37.1429,79,7.69230769230769,0.886075949367089
+"Neighborhood","Del Rey","CA","Los Angeles-Long Beach-Santa Ana, CA",940,2,0.992,18.2692,55,0.615384615384615,0.886075949367089
+"Neighborhood","Venice","CA","Los Angeles-Long Beach-Santa Ana, CA",829,2,0.9854,21.1009,79.5,6.15384615384615,0.886075949367089
+"Neighborhood","Crenshaw","CA","Los Angeles-Long Beach-Santa Ana, CA",790,2,0.9872,30.6667,69,6,0.886075949367089
+"Neighborhood","The Colony","CA","Los Angeles-Long Beach-Santa Ana, CA",980,2,0.9796,32.8571,83.5,9.53846153846154,0.886075949367089
+"Neighborhood","Southwest Anaheim","CA","Los Angeles-Long Beach-Santa Ana, CA",633,2,0.9894,28.7037,69,5.23076923076923,0.886075949367089
+"Neighborhood","West Anaheim","CA","Los Angeles-Long Beach-Santa Ana, CA",370,2,0.9789,32.2314,72,8.92307692307692,0.886075949367089
+"Neighborhood","Sun Valley","CA","Los Angeles-Long Beach-Santa Ana, CA",264,2,0.991,29.5699,66,5.07692307692308,0.886075949367089
+"Neighborhood","Granada Hills","CA","Los Angeles-Long Beach-Santa Ana, CA",598,2,0.9875,30.1802,67.5,5.69230769230769,0.886075949367089
+"Neighborhood","Pacoima","CA","Los Angeles-Long Beach-Santa Ana, CA",333,2,1.001,24.3697,63.5,0.923076923076923,0.886075949367089
+"Neighborhood","Saugus","CA","Los Angeles-Long Beach-Santa Ana, CA",1016,2,0.9961,29.8429,60.5,1.53846153846154,0.886075949367089
+"Neighborhood","Hickory Ridge-South Riverdale","TN","Memphis, TN-MS-AR",414,36,0.9824,32.4201,91.5,5,3.35443037974684
+"Neighborhood","East Memphis-Colonial-Yorkshire","TN","Memphis, TN-MS-AR",190,36,0.9608,39.7985,87,8,3.35443037974684
+"Neighborhood","Midtown","TN","Memphis, TN-MS-AR",404,36,0.9706,34.6278,87,6,3.35443037974684
+"Neighborhood","Cordova-Appling","TN","Memphis, TN-MS-AR",379,36,0.97,30.1031,85,4,3.35443037974684
+"Neighborhood","Raleigh","TN","Memphis, TN-MS-AR",497,36,0.9649,26.4516,108,7,3.35443037974684
+"Neighborhood","Shelby Forest-Frayser","TN","Memphis, TN-MS-AR",872,36,0.9574,27.3632,111.5,9,3.35443037974684
+"Neighborhood","White Haven-Coro Lake","TN","Memphis, TN-MS-AR",253,36,0.9596,26.5306,78,3,3.35443037974684
+"Neighborhood","Parkway Village-Oakhaven","TN","Memphis, TN-MS-AR",763,36,1.0723,19.4595,84.5,1,3.35443037974684
+"Neighborhood","Berclair-Highland Heights","TN","Memphis, TN-MS-AR",907,36,0.9691,27.2727,60.5,2,3.35443037974684
+"Neighborhood","River Oaks-Kirby-Balmoral","TN","Memphis, TN-MS-AR",757,36,0.9565,38.8889,115,10,3.35443037974684
+"Neighborhood","Downtown","FL","Miami-Fort Lauderdale-Pompano Beach, FL",3065,7,0.957,26.4211,179,9.2,6.20253164556962
+"Neighborhood","Villages of Palm Beach Lakes","FL","Miami-Fort Lauderdale-Pompano Beach, FL",2913,7,0.9587,39.3064,92,3.6,6.20253164556962
+"Neighborhood","Upper Eastside","FL","Miami-Fort Lauderdale-Pompano Beach, FL",3034,7,0.9438,16.1702,157,8,6.20253164556962
+"Neighborhood","Hollywood Lakes","FL","Miami-Fort Lauderdale-Pompano Beach, FL",NA,7,0.9625,38.1625,139,8.8,6.20253164556962
+"Neighborhood","North-East Coconut Grove","FL","Miami-Fort Lauderdale-Pompano Beach, FL",3701,7,0.9483,25.9259,130,7.6,6.20253164556962
+"Neighborhood","Brickell","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1150,7,0.958,29.2142,140.5,7.2,6.20253164556962
+"Neighborhood","Water Catchment Area","FL","Miami-Fort Lauderdale-Pompano Beach, FL",4482,7,0.9646,39.6947,95.5,3.2,6.20253164556962
+"Neighborhood","Downtown","FL","Miami-Fort Lauderdale-Pompano Beach, FL",5373,7,0.9543,26.3636,117.5,5.6,6.20253164556962
+"Neighborhood","Alameda - West Flagler","FL","Miami-Fort Lauderdale-Pompano Beach, FL",667,7,0.9762,26.455,92,0.8,6.20253164556962
+"Neighborhood","Coral Way","FL","Miami-Fort Lauderdale-Pompano Beach, FL",771,7,0.9578,33.0097,118,6.4,6.20253164556962
+"Neighborhood","Liberty City","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1437,7,0.9926,26.5306,106.5,1.2,6.20253164556962
+"Neighborhood","Driftwood","FL","Miami-Fort Lauderdale-Pompano Beach, FL",NA,7,0.97,20.6186,79,0.4,6.20253164556962
+"Neighborhood","North Shore","FL","Miami-Fort Lauderdale-Pompano Beach, FL",NA,7,0.9541,25.4808,110,4,6.20253164556962
+"Neighborhood","Imperial Point","FL","Miami-Fort Lauderdale-Pompano Beach, FL",5129,7,0.9713,42.7273,93,2,6.20253164556962
+"Neighborhood","Flamingo Lummus","FL","Miami-Fort Lauderdale-Pompano Beach, FL",2836,7,0.948,24.6828,128,6.8,6.20253164556962
+"Neighborhood","Victoria Park","FL","Miami-Fort Lauderdale-Pompano Beach, FL",5029,7,0.9574,36.1111,94,5.2,6.20253164556962
+"Neighborhood","Oceanfront","FL","Miami-Fort Lauderdale-Pompano Beach, FL",NA,7,0.9622,25.0474,130,2.8,6.20253164556962
+"Neighborhood","Wynwood - Edgewater","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1892,7,0.9539,22.3944,137,6,6.20253164556962
+"Neighborhood","Hollywood Hills","FL","Miami-Fort Lauderdale-Pompano Beach, FL",NA,7,0.9608,35.533,105,4.8,6.20253164556962
+"Neighborhood","Flagami","FL","Miami-Fort Lauderdale-Pompano Beach, FL",564,7,0.9676,27.3504,95.5,1.6,6.20253164556962
+"Neighborhood","Central Beach Alliance","FL","Miami-Fort Lauderdale-Pompano Beach, FL",5372,7,0.9399,23.301,157,9.6,6.20253164556962
+"Neighborhood","South Central Beach","FL","Miami-Fort Lauderdale-Pompano Beach, FL",NA,7,0.952,26.3158,133,8.4,6.20253164556962
+"Neighborhood","South Middle River","FL","Miami-Fort Lauderdale-Pompano Beach, FL",4709,7,0.9632,42.5743,103.5,4.4,6.20253164556962
+"Neighborhood","Galt Mile","FL","Miami-Fort Lauderdale-Pompano Beach, FL",5275,7,0.9327,27.7533,157,10,6.20253164556962
+"Neighborhood","North Central","FL","Miami-Fort Lauderdale-Pompano Beach, FL",NA,7,0.9527,27.8195,86,2.4,6.20253164556962
+"Neighborhood","Chelsea","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",651,1,0.9822,14.4097,123.5,2.60869565217391,7.78481012658228
+"Neighborhood","The Heights","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",519,1,0.9597,24.3243,123.5,6.95652173913043,7.78481012658228
+"Neighborhood","Tudor City","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",2599,1,0.9879,21.3439,129.5,4.78260869565217,7.78481012658228
+"Neighborhood","Upper West Side","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",71,1,0.9942,19.3683,129,3.47826086956522,7.78481012658228
+"Neighborhood","Upper East Side","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",80,1,0.9862,23.4579,143,6.52173913043478,7.78481012658228
+"Neighborhood","Fort Hamilton","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",1137,1,0.9537,21.0843,154,9.1304347826087,7.78481012658228
+"Neighborhood","Jamaica","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",154,1,0.9507,16.1826,156,8.69565217391304,7.78481012658228
+"Neighborhood","Whitestone","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",949,1,0.972622478386167,28.7582,157,9.56521739130435,7.78481012658228
+"Neighborhood","Sutton Place","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",1587,1,0.9865,24.4389,157,7.39130434782609,7.78481012658228
+"Neighborhood","Gramercy","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",507,1,0.9866,18.0929,123,3.04347826086957,7.78481012658228
+"Neighborhood","Park Slope","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",467,1,1.0108,17.2589,121,1.30434782608696,7.78481012658228
+"Neighborhood","Brooklyn Heights","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",1643,1,1.0327,14.3836,121,0.434782608695652,7.78481012658228
+"Neighborhood","Financial District","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",1079,1,0.9664,13.3013,146,5.21739130434783,7.78481012658228
+"Neighborhood","Queens Village","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",559,1,0.963060686015831,17.0455,136,6.08695652173913,7.78481012658228
+"Neighborhood","Greenwich Village","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",694,1,0.9968,15.0476,128,1.73913043478261,7.78481012658228
+"Neighborhood","Forest Hills","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",372,1,0.9726,19.0476,166,8.26086956521739,7.78481012658228
+"Neighborhood","Downtown","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",992,1,0.9958,25.9887,98,2.17391304347826,7.78481012658228
+"Neighborhood","Washington Heights","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",104,1,0.9866,14.0741,145,3.91304347826087,7.78481012658228
+"Neighborhood","Williamsburg","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",120,1,0.9993,16.0448,111.5,0.869565217391304,7.78481012658228
+"Neighborhood","Sheepshead Bay","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",345,1,0.9363,21.4437,189.5,10,7.78481012658228
+"Neighborhood","Turtle Bay","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",1969,1,0.9818,19.7889,139,5.65217391304348,7.78481012658228
+"Neighborhood","Battery Park","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",3843,1,0.958333333333333,19.5313,141.5,7.82608695652174,7.78481012658228
+"Neighborhood","Jackson Heights","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",384,1,1.014,12.1019,180,4.34782608695652,7.78481012658228
+"Neighborhood","East Falls","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",4239,5,0.96,45.2174,109,5.52631578947368,8.60759493670886
+"Neighborhood","Frankford","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",762,5,0.9293,43.4579,103,6.31578947368421,8.60759493670886
+"Neighborhood","West Oak Lane","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",987,5,0.97,56.1404,103,4.73684210526316,8.60759493670886
+"Neighborhood","Juniata Park-Feltonville","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",985,5,0.9265,41.358,89.5,3.15789473684211,8.60759493670886
+"Neighborhood","Pennsport-Whitman-Queen","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1123,5,0.9499,49.8113,114,8.68421052631579,8.60759493670886
+"Neighborhood","Haddington-Carroll Park","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1122,5,0.9343,38.5093,100,3.68421052631579,8.60759493670886
+"Neighborhood","Academy Gardens","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1197,5,0.9729,50,118.5,7.36842105263158,8.60759493670886
+"Neighborhood","Holmesburg-Torresdale","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",923,5,0.9496,53.125,103,8.1578947368421,8.60759493670886
+"Neighborhood","Rhawnhurst","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1124,5,0.9642,43.617,97.5,0.789473684210526,8.60759493670886
+"Neighborhood","Mayfair","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",926,5,0.96,54.9223,99,5.26315789473684,8.60759493670886
+"Neighborhood","Germantown","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1458,5,0.8545,46,102,8.42105263157895,8.60759493670886
+"Neighborhood","Cedarbrook","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1887,5,0.9608,57.7982,77,2.36842105263158,8.60759493670886
+"Neighborhood","Oxford Circle","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",479,5,0.9489,42.1277,93,2.63157894736842,8.60759493670886
+"Neighborhood","Somerton","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1007,5,0.9641,55.1402,104,7.10526315789474,8.60759493670886
+"Neighborhood","Kensington","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2955,5,0.9682,44.8485,82.5,0.526315789473684,8.60759493670886
+"Neighborhood","Richmond","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",716,5,0.9574,39.4737,103.5,2.10526315789474,8.60759493670886
+"Neighborhood","Schuylkill Southwest","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3646,5,0.9776,47.6923,80,0.263157894736842,8.60759493670886
+"Neighborhood","Grays Ferry","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2402,5,0.9256,34.8214,96,1.84210526315789,8.60759493670886
+"Neighborhood","Torresdale","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",989,5,0.9604,60.3896,105.5,7.63157894736842,8.60759493670886
+"Neighborhood","Lawncrest","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",782,5,0.9207,45.5959,111.5,8.94736842105263,8.60759493670886
+"Neighborhood","Point Breeze","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1347,5,0.9487,40.9692,98,3.42105263157895,8.60759493670886
+"Neighborhood","Wharton-Hawthorne-Bella Vista","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1146,5,0.9509,54.7826,97,6.05263157894737,8.60759493670886
+"Neighborhood","Fairmount-Spring Garden","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1520,5,0.9742,52.551,110,5,8.60759493670886
+"Neighborhood","Overbrook","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1048,5,0.9552,47.9042,106,6.84210526315789,8.60759493670886
+"Neighborhood","Tacony","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3217,5,0.9409,48.8372,126.5,9.73684210526316,8.60759493670886
+"Neighborhood","Fox Chase","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1456,5,0.9669,49.4949,97.5,1.57894736842105,8.60759493670886
+"Neighborhood","Roxborough","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1052,5,0.9656,51.3514,110.5,6.57894736842105,8.60759493670886
+"Neighborhood","Cobbs Creek","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",919,5,0.8881,45,112.5,9.47368421052632,8.60759493670886
+"Neighborhood","East Germantown","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1574,5,0.893,36,101.5,4.47368421052632,8.60759493670886
+"Neighborhood","Wissinoming","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2907,5,0.918,47.3684,113.5,10,8.60759493670886
+"Neighborhood","Byberry","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2157,5,0.99,63.1068,109,5.78947368421053,8.60759493670886
+"Neighborhood","South Philadelphia","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1382,5,0.9499,44.7674,114.5,7.89473684210526,8.60759493670886
+"Neighborhood","Center City West","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1014,5,0.9644,40.9556,112,2.89473684210526,8.60759493670886
+"Neighborhood","Bustleton","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",941,5,0.9514,60.5839,114,9.21052631578947,8.60759493670886
+"Neighborhood","Elmwood","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1119,5,0.9187,25.6944,85,1.05263157894737,8.60759493670886
+"Neighborhood","Girard Estates","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1603,5,0.9362,41.2903,102,4.21052631578947,8.60759493670886
+"Neighborhood","East Mount Airy","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2055,5,0.9547,39.5161,100,1.31578947368421,8.60759493670886
+"Neighborhood","Fishtown","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2475,5,0.959,44.2982,103,3.94736842105263,8.60759493670886
+"Neighborhood","Central City","AZ","Phoenix-Mesa-Scottsdale, AZ",505,13,0.9827,36.9942,94.5,3.04347826086957,4.49367088607595
+"Neighborhood","Desert View","AZ","Phoenix-Mesa-Scottsdale, AZ",702,13,0.976,44.6774,88,6.52173913043478,4.49367088607595
+"Neighborhood","South Mountain","AZ","Phoenix-Mesa-Scottsdale, AZ",180,13,0.9957,37.9928,75,1.30434782608696,4.49367088607595
+"Neighborhood","Deer Valley","AZ","Phoenix-Mesa-Scottsdale, AZ",95,13,0.9815,45,70,2.60869565217391,4.49367088607595
+"Neighborhood","Power Ranch","AZ","Phoenix-Mesa-Scottsdale, AZ",3912,13,0.9823,50.9259,76.5,3.47826086956522,4.49367088607595
+"Neighborhood","Alahambra","AZ","Phoenix-Mesa-Scottsdale, AZ",142,13,0.9802,43.2153,83,4.34782608695652,4.49367088607595
+"Neighborhood","Pinnacle Peak","AZ","Phoenix-Mesa-Scottsdale, AZ",3318,13,0.9635,30.5958,141,8.69565217391304,4.49367088607595
+"Neighborhood","North Scottsdale","AZ","Phoenix-Mesa-Scottsdale, AZ",159,13,0.9691,42.6593,119,9.56521739130435,4.49367088607595
+"Neighborhood","San Tan Ranch","AZ","Phoenix-Mesa-Scottsdale, AZ",5223,13,0.981651376146789,42.1053,59,1.73913043478261,4.49367088607595
+"Neighborhood","Seville","AZ","Phoenix-Mesa-Scottsdale, AZ",5269,13,0.9677,61.9048,97,10,4.49367088607595
+"Neighborhood","North Gateway","AZ","Phoenix-Mesa-Scottsdale, AZ",2934,13,0.973,47.2843,88,8.26086956521739,4.49367088607595
+"Neighborhood","Laveen","AZ","Phoenix-Mesa-Scottsdale, AZ",800,13,0.9871,38.9755,85,2.17391304347826,4.49367088607595
+"Neighborhood","North Mountain","AZ","Phoenix-Mesa-Scottsdale, AZ",103,13,0.9752,42.8737,80,4.78260869565217,4.49367088607595
+"Neighborhood","Alta Mesa","AZ","Phoenix-Mesa-Scottsdale, AZ",5136,13,0.980769230769231,39.4737,89.5,3.91304347826087,4.49367088607595
+"Neighborhood","Sun Lakes","AZ","Phoenix-Mesa-Scottsdale, AZ",2714,13,0.9727,41.2955,87,7.39130434782609,4.49367088607595
+"Neighborhood","Camelback East","AZ","Phoenix-Mesa-Scottsdale, AZ",129,13,0.9616,45.6204,84.5,9.1304347826087,4.49367088607595
+"Neighborhood","Maryvale","AZ","Phoenix-Mesa-Scottsdale, AZ",70,13,0.9981,34.3305,70,0.434782608695652,4.49367088607595
+"Neighborhood","Paradise Valley","AZ","Phoenix-Mesa-Scottsdale, AZ",96,13,0.9747,48.1865,80,6.08695652173913,4.49367088607595
+"Neighborhood","Estrella","AZ","Phoenix-Mesa-Scottsdale, AZ",307,13,0.9888,32.7456,76,0.869565217391304,4.49367088607595
+"Neighborhood","Fountain of the Sun","AZ","Phoenix-Mesa-Scottsdale, AZ",5417,13,0.9664,26.25,90.5,6.95652173913043,4.49367088607595
+"Neighborhood","Encanto","AZ","Phoenix-Mesa-Scottsdale, AZ",537,13,0.9746,46.2766,76,5.21739130434783,4.49367088607595
+"Neighborhood","South Scottsdale","AZ","Phoenix-Mesa-Scottsdale, AZ",277,13,0.9696,42.3295,87,7.82608695652174,4.49367088607595
+"Neighborhood","Ahwatukee Foothills","AZ","Phoenix-Mesa-Scottsdale, AZ",327,13,0.9785,50.541,78,5.65217391304348,4.49367088607595
+"Neighborhood","Portsmouth","OR","Portland-Vancouver-Beaverton, OR-WA",4269,22,1,37.2549,56,3.52941176470588,1.70886075949367
+"Neighborhood","Mount Tabor","OR","Portland-Vancouver-Beaverton, OR-WA",4115,22,0.9807,42.5,52,7.05882352941176,1.70886075949367
+"Neighborhood","Hazelwood","OR","Portland-Vancouver-Beaverton, OR-WA",1443,22,1,47.5728,60,5.29411764705882,1.70886075949367
+"Neighborhood","Pleasant Valley","OR","Portland-Vancouver-Beaverton, OR-WA",3786,22,0.9873,37.5,88,8.82352941176471,1.70886075949367
+"Neighborhood","Montavilla","OR","Portland-Vancouver-Beaverton, OR-WA",2546,22,0.9983,37.931,49,2.35294117647059,1.70886075949367
+"Neighborhood","Sexton Mountain","OR","Portland-Vancouver-Beaverton, OR-WA",4948,22,0.9897,35.5932,64,6.47058823529412,1.70886075949367
+"Neighborhood","St.Johns","OR","Portland-Vancouver-Beaverton, OR-WA",2977,22,0.9961,29.8507,56,2.94117647058824,1.70886075949367
+"Neighborhood","Hillsdale","OR","Portland-Vancouver-Beaverton, OR-WA",4973,22,0.9922,45.8333,53,5.88235294117647,1.70886075949367
+"Neighborhood","Rose City Park","OR","Portland-Vancouver-Beaverton, OR-WA",4399,22,0.9889,40.4762,45,4.11764705882353,1.70886075949367
+"Neighborhood","Brentwood-Darlington","OR","Portland-Vancouver-Beaverton, OR-WA",3312,22,0.9928,36.8421,54,4.70588235294118,1.70886075949367
+"Neighborhood","Centennial","OR","Portland-Vancouver-Beaverton, OR-WA",1494,22,0.9954,46.1538,63.5,7.64705882352941,1.70886075949367
+"Neighborhood","Northwest Heights","OR","Portland-Vancouver-Beaverton, OR-WA",5330,22,0.9766,38.9474,82,10,1.70886075949367
+"Neighborhood","Lents","OR","Portland-Vancouver-Beaverton, OR-WA",1793,22,0.992,45.1613,61,8.23529411764706,1.70886075949367
+"Neighborhood","Kenton","OR","Portland-Vancouver-Beaverton, OR-WA",4825,22,0.9995,32.1429,49,1.17647058823529,1.70886075949367
+"Neighborhood","Woodstock","OR","Portland-Vancouver-Beaverton, OR-WA",4485,22,1.0082,37.8378,44,0.588235294117647,1.70886075949367
+"Neighborhood","Powellhurst Gilbert","OR","Portland-Vancouver-Beaverton, OR-WA",1338,22,0.983,40.6015,77,9.41176470588235,1.70886075949367
+"Neighborhood","Cully","OR","Portland-Vancouver-Beaverton, OR-WA",3250,22,1,27.6923,58,1.76470588235294,1.70886075949367
+"Neighborhood","Canyon Crest","CA","Riverside-San Bernardino-Ontario, CA",2634,12,0.9879,42.3423,69,7,1.39240506329114
+"Neighborhood","Orangecrest","CA","Riverside-San Bernardino-Ontario, CA",1736,12,0.9979,33.0709,62,4,1.39240506329114
+"Neighborhood","Sierra del Oro","CA","Riverside-San Bernardino-Ontario, CA",4604,12,0.973534971644612,45.7143,71.5,10,1.39240506329114
+"Neighborhood","South Corona","CA","Riverside-San Bernardino-Ontario, CA",976,12,0.9883,41.2955,75,8,1.39240506329114
+"Neighborhood","La Sierra","CA","Riverside-San Bernardino-Ontario, CA",902,12,0.9811,28.9655,62,6,1.39240506329114
+"Neighborhood","Ramona","CA","Riverside-San Bernardino-Ontario, CA",1235,12,1.0001,28.5714,57.5,2,1.39240506329114
+"Neighborhood","Yerdemont","CA","Riverside-San Bernardino-Ontario, CA",4634,12,1.00033344448149,25.7576,58,1,1.39240506329114
+"Neighborhood","Magnolia Center","CA","Riverside-San Bernardino-Ontario, CA",3087,12,1,36.6667,61,3,1.39240506329114
+"Neighborhood","DRNAG","CA","Riverside-San Bernardino-Ontario, CA",2259,12,0.9973,29.6296,69.5,5,1.39240506329114
+"Neighborhood","Trilogy","CA","Riverside-San Bernardino-Ontario, CA",5404,12,0.9894,44.7619,93,9,1.39240506329114
+"Neighborhood","Bay Terraces","CA","San Diego-Carlsbad-San Marcos, CA",1005,16,1,30.1075,57,0.32258064516129,3.10126582278481
+"Neighborhood","Eastlake Greens","CA","San Diego-Carlsbad-San Marcos, CA",4281,16,0.989,23.913,67,0.967741935483871,3.10126582278481
+"Neighborhood","San Carlos","CA","San Diego-Carlsbad-San Marcos, CA",3399,16,0.9814,41.7722,70,7.74193548387097,3.10126582278481
+"Neighborhood","Grantville","CA","San Diego-Carlsbad-San Marcos, CA",4672,16,0.98828125,42.2222,69.5,5.48387096774194,3.10126582278481
+"Neighborhood","Sabre Springs","CA","San Diego-Carlsbad-San Marcos, CA",4116,16,0.9819,51.2821,66,7.41935483870968,3.10126582278481
+"Neighborhood","Otay Ranch","CA","San Diego-Carlsbad-San Marcos, CA",1397,16,0.9874,35.7955,61,1.29032258064516,3.10126582278481
+"Neighborhood","La Jolla","CA","San Diego-Carlsbad-San Marcos, CA",1010,16,0.9658,32.8571,82,9.67741935483871,3.10126582278481
+"Neighborhood","Northwest","CA","San Diego-Carlsbad-San Marcos, CA",542,16,0.9789,31.7073,66,4.19354838709677,3.10126582278481
+"Neighborhood","University City","CA","San Diego-Carlsbad-San Marcos, CA",635,16,0.9711,39.4231,62.5,9.35483870967742,3.10126582278481
+"Neighborhood","Otay Mesa West","CA","San Diego-Carlsbad-San Marcos, CA",991,16,0.979989738327347,27.7778,67,2.58064516129032,3.10126582278481
+"Neighborhood","College West","CA","San Diego-Carlsbad-San Marcos, CA",4326,16,0.9829,49.0566,61,4.83870967741935,3.10126582278481
+"Neighborhood","Pacific Beach","CA","San Diego-Carlsbad-San Marcos, CA",1034,16,0.9814,35.0365,69,3.87096774193548,3.10126582278481
+"Neighborhood","Hillcrest","CA","San Diego-Carlsbad-San Marcos, CA",2986,16,0.9892,40.566,55,0.645161290322581,3.10126582278481
+"Neighborhood","Carmel Valley","CA","San Diego-Carlsbad-San Marcos, CA",724,16,0.9782,38.0531,62,7.09677419354839,3.10126582278481
+"Neighborhood","Bay Ho","CA","San Diego-Carlsbad-San Marcos, CA",3574,16,0.979,37.2549,59,2.90322580645161,3.10126582278481
+"Neighborhood","Scripps Ranch","CA","San Diego-Carlsbad-San Marcos, CA",1767,16,0.9819,36.3636,62.5,2.25806451612903,3.10126582278481
+"Neighborhood","Mira Mesa","CA","San Diego-Carlsbad-San Marcos, CA",403,16,0.9818,41.9811,60,3.2258064516129,3.10126582278481
+"Neighborhood","Serra Mesa","CA","San Diego-Carlsbad-San Marcos, CA",1560,16,0.9774,40.4494,54,4.51612903225806,3.10126582278481
+"Neighborhood","Tierrasanta","CA","San Diego-Carlsbad-San Marcos, CA",1108,16,0.9768,50.5618,59,8.70967741935484,3.10126582278481
+"Neighborhood","Southwest","CA","San Diego-Carlsbad-San Marcos, CA",365,16,0.9932,37.5661,65,1.61290322580645,3.10126582278481
+"Neighborhood","Point Loma Heights","CA","San Diego-Carlsbad-San Marcos, CA",2102,16,0.9743,29.8077,81,9.03225806451613,3.10126582278481
+"Neighborhood","Mission Valley East","CA","San Diego-Carlsbad-San Marcos, CA",4173,16,0.9759,44.7368,68,10,3.10126582278481
+"Neighborhood","Rancho Penasquitos","CA","San Diego-Carlsbad-San Marcos, CA",642,16,0.9786,39.5722,61,5.16129032258065,3.10126582278481
+"Neighborhood","Lake Murray","CA","San Diego-Carlsbad-San Marcos, CA",2275,16,0.9744,32.2034,61,5.80645161290323,3.10126582278481
+"Neighborhood","Ocean Crest","CA","San Diego-Carlsbad-San Marcos, CA",4048,16,0.9807,34.2857,60,1.93548387096774,3.10126582278481
+"Neighborhood","Linda Vista","CA","San Diego-Carlsbad-San Marcos, CA",1411,16,0.9762,35.8491,70,8.38709677419355,3.10126582278481
+"Neighborhood","Clairemont Mesa East","CA","San Diego-Carlsbad-San Marcos, CA",1221,16,0.9742,37.0968,57.5,6.7741935483871,3.10126582278481
+"Neighborhood","Bay Park","CA","San Diego-Carlsbad-San Marcos, CA",2559,16,0.9768,38.9831,66,8.06451612903226,3.10126582278481
+"Neighborhood","Encanto","CA","San Diego-Carlsbad-San Marcos, CA",2518,16,0.9792,39.6552,60,3.54838709677419,3.10126582278481
+"Neighborhood","North Park","CA","San Diego-Carlsbad-San Marcos, CA",809,16,0.9783,42.8571,58.5,6.45161290322581,3.10126582278481
+"Neighborhood","Rancho Bernardo","CA","San Diego-Carlsbad-San Marcos, CA",738,16,0.9786,37.8981,64.5,6.12903225806452,3.10126582278481
+"Neighborhood","Berryessa","CA","San Jose-Sunnyvale-Santa Clara, CA",839,28,1.0054,17.9487,43,2.66666666666667,0.0632911392405063
+"Neighborhood","Almaden Valley","CA","San Jose-Sunnyvale-Santa Clara, CA",701,28,1.015,25,39,3.33333333333333,0.0632911392405063
+"Neighborhood","West San Jose","CA","San Jose-Sunnyvale-Santa Clara, CA",226,28,1.0221,11.6071,38,1.33333333333333,0.0632911392405063
+"Neighborhood","Evergreen","CA","San Jose-Sunnyvale-Santa Clara, CA",337,28,0.998,24.186,48,9.33333333333333,0.0632911392405063
+"Neighborhood","North Valley","CA","San Jose-Sunnyvale-Santa Clara, CA",340,28,1.0041,25,46,8,0.0632911392405063
+"Neighborhood","Ponderosa","CA","San Jose-Sunnyvale-Santa Clara, CA",NA,28,1.1032,2.7778,35,0.666666666666667,0.0632911392405063
+"Neighborhood","Cambrian Park","CA","San Jose-Sunnyvale-Santa Clara, CA",406,28,1.0314,21.118,40,2,0.0632911392405063
+"Neighborhood","Santa Teresa","CA","San Jose-Sunnyvale-Santa Clara, CA",610,28,1.0037,18.543,47,5.33333333333333,0.0632911392405063
+"Neighborhood","Willow Glen","CA","San Jose-Sunnyvale-Santa Clara, CA",347,28,1.0004,23.1156,44,7.33333333333333,0.0632911392405063
+"Neighborhood","Fairgrounds","CA","San Jose-Sunnyvale-Santa Clara, CA",595,28,1.0044,19.1304,51.5,6,0.0632911392405063
+"Neighborhood","East San Jose","CA","San Jose-Sunnyvale-Santa Clara, CA",173,28,1.0029,22.6316,54,8.66666666666667,0.0632911392405063
+"Neighborhood","Blossom Valley","CA","San Jose-Sunnyvale-Santa Clara, CA",380,28,1.0001,20.8738,42,6.66666666666667,0.0632911392405063
+"Neighborhood","Alum Rock-East Foothills","CA","San Jose-Sunnyvale-Santa Clara, CA",1086,28,1.0052,17.2414,52,4,0.0632911392405063
+"Neighborhood","Rose Garden","CA","San Jose-Sunnyvale-Santa Clara, CA",3283,28,1.0152,30,41,4.66666666666667,0.0632911392405063
+"Neighborhood","Downtown","CA","San Jose-Sunnyvale-Santa Clara, CA",324,28,0.9977,28.8991,46,10,0.0632911392405063
+"Neighborhood","Somerset","WA","Seattle-Tacoma-Bellevue, WA",3135,14,1,28.125,47,2.14285714285714,0.949367088607595
+"Neighborhood","Lea Hill","WA","Seattle-Tacoma-Bellevue, WA",3189,14,1,27.5862,75,4.28571428571429,0.949367088607595
+"Neighborhood","South Tacoma","WA","Seattle-Tacoma-Bellevue, WA",1271,14,0.9907,36.9565,93.5,8.92857142857143,0.949367088607595
+"Neighborhood","Alderwood Manor","WA","Seattle-Tacoma-Bellevue, WA",2162,14,0.9991,34.3434,58,5,0.949367088607595
+"Neighborhood","Ravenna","WA","Seattle-Tacoma-Bellevue, WA",3702,14,1.0011,24.3243,41,0.357142857142857,0.949367088607595
+"Neighborhood","Haller Lake","WA","Seattle-Tacoma-Bellevue, WA",4641,14,1,13.5593,49,0.714285714285714,0.949367088607595
+"Neighborhood","Finn Hill","WA","Seattle-Tacoma-Bellevue, WA",2937,14,0.9958,46.789,48.5,5.71428571428571,0.949367088607595
+"Neighborhood","East Ballard","WA","Seattle-Tacoma-Bellevue, WA",4887,14,1,29.0323,37,1.42857142857143,0.949367088607595
+"Neighborhood","Leschi","WA","Seattle-Tacoma-Bellevue, WA",5280,14,0.991,18.1818,61.5,4.64285714285714,0.949367088607595
+"Neighborhood","West End","WA","Seattle-Tacoma-Bellevue, WA",1092,14,0.9833,36.0465,74,9.64285714285714,0.949367088607595
+"Neighborhood","Central","WA","Seattle-Tacoma-Bellevue, WA",1706,14,0.9853,35.1648,91,9.28571428571429,0.949367088607595
+"Neighborhood","Capitol Hill","WA","Seattle-Tacoma-Bellevue, WA",1040,14,1,26.4706,46,1.07142857142857,0.949367088607595
+"Neighborhood","Northeast Tacoma","WA","Seattle-Tacoma-Bellevue, WA",2356,14,0.9912,45.3846,72,8.57142857142857,0.949367088607595
+"Neighborhood","Junction","WA","Seattle-Tacoma-Bellevue, WA",5168,14,0.989717223650386,24.1379,41,3.21428571428571,0.949367088607595
+"Neighborhood","Belltown","WA","Seattle-Tacoma-Bellevue, WA",4416,14,0.9843,36.9048,51.5,7.85714285714286,0.949367088607595
+"Neighborhood","North End","WA","Seattle-Tacoma-Bellevue, WA",1319,14,0.9836,49.5192,75,10,0.949367088607595
+"Neighborhood","Fremont","WA","Seattle-Tacoma-Bellevue, WA",3615,14,0.9926,28.8889,39,2.5,0.949367088607595
+"Neighborhood","Beacon Hill","WA","Seattle-Tacoma-Bellevue, WA",3404,14,0.9937,24.4898,47,2.85714285714286,0.949367088607595
+"Neighborhood","Greenwood","WA","Seattle-Tacoma-Bellevue, WA",2507,14,1,31.25,44,1.78571428571429,0.949367088607595
+"Neighborhood","New Tacoma","WA","Seattle-Tacoma-Bellevue, WA",2839,14,0.992786293958521,30.8642,125,7.14285714285714,0.949367088607595
+"Neighborhood","Gatewood","WA","Seattle-Tacoma-Bellevue, WA",5097,14,0.986072423398329,31.4286,45.5,5.35714285714286,0.949367088607595
+"Neighborhood","South End","WA","Seattle-Tacoma-Bellevue, WA",777,14,1,37.377,86.5,6.78571428571429,0.949367088607595
+"Neighborhood","Admiral","WA","Seattle-Tacoma-Bellevue, WA",3833,14,1,34.2857,43,3.57142857142857,0.949367088607595
+"Neighborhood","Downtown","WA","Seattle-Tacoma-Bellevue, WA",3513,14,0.9827,29.8969,59,8.21428571428571,0.949367088607595
+"Neighborhood","Eastside-ENACT","WA","Seattle-Tacoma-Bellevue, WA",1074,14,0.9951,29.0456,90.5,6.42857142857143,0.949367088607595
+"Neighborhood","Magnolia","WA","Seattle-Tacoma-Bellevue, WA",2127,14,0.9914,26.8966,46.5,3.92857142857143,0.949367088607595
+"Neighborhood","Arbor Heights","WA","Seattle-Tacoma-Bellevue, WA",5234,14,0.995382247306311,41.9355,64,7.5,0.949367088607595
+"Neighborhood","Martha Lake","WA","Seattle-Tacoma-Bellevue, WA",2504,14,0.9964,38.7097,58,6.07142857142857,0.949367088607595
+"Neighborhood","Bayshore Beautiful","FL","Tampa-St. Petersburg-Clearwater, FL",5014,18,0.954,32,97,4.66666666666667,6.89873417721519
+"Neighborhood","Shore Acres","FL","Tampa-St. Petersburg-Clearwater, FL",5296,18,0.9708,34.1176,104,4,6.89873417721519
+"Neighborhood","Virginia Park","FL","Tampa-St. Petersburg-Clearwater, FL",5295,18,0.938823529411765,24.1379,74,1.33333333333333,6.89873417721519
+"Neighborhood","Seminole Heights","FL","Tampa-St. Petersburg-Clearwater, FL",5094,18,0.935,44.186,79,7.33333333333333,6.89873417721519
+"Neighborhood","Historic Old Northeast","FL","Tampa-St. Petersburg-Clearwater, FL",4956,18,0.9638,26.9231,83,0.666666666666667,6.89873417721519
+"Neighborhood","Old Seminole Heights","FL","Tampa-St. Petersburg-Clearwater, FL",4967,18,0.9594,45.6522,107,8,6.89873417721519
+"Neighborhood","Greater Pinellas Point","FL","Tampa-St. Petersburg-Clearwater, FL",2083,18,0.9514,41.7391,84.5,6.66666666666667,6.89873417721519
+"Neighborhood","Snell Isle","FL","Tampa-St. Petersburg-Clearwater, FL",5412,18,0.889547813194959,26,185,10,6.89873417721519
+"Neighborhood","New Tampa","FL","Tampa-St. Petersburg-Clearwater, FL",4984,18,0.9735,34.5865,106,3.33333333333333,6.89873417721519
+"Neighborhood","Gandy-Sun Bay South","FL","Tampa-St. Petersburg-Clearwater, FL",2757,18,0.9699,40.3101,83,2,6.89873417721519
+"Neighborhood","West Meadows","FL","Tampa-St. Petersburg-Clearwater, FL",4238,18,0.9766,50,99,6,6.89873417721519
+"Neighborhood","Sand Key Civic Association","FL","Tampa-St. Petersburg-Clearwater, FL",5435,18,0.9557,40.7407,160,9.33333333333333,6.89873417721519
+"Neighborhood","Sulphur Springs","FL","Tampa-St. Petersburg-Clearwater, FL",3795,18,0.9447,39.0909,81.5,5.33333333333333,6.89873417721519
+"Neighborhood","Disston Heights","FL","Tampa-St. Petersburg-Clearwater, FL",1427,18,0.9688,44.7826,81.5,2.66666666666667,6.89873417721519
+"Neighborhood","East Tampa","FL","Tampa-St. Petersburg-Clearwater, FL",1953,18,0.905,36.3128,98,8.66666666666667,6.89873417721519
+"Neighborhood","Seatack","VA","Virginia Beach-Norfolk-Newport News, VA-NC",2452,31,0.9785,42.2222,96,8.63636363636364,4.24050632911392
+"Neighborhood","Greenbrier West","VA","Virginia Beach-Norfolk-Newport News, VA-NC",1942,31,0.9851,40.8284,102.5,5.45454545454545,4.24050632911392
+"Neighborhood","Buckroe","VA","Virginia Beach-Norfolk-Newport News, VA-NC",2560,31,0.9878,37.2222,103.5,3.63636363636364,4.24050632911392
+"Neighborhood","Western Branch South","VA","Virginia Beach-Norfolk-Newport News, VA-NC",3062,31,0.9897,34.8993,119,2.27272727272727,4.24050632911392
+"Neighborhood","Greenbrier East","VA","Virginia Beach-Norfolk-Newport News, VA-NC",1469,31,0.9727,26.2108,90.5,3.18181818181818,4.24050632911392
+"Neighborhood","Bayside","VA","Virginia Beach-Norfolk-Newport News, VA-NC",779,31,0.9927,46.9178,90,1.81818181818182,4.24050632911392
+"Neighborhood","Greater Wythe","VA","Virginia Beach-Norfolk-Newport News, VA-NC",3102,31,0.9449,49.4186,109,10,4.24050632911392
+"Neighborhood","Great Bridge","VA","Virginia Beach-Norfolk-Newport News, VA-NC",1289,31,0.9852,24.3697,93.5,0.454545454545455,4.24050632911392
+"Neighborhood","Northampton","VA","Virginia Beach-Norfolk-Newport News, VA-NC",1558,31,0.9815,44.6541,94.5,8.18181818181818,4.24050632911392
+"Neighborhood","Foxhill","VA","Virginia Beach-Norfolk-Newport News, VA-NC",4123,31,0.9825,52.7559,86.5,6.81818181818182,4.24050632911392
+"Neighborhood","Princess Anne","VA","Virginia Beach-Norfolk-Newport News, VA-NC",428,31,0.982,43.4307,91,6.36363636363636,4.24050632911392
+"Neighborhood","Kempsville","VA","Virginia Beach-Norfolk-Newport News, VA-NC",533,31,0.9815,43.6111,84,5,4.24050632911392
+"Neighborhood","Indian River","VA","Virginia Beach-Norfolk-Newport News, VA-NC",1170,31,0.994,52.2727,112.5,7.72727272727273,4.24050632911392
+"Neighborhood","Western Branch North","VA","Virginia Beach-Norfolk-Newport News, VA-NC",1994,31,0.9819,37.8531,95,5.90909090909091,4.24050632911392
+"Neighborhood","Mears Corner","VA","Virginia Beach-Norfolk-Newport News, VA-NC",952,31,0.989,47.4227,73.5,1.36363636363636,4.24050632911392
+"Neighborhood","Kings Grant","VA","Virginia Beach-Norfolk-Newport News, VA-NC",1949,31,0.9692,51.5385,98.5,9.54545454545454,4.24050632911392
+"Neighborhood","Green Run","VA","Virginia Beach-Norfolk-Newport News, VA-NC",484,31,0.9842,49.2063,81.5,4.09090909090909,4.24050632911392
+"Neighborhood","South Norfolk","VA","Virginia Beach-Norfolk-Newport News, VA-NC",1367,31,0.9946,33.7778,101.5,0.909090909090909,4.24050632911392
+"Neighborhood","Great Neck","VA","Virginia Beach-Norfolk-Newport News, VA-NC",1328,31,0.9827,47.4576,83.5,4.54545454545455,4.24050632911392
+"Neighborhood","Salem","VA","Virginia Beach-Norfolk-Newport News, VA-NC",717,31,0.9844,47.5655,77,2.72727272727273,4.24050632911392
+"Neighborhood","Chesapeake Beach","VA","Virginia Beach-Norfolk-Newport News, VA-NC",5075,31,0.9759,37.6344,96,7.27272727272727,4.24050632911392
+"Neighborhood","Lynnhaven Shores","VA","Virginia Beach-Norfolk-Newport News, VA-NC",5169,31,0.970003269216656,45.3782,117,9.09090909090909,4.24050632911392
+"Neighborhood","Columbia Heights","DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",1006,6,1.007,38.1818,55,2.14285714285714,2.91139240506329
+"Neighborhood","Alexandria Wrest","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",1107,6,0.9856,38.4615,67,7.14285714285714,2.91139240506329
+"Neighborhood","Petworth","DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",2000,6,1,51.5464,64,6.42857142857143,2.91139240506329
+"Neighborhood","Ballston-Virginia Square","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",3678,6,0.9962,38.1579,52.5,3.57142857142857,2.91139240506329
+"Neighborhood","Radnor-Ft Myer Heights","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",3883,6,0.985714285714286,47.619,63.5,8.57142857142857,2.91139240506329
+"Neighborhood","Dupont Circle","DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",2859,6,0.9973,37.931,47,1.42857142857143,2.91139240506329
+"Neighborhood","Capitol Hill","DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",1136,6,1.0005,30,51,0.714285714285714,2.91139240506329
+"Neighborhood","Adams Morgan","DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",2414,6,0.9958,37.5,54,4.28571428571429,2.91139240506329
+"Neighborhood","Logan Circle","DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",2394,6,0.9959,37.1795,48,2.85714285714286,2.91139240506329
+"Neighborhood","Fairlington-Shirlington","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",4212,6,0.999,36.9231,66,5.71428571428571,2.91139240506329
+"Neighborhood","Seminary Hill","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",1655,6,0.9879,41.4141,70,7.85714285714286,2.91139240506329
+"Neighborhood","Potomac West","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",1410,6,0.9966,49.4118,50,5,2.91139240506329
+"Neighborhood","South Lakes Dr - Soapstone Dr","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",3370,6,0.9714,50,70,10,2.91139240506329
+"Neighborhood","Landmark-Van Dom","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",1264,6,0.9832,42.8571,69,9.28571428571429,2.91139240506329

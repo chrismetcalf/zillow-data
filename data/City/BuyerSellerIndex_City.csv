@@ -1,0 +1,1484 @@
+"RegionType","RegionName","State","CBSA Title","SizeRankCity","SizeRankMetro","SaleToListPrice","PctPriceCut","DaysOnMarket","BuyerSellerIndex","BuyerSellerIndexMetro"
+"City","Northfield","OH","Akron, OH",1819,58,0.9592,45.3125,87,8.46153846153846,7.15189873417722
+"City","Macedonia","OH","Akron, OH",3969,58,0.9741,42.6829,84,4.61538461538461,7.15189873417722
+"City","Cuyahoga Falls","OH","Akron, OH",586,58,0.9765,47.7958,79,3.84615384615385,7.15189873417722
+"City","Aurora","OH","Akron, OH",2563,58,0.9509,33.7449,72.5,3.07692307692308,7.15189873417722
+"City","New Franklin","OH","Akron, OH",3000,58,0.9742,42.1053,104,6.15384615384615,7.15189873417722
+"City","Akron","OH","Akron, OH",77,58,0.9672,44.7194,104,10,7.15189873417722
+"City","Streetsboro","OH","Akron, OH",2629,58,0.9593,38.0117,103,7.69230769230769,7.15189873417722
+"City","Green","OH","Akron, OH",1240,58,0.98,29.6167,73,0.769230769230769,7.15189873417722
+"City","Stow","OH","Akron, OH",878,58,0.9784,36.2676,74,1.53846153846154,7.15189873417722
+"City","Twinsburg","OH","Akron, OH",1480,58,0.9717,37.5,76,2.30769230769231,7.15189873417722
+"City","Hudson","OH","Akron, OH",1496,58,0.9705,55.2632,73,5.38461538461539,7.15189873417722
+"City","Tallmadge","OH","Akron, OH",2208,58,0.958,38.6792,85,6.92307692307692,7.15189873417722
+"City","Barberton","OH","Akron, OH",1186,58,0.9568,43.0939,87,9.23076923076923,7.15189873417722
+"City","Easton","PA","Allentown-Bethlehem-Easton, PA-NJ",1161,53,0.948,45.4082,121,10,9.24050632911392
+"City","Upper Milford Township","PA","Allentown-Bethlehem-Easton, PA-NJ",4859,53,0.9564,35.4839,92.5,5,9.24050632911392
+"City","Bethlehem Township","PA","Allentown-Bethlehem-Easton, PA-NJ",236,53,0.962,45.625,110,7,9.24050632911392
+"City","Forks Township","PA","Allentown-Bethlehem-Easton, PA-NJ",2800,53,0.9656,40.2062,125,6,9.24050632911392
+"City","Lower Macungie","PA","Allentown-Bethlehem-Easton, PA-NJ",1252,53,0.9768,41.3265,97.5,1,9.24050632911392
+"City","Allentown","PA","Allentown-Bethlehem-Easton, PA-NJ",158,53,0.9432,46.8927,105,9,9.24050632911392
+"City","Palmer Township","PA","Allentown-Bethlehem-Easton, PA-NJ",2892,53,0.9579,47.5177,110,8,9.24050632911392
+"City","Upper Macungie","PA","Allentown-Bethlehem-Easton, PA-NJ",1782,53,0.9701,36.1963,107.5,3,9.24050632911392
+"City","Emmaus","PA","Allentown-Bethlehem-Easton, PA-NJ",3995,53,0.9768,52.5424,89,2,9.24050632911392
+"City","South Whitehall Township","PA","Allentown-Bethlehem-Easton, PA-NJ",1932,53,0.9728,48.9796,85.5,4,9.24050632911392
+"City","Fayetteville","GA","Atlanta-Sandy Springs-Marietta, GA",402,8,0.9625,38.1119,108,9.6875,3.16455696202532
+"City","Dunwoody","GA","Atlanta-Sandy Springs-Marietta, GA",665,8,0.9718,40.3125,88,8.4375,3.16455696202532
+"City","Decatur","GA","Atlanta-Sandy Springs-Marietta, GA",1878,8,0.9846,26.5823,75,0.46875,3.16455696202532
+"City","North Atlanta","GA","Atlanta-Sandy Springs-Marietta, GA",760,8,0.9814,33.711,85.5,2.8125,3.16455696202532
+"City","Snellville","GA","Atlanta-Sandy Springs-Marietta, GA",353,8,0.9836,28.5047,91,1.875,3.16455696202532
+"City","Gresham Park","GA","Atlanta-Sandy Springs-Marietta, GA",5015,8,1.04261582673302,30.1075,122,3.28125,3.16455696202532
+"City","Lithonia","GA","Atlanta-Sandy Springs-Marietta, GA",240,8,0.99,27.4711,105,2.5,3.16455696202532
+"City","Sharpsburg","GA","Atlanta-Sandy Springs-Marietta, GA",2059,8,0.9715,44.0678,89.5,8.59375,3.16455696202532
+"City","Monticello","GA","Atlanta-Sandy Springs-Marietta, GA",4245,8,0.9803,24.4681,161,4.84375,3.16455696202532
+"City","Forest Park","GA","Atlanta-Sandy Springs-Marietta, GA",1257,8,0.9507,22.1311,69,2.1875,3.16455696202532
+"City","Rex","GA","Atlanta-Sandy Springs-Marietta, GA",3037,8,0.9954,18.3673,82.5,0.3125,3.16455696202532
+"City","Buford","GA","Atlanta-Sandy Springs-Marietta, GA",2645,8,0.973,28.5714,89,3.75,3.16455696202532
+"City","Newnan","GA","Atlanta-Sandy Springs-Marietta, GA",265,8,0.9715,31.9869,98.5,7.96875,3.16455696202532
+"City","North Druid Hills","GA","Atlanta-Sandy Springs-Marietta, GA",1940,8,0.9699,40.5229,90.5,8.75,3.16455696202532
+"City","Dawsonville","GA","Atlanta-Sandy Springs-Marietta, GA",1174,8,0.9663,37.1105,115.5,9.53125,3.16455696202532
+"City","Milton","GA","Atlanta-Sandy Springs-Marietta, GA",888,8,0.9693,30.6667,83.5,4.53125,3.16455696202532
+"City","Acworth","GA","Atlanta-Sandy Springs-Marietta, GA",243,8,0.9761,30.7619,87,3.4375,3.16455696202532
+"City","Roswell","GA","Atlanta-Sandy Springs-Marietta, GA",255,8,0.9769,37.8906,81,4.375,3.16455696202532
+"City","Carrollton","GA","Atlanta-Sandy Springs-Marietta, GA",2002,8,0.9463,34.965,117,10,3.16455696202532
+"City","Sandy Springs","GA","Atlanta-Sandy Springs-Marietta, GA",229,8,0.9615,37.8758,96,9.0625,3.16455696202532
+"City","Suwanee","GA","Atlanta-Sandy Springs-Marietta, GA",1837,8,0.9749,36.383,79,3.90625,3.16455696202532
+"City","Candler-Mcafee","GA","Atlanta-Sandy Springs-Marietta, GA",1479,8,0.9405,36.0656,84,8.28125,3.16455696202532
+"City","Loganville","GA","Atlanta-Sandy Springs-Marietta, GA",4848,8,0.9545,25.5319,95,6.25,3.16455696202532
+"City","Dacula","GA","Atlanta-Sandy Springs-Marietta, GA",689,8,0.9669,32.9457,85,6.5625,3.16455696202532
+"City","Conyers","GA","Atlanta-Sandy Springs-Marietta, GA",273,8,0.9765,31.9857,112,7.5,3.16455696202532
+"City","Riverdale","GA","Atlanta-Sandy Springs-Marietta, GA",520,8,0.9978,18.2292,80,0.15625,3.16455696202532
+"City","Alpharetta","GA","Atlanta-Sandy Springs-Marietta, GA",508,8,0.9756,31.4286,76,2.34375,3.16455696202532
+"City","Marietta","GA","Atlanta-Sandy Springs-Marietta, GA",38,8,0.9727,38.4035,87,7.34375,3.16455696202532
+"City","Irondale","GA","Atlanta-Sandy Springs-Marietta, GA",4888,8,1,31.4286,84.5,1.09375,3.16455696202532
+"City","Winder","GA","Atlanta-Sandy Springs-Marietta, GA",780,8,0.9736,30.4054,95.5,5.625,3.16455696202532
+"City","Locust Grove","GA","Atlanta-Sandy Springs-Marietta, GA",1431,8,0.9874,39.2405,98,6.40625,3.16455696202532
+"City","Lawrenceville","GA","Atlanta-Sandy Springs-Marietta, GA",53,8,0.9805,31.1835,90,2.96875,3.16455696202532
+"City","Cumming","GA","Atlanta-Sandy Springs-Marietta, GA",127,8,0.9728,30.0316,99,6.71875,3.16455696202532
+"City","Atlanta","GA","Atlanta-Sandy Springs-Marietta, GA",25,8,0.9732,34.7382,84,5.15625,3.16455696202532
+"City","Austell","GA","Atlanta-Sandy Springs-Marietta, GA",713,8,0.9905,26.6932,90,1.25,3.16455696202532
+"City","Peachtree City","GA","Atlanta-Sandy Springs-Marietta, GA",1036,8,0.9723,41.4634,75,5.9375,3.16455696202532
+"City","Canton","GA","Atlanta-Sandy Springs-Marietta, GA",308,8,0.9786,33.7799,99,7.03125,3.16455696202532
+"City","Sugar Hill","GA","Atlanta-Sandy Springs-Marietta, GA",2501,8,0.983,26.6332,85.5,0.9375,3.16455696202532
+"City","Lilburn","GA","Atlanta-Sandy Springs-Marietta, GA",454,8,0.9787,39.4737,84,5,3.16455696202532
+"City","Bethlehem","GA","Atlanta-Sandy Springs-Marietta, GA",4103,8,0.9857,29.9065,79,0.625,3.16455696202532
+"City","Kennesaw","GA","Atlanta-Sandy Springs-Marietta, GA",218,8,0.9771,38.814,84,5.3125,3.16455696202532
+"City","Douglasville","GA","Atlanta-Sandy Springs-Marietta, GA",193,8,0.9792,33.9357,97,5.78125,3.16455696202532
+"City","Cartersville","GA","Atlanta-Sandy Springs-Marietta, GA",1854,8,0.972,35.7143,106.5,8.90625,3.16455696202532
+"City","Auburn","GA","Atlanta-Sandy Springs-Marietta, GA",3132,8,0.9889,32.4074,81,1.40625,3.16455696202532
+"City","Mableton","GA","Atlanta-Sandy Springs-Marietta, GA",1104,8,0.9804,45.7447,97.5,7.65625,3.16455696202532
+"City","Johns Creek","GA","Atlanta-Sandy Springs-Marietta, GA",578,8,0.9795,40.9836,78,3.125,3.16455696202532
+"City","East Point","GA","Atlanta-Sandy Springs-Marietta, GA",895,8,0.954,34.3643,105,9.21875,3.16455696202532
+"City","Tucker","GA","Atlanta-Sandy Springs-Marietta, GA",866,8,0.9768,40.6897,87,7.1875,3.16455696202532
+"City","Chamblee","GA","Atlanta-Sandy Springs-Marietta, GA",4387,8,0.9853,33.3333,83,1.71875,3.16455696202532
+"City","Powder Springs","GA","Atlanta-Sandy Springs-Marietta, GA",3664,8,0.9965,38.8535,90.5,4.21875,3.16455696202532
+"City","Duluth","GA","Atlanta-Sandy Springs-Marietta, GA",191,8,0.9699,36.3897,83,6.875,3.16455696202532
+"City","Norcross","GA","Atlanta-Sandy Springs-Marietta, GA",183,8,0.9777,29.476,77,1.5625,3.16455696202532
+"City","Smyrna","GA","Atlanta-Sandy Springs-Marietta, GA",352,8,0.9787,33.9463,88,4.6875,3.16455696202532
+"City","Holly Springs","GA","Atlanta-Sandy Springs-Marietta, GA",4990,8,0.9683,25.9843,81.5,2.65625,3.16455696202532
+"City","Dallas","GA","Atlanta-Sandy Springs-Marietta, GA",5071,8,0.9524,28.8288,98,7.8125,3.16455696202532
+"City","Villa Rica","GA","Atlanta-Sandy Springs-Marietta, GA",891,8,0.9702,37.4332,126,9.375,3.16455696202532
+"City","Griffin","GA","Atlanta-Sandy Springs-Marietta, GA",2114,8,0.9401,34.4954,115,9.84375,3.16455696202532
+"City","Stone Mountain","GA","Atlanta-Sandy Springs-Marietta, GA",177,8,0.978,30.7429,93.5,4.0625,3.16455696202532
+"City","Covington","GA","Atlanta-Sandy Springs-Marietta, GA",258,8,0.9928,27.3224,87.5,0.78125,3.16455696202532
+"City","Stockbridge","GA","Atlanta-Sandy Springs-Marietta, GA",420,8,0.9725,28.4553,88,3.59375,3.16455696202532
+"City","Temple","GA","Atlanta-Sandy Springs-Marietta, GA",2196,8,0.9664,31.1765,97,8.125,3.16455696202532
+"City","Woodstock","GA","Atlanta-Sandy Springs-Marietta, GA",251,8,0.9794,30.0429,85,2.03125,3.16455696202532
+"City","Grayson","GA","Atlanta-Sandy Springs-Marietta, GA",1592,8,0.9808,32.2222,103.5,5.46875,3.16455696202532
+"City","McDonough","GA","Atlanta-Sandy Springs-Marietta, GA",249,8,0.978,31.8087,100,6.09375,3.16455696202532
+"City","Chester","MD","Baltimore-Towson, MD",5200,19,0.950263962211725,47.4227,138,10,5.69620253164557
+"City","Randallstown","MD","Baltimore-Towson, MD",1159,19,0.9984,35.8025,105,0.526315789473684,5.69620253164557
+"City","Abingdon","MD","Baltimore-Towson, MD",1072,19,0.9958,56.4706,102,4.73684210526316,5.69620253164557
+"City","Odenton","MD","Baltimore-Towson, MD",1043,19,0.993,43.3628,92,0.263157894736842,5.69620253164557
+"City","Catonsville","MD","Baltimore-Towson, MD",625,19,0.981,54.9242,92,6.05263157894737,5.69620253164557
+"City","Edgewater","MD","Baltimore-Towson, MD",1815,19,0.9793,46.7433,111,7.63157894736842,5.69620253164557
+"City","Bel Air","MD","Baltimore-Towson, MD",394,19,0.9819,46.1397,118,7.36842105263158,5.69620253164557
+"City","Mount Airy","MD","Baltimore-Towson, MD",1071,19,0.9861,47.1366,102,3.94736842105263,5.69620253164557
+"City","Windsor Mill","MD","Baltimore-Towson, MD",877,19,0.9985,44.186,108,1.31578947368421,5.69620253164557
+"City","Glen Burnie","MD","Baltimore-Towson, MD",274,19,0.9914,42.1147,99.5,0.789473684210526,5.69620253164557
+"City","Centreville","MD","Baltimore-Towson, MD",4222,19,0.9722,34.4595,179,8.42105263157895,5.69620253164557
+"City","Parkville","MD","Baltimore-Towson, MD",1028,19,0.9838,52.6829,109,8.1578947368421,5.69620253164557
+"City","Owings Mills","MD","Baltimore-Towson, MD",541,19,0.9863,45.3333,104,3.42105263157895,5.69620253164557
+"City","Havre de Grace","MD","Baltimore-Towson, MD",2279,19,0.9636,43.0189,182,9.73684210526316,5.69620253164557
+"City","Dundalk","MD","Baltimore-Towson, MD",423,19,0.9879,47.494,104,2.63157894736842,5.69620253164557
+"City","Middle River","MD","Baltimore-Towson, MD",772,19,1,45.2703,123,4.21052631578947,5.69620253164557
+"City","Pasadena","MD","Baltimore-Towson, MD",439,19,0.9719,52,98,8.94736842105263,5.69620253164557
+"City","Reisterstown","MD","Baltimore-Towson, MD",885,19,0.9793,41.7266,111,6.31578947368421,5.69620253164557
+"City","Towson","MD","Baltimore-Towson, MD",712,19,0.9824,43.956,95,2.89473684210526,5.69620253164557
+"City","Baltimore","MD","Baltimore-Towson, MD",14,19,0.986,42.5035,105,3.15789473684211,5.69620253164557
+"City","Annapolis","MD","Baltimore-Towson, MD",235,19,0.9745,50,102,7.10526315789474,5.69620253164557
+"City","Nottingham","MD","Baltimore-Towson, MD",797,19,0.978,47.619,98,5.52631578947368,5.69620253164557
+"City","Westminster","MD","Baltimore-Towson, MD",483,19,0.9795,47.7642,111,7.89473684210526,5.69620253164557
+"City","Lutherville Timonium","MD","Baltimore-Towson, MD",794,19,0.9784,55.8036,85,6.57894736842105,5.69620253164557
+"City","Elkridge","MD","Baltimore-Towson, MD",1131,19,0.9877,54.5455,92,4.47368421052632,5.69620253164557
+"City","Joppa","MD","Baltimore-Towson, MD",2525,19,0.9823,50,116.5,9.21052631578947,5.69620253164557
+"City","Columbia","MD","Baltimore-Towson, MD",212,19,0.9901,54.2955,85,1.84210526315789,5.69620253164557
+"City","Sykesville","MD","Baltimore-Towson, MD",849,19,0.9922,47.6596,93.5,1.05263157894737,5.69620253164557
+"City","Arnold","MD","Baltimore-Towson, MD",1604,19,0.9839,58.209,97,5.78947368421053,5.69620253164557
+"City","Hampstead","MD","Baltimore-Towson, MD",2512,19,0.9826,46.1538,103,5,5.69620253164557
+"City","Pikesville","MD","Baltimore-Towson, MD",969,19,0.9817,40.4348,105.5,5.26315789473684,5.69620253164557
+"City","Essex","MD","Baltimore-Towson, MD",734,19,0.9893,54.2222,129,8.68421052631579,5.69620253164557
+"City","Severna Park","MD","Baltimore-Towson, MD",1224,19,0.9844,56.872,104,6.84210526315789,5.69620253164557
+"City","Edgewood","MD","Baltimore-Towson, MD",1304,19,0.9924,40.5405,119.5,3.68421052631579,5.69620253164557
+"City","Cockeysville","MD","Baltimore-Towson, MD",1336,19,0.9693,48.7805,110,9.47368421052632,5.69620253164557
+"City","Ellicott City","MD","Baltimore-Towson, MD",319,19,0.9867,50.4608,89,2.10526315789474,5.69620253164557
+"City","Halethorpe","MD","Baltimore-Towson, MD",898,19,0.9842,46.7066,95,2.36842105263158,5.69620253164557
+"City","Severn","MD","Baltimore-Towson, MD",962,19,0.986,41.4384,100,1.57894736842105,5.69620253164557
+"City","Clay","AL","Birmingham-Hoover, AL",5107,NA,0.9719,36.1702,139.5,9.16666666666667,NA
+"City","Mountain Brook","AL","Birmingham-Hoover, AL",1634,NA,0.9656,37.931,92,5.83333333333333,NA
+"City","Calera","AL","Birmingham-Hoover, AL",3299,NA,0.9801,32,102.5,2.5,NA
+"City","Alabaster","AL","Birmingham-Hoover, AL",1114,NA,0.9788,33.6066,99,3.33333333333333,NA
+"City","Center Point","AL","Birmingham-Hoover, AL",2513,NA,0.9529,26.9841,118,8.33333333333333,NA
+"City","Birmingham","AL","Birmingham-Hoover, AL",57,NA,0.9561,31.3545,142,10,NA
+"City","Vestavia Hills","AL","Birmingham-Hoover, AL",996,NA,0.962,38.0117,100,6.66666666666667,NA
+"City","Hoover","AL","Birmingham-Hoover, AL",320,NA,0.9718,31.4031,110,5,NA
+"City","Helena","AL","Birmingham-Hoover, AL",2549,NA,0.98,31.0078,85,0.833333333333333,NA
+"City","Trussville","AL","Birmingham-Hoover, AL",1784,NA,0.9831,25.5754,131,1.66666666666667,NA
+"City","Homewood","AL","Birmingham-Hoover, AL",1269,NA,0.9696,41.1765,105,7.5,NA
+"City","Pelham","AL","Birmingham-Hoover, AL",1880,NA,0.979,38.3929,102,4.16666666666667,NA
+"City","North Port","FL","Bradenton-Sarasota-Venice, FL",400,59,0.9747,32.2304,91,2.66666666666667,5.06329113924051
+"City","Gulf Gate Estates","FL","Bradenton-Sarasota-Venice, FL",3830,59,0.9716,29.4118,80.5,1.33333333333333,5.06329113924051
+"City","Bradenton","FL","Bradenton-Sarasota-Venice, FL",59,59,0.9644,34.5378,94,5.33333333333333,5.06329113924051
+"City","Sarasota Springs","FL","Bradenton-Sarasota-Venice, FL",2924,59,0.966,36.9231,84,4.66666666666667,5.06329113924051
+"City","Siesta Key","FL","Bradenton-Sarasota-Venice, FL",5056,59,0.9319,27.7567,165,10,5.06329113924051
+"City","Parrish","FL","Bradenton-Sarasota-Venice, FL",2347,59,0.9711,38.2353,102.5,8,5.06329113924051
+"City","Nokomis","FL","Bradenton-Sarasota-Venice, FL",2404,59,0.9572,25.1656,118,6.66666666666667,5.06329113924051
+"City","Sarasota","FL","Bradenton-Sarasota-Venice, FL",557,59,0.9538,25.5618,102.5,6,5.06329113924051
+"City","Palmetto","FL","Bradenton-Sarasota-Venice, FL",749,59,0.9789,27.7778,103,2,5.06329113924051
+"City","Fruitville","FL","Bradenton-Sarasota-Venice, FL",2903,59,0.98,31.3725,80,0.666666666666667,5.06329113924051
+"City","Longboat Key","FL","Bradenton-Sarasota-Venice, FL",4796,59,0.9436,26.1538,150,8.66666666666667,5.06329113924051
+"City","Venice","FL","Bradenton-Sarasota-Venice, FL",383,59,0.9631,26.8336,99,4,5.06329113924051
+"City","Osprey","FL","Bradenton-Sarasota-Venice, FL",4915,59,0.9419,29.3269,144,9.33333333333333,5.06329113924051
+"City","Bee Ridge","FL","Bradenton-Sarasota-Venice, FL",4264,59,0.9611,32.8,73.5,3.33333333333333,5.06329113924051
+"City","Southgate","FL","Bradenton-Sarasota-Venice, FL",4961,59,0.9606,37.9747,80.5,7.33333333333333,5.06329113924051
+"City","Brookfield Center","CT","Bridgeport-Stamford-Norwalk, CT",2431,47,0.965,41.2621,113,4,9.17721518987342
+"City","Shelton","CT","Bridgeport-Stamford-Norwalk, CT",767,47,0.962,54.1787,102,10,9.17721518987342
+"City","Greenwich","CT","Bridgeport-Stamford-Norwalk, CT",437,47,0.9475,34.8271,117,9,9.17721518987342
+"City","Fairfield","CT","Bridgeport-Stamford-Norwalk, CT",518,47,0.9634,46.8333,105.5,6,9.17721518987342
+"City","Trumbull","CT","Bridgeport-Stamford-Norwalk, CT",851,47,0.9739,52.6316,90,1,9.17721518987342
+"City","Bridgeport","CT","Bridgeport-Stamford-Norwalk, CT",119,47,0.9633,40.2985,100.5,2,9.17721518987342
+"City","Stamford","CT","Bridgeport-Stamford-Norwalk, CT",152,47,0.971,48.0861,101,3,9.17721518987342
+"City","Norwalk","CT","Bridgeport-Stamford-Norwalk, CT",260,47,0.957,39.2321,106,7,9.17721518987342
+"City","Stratford","CT","Bridgeport-Stamford-Norwalk, CT",577,47,0.9645,47.5836,105,5,9.17721518987342
+"City","Danbury","CT","Bridgeport-Stamford-Norwalk, CT",293,47,0.9596,39.4841,106,8,9.17721518987342
+"City","Matthews","NC","Charlotte-Gastonia-Concord, NC-SC",1066,30,0.9723,31.1111,75.5,3.68421052631579,2.34177215189873
+"City","Harrisburg","NC","Charlotte-Gastonia-Concord, NC-SC",2456,30,0.9703,29.0598,94,5.78947368421053,2.34177215189873
+"City","Concord","NC","Charlotte-Gastonia-Concord, NC-SC",186,30,0.973,30.7183,91,4.21052631578947,2.34177215189873
+"City","York","SC","Charlotte-Gastonia-Concord, NC-SC",1113,30,0.978,26.4,108,2.63157894736842,2.34177215189873
+"City","Kannapolis","NC","Charlotte-Gastonia-Concord, NC-SC",637,30,0.9611,35.446,119,10,2.34177215189873
+"City","Davidson","NC","Charlotte-Gastonia-Concord, NC-SC",3064,30,0.9752,34.5725,113,7.36842105263158,2.34177215189873
+"City","Clover","SC","Charlotte-Gastonia-Concord, NC-SC",1003,30,0.9605,29.5711,113.5,8.94736842105263,2.34177215189873
+"City","Mint Hill","NC","Charlotte-Gastonia-Concord, NC-SC",1671,30,0.9643,27.0833,125.5,8.42105263157895,2.34177215189873
+"City","Belmont","NC","Charlotte-Gastonia-Concord, NC-SC",1828,30,0.9582,21.0356,99,6.84210526315789,2.34177215189873
+"City","Huntersville","NC","Charlotte-Gastonia-Concord, NC-SC",522,30,0.9718,25.6662,82,2.10526315789474,2.34177215189873
+"City","Fort Mill","SC","Charlotte-Gastonia-Concord, NC-SC",466,30,0.9783,22.9068,86,0.526315789473684,2.34177215189873
+"City","Rock Hill","SC","Charlotte-Gastonia-Concord, NC-SC",184,30,0.975,30.1998,118,6.31578947368421,2.34177215189873
+"City","Monroe","NC","Charlotte-Gastonia-Concord, NC-SC",1188,30,0.9708,30.9434,88,5.26315789473684,2.34177215189873
+"City","Cornelius","NC","Charlotte-Gastonia-Concord, NC-SC",1331,30,0.9673,26.477,90.5,4.73684210526316,2.34177215189873
+"City","Stallings","NC","Charlotte-Gastonia-Concord, NC-SC",4113,30,0.9743,25.4237,71,1.05263157894737,2.34177215189873
+"City","Charlotte","NC","Charlotte-Gastonia-Concord, NC-SC",13,30,0.9749,31.2395,82,3.15789473684211,2.34177215189873
+"City","Mount Holly","NC","Charlotte-Gastonia-Concord, NC-SC",1761,30,0.9672,31.4554,104,7.89473684210526,2.34177215189873
+"City","Indian Trail","NC","Charlotte-Gastonia-Concord, NC-SC",1134,30,0.9768,34.4828,68,1.57894736842105,2.34177215189873
+"City","Gastonia","NC","Charlotte-Gastonia-Concord, NC-SC",367,30,0.9583,31.9079,107,9.47368421052632,2.34177215189873
+"City","Westchester","IL","Chicago-Naperville-Joliet, IL-IN-WI",2566,3,0.9536,46.2428,105,8.68852459016393,8.73417721518987
+"City","Crystal Lake","IL","Chicago-Naperville-Joliet, IL-IN-WI",789,3,0.9643,45.3368,87,2.70491803278689,8.73417721518987
+"City","Chicago","IL","Chicago-Naperville-Joliet, IL-IN-WI",3,3,0.9739,42.1936,105,2.54098360655738,8.73417721518987
+"City","Calumet City","IL","Chicago-Naperville-Joliet, IL-IN-WI",867,3,0.9572,42.6471,137,9.09836065573771,8.73417721518987
+"City","Vernon Hills","IL","Chicago-Naperville-Joliet, IL-IN-WI",1371,3,0.9675,47.2477,82,1.31147540983607,8.73417721518987
+"City","Berwyn","IL","Chicago-Naperville-Joliet, IL-IN-WI",502,3,0.9756,45.8781,99.5,2.45901639344262,8.73417721518987
+"City","Oak Forest","IL","Chicago-Naperville-Joliet, IL-IN-WI",1217,3,0.9537,54.5455,102.5,9.42622950819672,8.73417721518987
+"City","La Grange Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",3200,3,0.9586,46.9697,85,4.83606557377049,8.73417721518987
+"City","Cicero","IL","Chicago-Naperville-Joliet, IL-IN-WI",278,3,0.9686,25,102.5,0.819672131147541,8.73417721518987
+"City","Roselle","IL","Chicago-Naperville-Joliet, IL-IN-WI",1216,3,0.9671,42.9448,96,1.39344262295082,8.73417721518987
+"City","Prospect Heights","IL","Chicago-Naperville-Joliet, IL-IN-WI",2620,3,0.9644,46.2687,94,3.85245901639344,8.73417721518987
+"City","Fox Lake","IL","Chicago-Naperville-Joliet, IL-IN-WI",5237,3,0.9425,31.8966,96,3.77049180327869,8.73417721518987
+"City","Evergreen Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",1951,3,0.9672,50.5556,125,7.70491803278689,8.73417721518987
+"City","Bartlett","IL","Chicago-Naperville-Joliet, IL-IN-WI",766,3,0.9605,55.7632,101,8.85245901639344,8.73417721518987
+"City","Hinsdale","IL","Chicago-Naperville-Joliet, IL-IN-WI",2340,3,0.9312,39.1975,118,8.44262295081967,8.73417721518987
+"City","La Grange","IL","Chicago-Naperville-Joliet, IL-IN-WI",2828,3,0.963,55,95,7.04918032786885,8.73417721518987
+"City","Brookfield","IL","Chicago-Naperville-Joliet, IL-IN-WI",1938,3,0.9512,52,103,9.59016393442623,8.73417721518987
+"City","McHenry","IL","Chicago-Naperville-Joliet, IL-IN-WI",1432,3,0.9645,52.3404,93.5,5.32786885245902,8.73417721518987
+"City","Gurnee","IL","Chicago-Naperville-Joliet, IL-IN-WI",870,3,0.9614,46.1255,98,5.65573770491803,8.73417721518987
+"City","Darien","IL","Chicago-Naperville-Joliet, IL-IN-WI",1389,3,0.9521,51.3369,77,7.13114754098361,8.73417721518987
+"City","Barrington","IL","Chicago-Naperville-Joliet, IL-IN-WI",5009,3,0.9611,51.6129,98.5,7.62295081967213,8.73417721518987
+"City","Warrenville","IL","Chicago-Naperville-Joliet, IL-IN-WI",2949,3,0.9689,40.9091,92,0.737704918032787,8.73417721518987
+"City","Lemont","IL","Chicago-Naperville-Joliet, IL-IN-WI",1333,3,0.9479,45.4545,126.5,9.75409836065574,8.73417721518987
+"City","Lake Forest","IL","Chicago-Naperville-Joliet, IL-IN-WI",1864,3,0.9295,42.0712,122,9.26229508196721,8.73417721518987
+"City","Wilmette","IL","Chicago-Naperville-Joliet, IL-IN-WI",1177,3,0.9703,43.9252,115,4.42622950819672,8.73417721518987
+"City","Antioch","IL","Chicago-Naperville-Joliet, IL-IN-WI",1220,3,0.9643,45.1957,109,6.55737704918033,8.73417721518987
+"City","Oak Lawn","IL","Chicago-Naperville-Joliet, IL-IN-WI",491,3,0.9668,46.7775,118,6.88524590163934,8.73417721518987
+"City","Joliet","IL","Chicago-Naperville-Joliet, IL-IN-WI",155,3,0.9673,47.9869,96,3.44262295081967,8.73417721518987
+"City","Addison","IL","Chicago-Naperville-Joliet, IL-IN-WI",764,3,0.9694,50,89,1.80327868852459,8.73417721518987
+"City","Highland Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",1050,3,0.9483,51.1628,103.5,9.50819672131148,8.73417721518987
+"City","Montgomery","IL","Chicago-Naperville-Joliet, IL-IN-WI",1914,3,0.9797,48.7395,102,3.36065573770492,8.73417721518987
+"City","Dolton","IL","Chicago-Naperville-Joliet, IL-IN-WI",1632,3,0.913,46.1165,134,10,8.73417721518987
+"City","Arlington Heights","IL","Chicago-Naperville-Joliet, IL-IN-WI",338,3,0.9693,47.7695,92,1.9672131147541,8.73417721518987
+"City","Naperville","IL","Chicago-Naperville-Joliet, IL-IN-WI",99,3,0.9655,50.7396,93,4.50819672131148,8.73417721518987
+"City","South Elgin","IL","Chicago-Naperville-Joliet, IL-IN-WI",2222,3,0.962,39.7849,101,4.18032786885246,8.73417721518987
+"City","Glenview","IL","Chicago-Naperville-Joliet, IL-IN-WI",672,3,0.9599,45.0161,104,7.29508196721311,8.73417721518987
+"City","Saint Charles","IL","Chicago-Naperville-Joliet, IL-IN-WI",1001,3,0.9633,47.0199,96,4.91803278688525,8.73417721518987
+"City","Palatine","IL","Chicago-Naperville-Joliet, IL-IN-WI",393,3,0.9649,44.3316,98,3.68852459016393,8.73417721518987
+"City","Burbank","IL","Chicago-Naperville-Joliet, IL-IN-WI",1168,3,0.9558,43.3962,117,8.52459016393443,8.73417721518987
+"City","Skokie","IL","Chicago-Naperville-Joliet, IL-IN-WI",469,3,0.9632,47.4531,102.5,6.39344262295082,8.73417721518987
+"City","Winnetka","IL","Chicago-Naperville-Joliet, IL-IN-WI",3518,3,0.9636,36.646,122,5.57377049180328,8.73417721518987
+"City","Hoffman Estates","IL","Chicago-Naperville-Joliet, IL-IN-WI",646,3,0.9667,41.4566,98.5,2.04918032786885,8.73417721518987
+"City","Westmont","IL","Chicago-Naperville-Joliet, IL-IN-WI",1376,3,0.966,45.1613,92,2.21311475409836,8.73417721518987
+"City","Park Ridge","IL","Chicago-Naperville-Joliet, IL-IN-WI",812,3,0.9592,51.1111,105.5,9.18032786885246,8.73417721518987
+"City","Rolling Meadows","IL","Chicago-Naperville-Joliet, IL-IN-WI",1425,3,0.9694,45,97,1.72131147540984,8.73417721518987
+"City","Waukegan","IL","Chicago-Naperville-Joliet, IL-IN-WI",250,3,0.9681,43.9024,91.5,1.0655737704918,8.73417721518987
+"City","Wheeling","IL","Chicago-Naperville-Joliet, IL-IN-WI",822,3,0.9715,36.5639,90.5,0.163934426229508,8.73417721518987
+"City","Woodridge","IL","Chicago-Naperville-Joliet, IL-IN-WI",1061,3,0.9653,51.9149,94.5,5.40983606557377,8.73417721518987
+"City","Mundelein","IL","Chicago-Naperville-Joliet, IL-IN-WI",1112,3,0.968,37.9808,82.5,0.327868852459016,8.73417721518987
+"City","Woodstock","IL","Chicago-Naperville-Joliet, IL-IN-WI",2008,3,0.9514,46.0581,108,9.01639344262295,8.73417721518987
+"City","Northbrook","IL","Chicago-Naperville-Joliet, IL-IN-WI",995,3,0.9631,48.5623,104,7.37704918032787,8.73417721518987
+"City","Elk Grove Village","IL","Chicago-Naperville-Joliet, IL-IN-WI",913,3,0.9614,51.0638,107.5,8.9344262295082,8.73417721518987
+"City","Round Lake","IL","Chicago-Naperville-Joliet, IL-IN-WI",4565,3,0.9621,38.5542,94.5,2.13114754098361,8.73417721518987
+"City","Lake Zurich","IL","Chicago-Naperville-Joliet, IL-IN-WI",2466,3,0.9627,51.1278,83,5,8.73417721518987
+"City","Chicago Heights","IL","Chicago-Naperville-Joliet, IL-IN-WI",1008,3,0.9533,39.3805,128,8.60655737704918,8.73417721518987
+"City","North Aurora","IL","Chicago-Naperville-Joliet, IL-IN-WI",3520,3,0.964,52.7027,122.5,9.34426229508197,8.73417721518987
+"City","Aurora","IL","Chicago-Naperville-Joliet, IL-IN-WI",84,3,0.9763,44.7642,100,1.55737704918033,8.73417721518987
+"City","Carol Stream","IL","Chicago-Naperville-Joliet, IL-IN-WI",690,3,0.9688,45.5598,97,2.62295081967213,8.73417721518987
+"City","Oswego","IL","Chicago-Naperville-Joliet, IL-IN-WI",1300,3,0.976,50.6061,108,5.49180327868852,8.73417721518987
+"City","Lombard","IL","Chicago-Naperville-Joliet, IL-IN-WI",571,3,0.9569,49.7436,89,5.98360655737705,8.73417721518987
+"City","Marengo","IL","Chicago-Naperville-Joliet, IL-IN-WI",3688,3,0.976152623211447,36.1111,101,0.655737704918033,8.73417721518987
+"City","Streamwood","IL","Chicago-Naperville-Joliet, IL-IN-WI",776,3,0.9706,49.6933,103,4.75409836065574,8.73417721518987
+"City","Algonquin","IL","Chicago-Naperville-Joliet, IL-IN-WI",1105,3,0.9599,49.0132,105,8.27868852459016,8.73417721518987
+"City","Oak Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",576,3,0.9653,51.4286,100,6.22950819672131,8.73417721518987
+"City","Portage","IN","Chicago-Naperville-Joliet, IL-IN-WI",904,3,1.0363,50.655,98,3.11475409836066,8.73417721518987
+"City","Tinley Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",584,3,0.9699,46.3415,98,2.86885245901639,8.73417721518987
+"City","Valparaiso","IN","Chicago-Naperville-Joliet, IL-IN-WI",303,3,1.0163,42.9429,98,0.901639344262295,8.73417721518987
+"City","Geneva","IL","Chicago-Naperville-Joliet, IL-IN-WI",1239,3,0.9597,49.0196,104,8.0327868852459,8.73417721518987
+"City","Franklin Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",1682,3,0.9664,46.4646,94,3.0327868852459,8.73417721518987
+"City","Elgin","IL","Chicago-Naperville-Joliet, IL-IN-WI",185,3,0.9714,31.3767,97,0.409836065573771,8.73417721518987
+"City","Cary","IL","Chicago-Naperville-Joliet, IL-IN-WI",2701,3,0.9653,43.6364,93,1.88524590163934,8.73417721518987
+"City","Hanover Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",838,3,0.9758,48.5437,104,4.26229508196721,8.73417721518987
+"City","Glen Ellyn","IL","Chicago-Naperville-Joliet, IL-IN-WI",798,3,0.9613,49.1358,104,7.54098360655738,8.73417721518987
+"City","Zion","IL","Chicago-Naperville-Joliet, IL-IN-WI",1326,3,0.9662,37.6471,106,3.19672131147541,8.73417721518987
+"City","Downers Grove","IL","Chicago-Naperville-Joliet, IL-IN-WI",603,3,0.9626,47.9714,94,5.24590163934426,8.73417721518987
+"City","Libertyville","IL","Chicago-Naperville-Joliet, IL-IN-WI",1904,3,0.9572,42.515,94,4.67213114754098,8.73417721518987
+"City","Bloomingdale","IL","Chicago-Naperville-Joliet, IL-IN-WI",1262,3,0.963,48.8372,94,5.16393442622951,8.73417721518987
+"City","Wood Dale","IL","Chicago-Naperville-Joliet, IL-IN-WI",2771,3,0.9422,44.4444,96.5,6.80327868852459,8.73417721518987
+"City","Campton Hills","IL","Chicago-Naperville-Joliet, IL-IN-WI",3745,3,0.9663,47.3171,113.5,6.9672131147541,8.73417721518987
+"City","Crestwood","IL","Chicago-Naperville-Joliet, IL-IN-WI",4030,3,0.9536,39.4737,133,8.77049180327869,8.73417721518987
+"City","Orland Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",427,3,0.9639,47.2469,106,7.21311475409836,8.73417721518987
+"City","Evanston","IL","Chicago-Naperville-Joliet, IL-IN-WI",305,3,0.9618,45.3875,121,8.36065573770492,8.73417721518987
+"City","Dekalb","IL","Chicago-Naperville-Joliet, IL-IN-WI",630,3,0.9568,44.9782,106.5,7.95081967213115,8.73417721518987
+"City","Wauconda","IL","Chicago-Naperville-Joliet, IL-IN-WI",4928,3,0.961,48.2517,97,6.0655737704918,8.73417721518987
+"City","Des Plaines","IL","Chicago-Naperville-Joliet, IL-IN-WI",446,3,0.9617,46.4115,106,7.45901639344262,8.73417721518987
+"City","South Holland","IL","Chicago-Naperville-Joliet, IL-IN-WI",1332,3,0.968,49.5192,112.5,6.31147540983607,8.73417721518987
+"City","Niles","IL","Chicago-Naperville-Joliet, IL-IN-WI",968,3,0.961,43.8503,90,3.60655737704918,8.73417721518987
+"City","Norridge","IL","Chicago-Naperville-Joliet, IL-IN-WI",3074,3,0.9575,33.3333,89,1.47540983606557,8.73417721518987
+"City","Round Lake Beach","IL","Chicago-Naperville-Joliet, IL-IN-WI",1178,3,0.9856,31.1688,95,0.0819672131147541,8.73417721518987
+"City","Bolingbrook","IL","Chicago-Naperville-Joliet, IL-IN-WI",371,3,0.974,46.6667,95.5,1.63934426229508,8.73417721518987
+"City","Park Forest","IL","Chicago-Naperville-Joliet, IL-IN-WI",1883,3,0.901,43.0962,146,9.83606557377049,8.73417721518987
+"City","Buffalo Grove","IL","Chicago-Naperville-Joliet, IL-IN-WI",818,3,0.9626,47.9592,89,4.34426229508197,8.73417721518987
+"City","Winfield","IL","Chicago-Naperville-Joliet, IL-IN-WI",3845,3,0.9648,43.7086,74,1.22950819672131,8.73417721518987
+"City","Yorkville","IL","Chicago-Naperville-Joliet, IL-IN-WI",3063,3,0.9758,38.7097,117,2.78688524590164,8.73417721518987
+"City","Plainfield","IL","Chicago-Naperville-Joliet, IL-IN-WI",234,3,0.9714,44.8544,99,2.29508196721311,8.73417721518987
+"City","Sugar Grove","IL","Chicago-Naperville-Joliet, IL-IN-WI",4349,3,0.9579,51.1628,98,7.78688524590164,8.73417721518987
+"City","Palos Hills","IL","Chicago-Naperville-Joliet, IL-IN-WI",2450,3,0.9671,43.75,104,3.9344262295082,8.73417721518987
+"City","Flossmoor","IL","Chicago-Naperville-Joliet, IL-IN-WI",4031,3,0.951,48.2993,125.5,9.91803278688525,8.73417721518987
+"City","Huntley","IL","Chicago-Naperville-Joliet, IL-IN-WI",1274,3,0.9624,41.0995,95,2.95081967213115,8.73417721518987
+"City","Mount Prospect","IL","Chicago-Naperville-Joliet, IL-IN-WI",523,3,0.9669,50,94,4.0983606557377,8.73417721518987
+"City","Deerfield","IL","Chicago-Naperville-Joliet, IL-IN-WI",2146,3,0.9576,60.1307,105,9.67213114754098,8.73417721518987
+"City","Plano","IL","Chicago-Naperville-Joliet, IL-IN-WI",5090,3,0.9523,40,105,6.63934426229508,8.73417721518987
+"City","Burr Ridge","IL","Chicago-Naperville-Joliet, IL-IN-WI",4078,3,0.9344,36.6197,119,7.86885245901639,8.73417721518987
+"City","West Chicago","IL","Chicago-Naperville-Joliet, IL-IN-WI",852,3,0.9659,51.4286,102,6.72131147540984,8.73417721518987
+"City","Elmwood Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",1292,3,0.9476,46.5608,92,6.47540983606557,8.73417721518987
+"City","Lake in the Hills","IL","Chicago-Naperville-Joliet, IL-IN-WI",1169,3,0.9597,42.5339,91,3.52459016393443,8.73417721518987
+"City","Elmhurst","IL","Chicago-Naperville-Joliet, IL-IN-WI",656,3,0.9564,51.1278,97.5,8.11475409836066,8.73417721518987
+"City","Lisle","IL","Chicago-Naperville-Joliet, IL-IN-WI",1140,3,0.9535,36.8098,93,3.27868852459016,8.73417721518987
+"City","Matteson","IL","Chicago-Naperville-Joliet, IL-IN-WI",1777,3,0.9763,47.3404,115,5.08196721311475,8.73417721518987
+"City","Sycamore","IL","Chicago-Naperville-Joliet, IL-IN-WI",1406,3,0.9747,41.0256,99,0.983606557377049,8.73417721518987
+"City","Villa Park","IL","Chicago-Naperville-Joliet, IL-IN-WI",1463,3,0.9594,49.6774,89.5,5.9016393442623,8.73417721518987
+"City","Willowbrook","IL","Chicago-Naperville-Joliet, IL-IN-WI",4313,3,0.9583,35.1351,75,1.14754098360656,8.73417721518987
+"City","Schaumburg","IL","Chicago-Naperville-Joliet, IL-IN-WI",304,3,0.9644,43.9479,98,4.01639344262295,8.73417721518987
+"City","Grayslake","IL","Chicago-Naperville-Joliet, IL-IN-WI",1791,3,0.965,54.8913,97,6.14754098360656,8.73417721518987
+"City","Midlothian","IL","Chicago-Naperville-Joliet, IL-IN-WI",2801,3,0.9654,44.2029,111,5.81967213114754,8.73417721518987
+"City","Glendale Heights","IL","Chicago-Naperville-Joliet, IL-IN-WI",979,3,0.988,45.0495,83.5,0.491803278688525,8.73417721518987
+"City","Bensenville","IL","Chicago-Naperville-Joliet, IL-IN-WI",1910,3,0.9664,36.2745,105,2.37704918032787,8.73417721518987
+"City","Batavia","IL","Chicago-Naperville-Joliet, IL-IN-WI",1476,3,0.9663,51.7857,98,5.73770491803279,8.73417721518987
+"City","Carpentersville","IL","Chicago-Naperville-Joliet, IL-IN-WI",1030,3,0.9869,41.5459,88.5,0.245901639344262,8.73417721518987
+"City","Lansing","IL","Chicago-Naperville-Joliet, IL-IN-WI",1069,3,0.9671,51.4469,122,8.19672131147541,8.73417721518987
+"City","Romeoville","IL","Chicago-Naperville-Joliet, IL-IN-WI",930,3,0.9853,40.9786,95,0.573770491803279,8.73417721518987
+"City","Wheaton","IL","Chicago-Naperville-Joliet, IL-IN-WI",477,3,0.9652,53.4247,86,4.59016393442623,8.73417721518987
+"City","Cincinnati","OH","Cincinnati-Middletown, OH-KY-IN",41,25,0.9613,36.594,91,7,6.70886075949367
+"City","Mason","OH","Cincinnati-Middletown, OH-KY-IN",611,25,0.9696,29.5775,78,1,6.70886075949367
+"City","Loveland","OH","Cincinnati-Middletown, OH-KY-IN",503,25,0.9637,33.9378,86,5,6.70886075949367
+"City","Trenton","OH","Cincinnati-Middletown, OH-KY-IN",2881,25,0.9795,23.6364,130.5,4.5,6.70886075949367
+"City","Covington","KY","Cincinnati-Middletown, OH-KY-IN",723,25,0.9464,38.2423,105.5,9.5,6.70886075949367
+"City","Montgomery","OH","Cincinnati-Middletown, OH-KY-IN",3822,25,0.9745,17.5676,75,0.5,6.70886075949367
+"City","Springboro","OH","Cincinnati-Middletown, OH-KY-IN",1842,25,0.963,41.3386,90,8,6.70886075949367
+"City","Erlanger","KY","Cincinnati-Middletown, OH-KY-IN",1930,25,0.9675,32.0574,81.5,2,6.70886075949367
+"City","Cheviot","OH","Cincinnati-Middletown, OH-KY-IN",4807,25,0.9404,45.9016,151,10,6.70886075949367
+"City","Milford","OH","Cincinnati-Middletown, OH-KY-IN",960,25,0.9646,32.1429,76,2.5,6.70886075949367
+"City","Batavia","OH","Cincinnati-Middletown, OH-KY-IN",905,25,0.9642,25.2874,106,5.5,6.70886075949367
+"City","Forest Park","OH","Cincinnati-Middletown, OH-KY-IN",2090,25,0.9672,35.4545,128.5,7.5,6.70886075949367
+"City","Florence","KY","Cincinnati-Middletown, OH-KY-IN",1200,25,0.9612,41.9087,87.5,8.5,6.70886075949367
+"City","Middletown","OH","Cincinnati-Middletown, OH-KY-IN",620,25,0.9598,34.8946,106,9,6.70886075949367
+"City","Fairfield","OH","Cincinnati-Middletown, OH-KY-IN",697,25,0.9793,43.913,84.5,4,6.70886075949367
+"City","Lebanon","OH","Cincinnati-Middletown, OH-KY-IN",2530,25,0.9611,41.3223,81.5,6.5,6.70886075949367
+"City","Franklin","OH","Cincinnati-Middletown, OH-KY-IN",3611,25,0.983,48.3871,83,3.5,6.70886075949367
+"City","Hamilton","OH","Cincinnati-Middletown, OH-KY-IN",136,25,0.9645,34.4344,96,6,6.70886075949367
+"City","West Chester","OH","Cincinnati-Middletown, OH-KY-IN",661,25,0.9687,38.8753,78,3,6.70886075949367
+"City","Independence","KY","Cincinnati-Middletown, OH-KY-IN",1444,25,0.9772,26.6917,88,1.5,6.70886075949367
+"City","Euclid","OH","Cleveland-Elyria-Mentor, OH",725,26,0.9324,39.2683,105,8.5,8.86075949367089
+"City","Wickliffe","OH","Cleveland-Elyria-Mentor, OH",3358,26,0.9533,53.5714,85,6.25,8.86075949367089
+"City","Strongsville","OH","Cleveland-Elyria-Mentor, OH",686,26,0.9701,47.678,84.5,2.25,8.86075949367089
+"City","Olmsted Falls","OH","Cleveland-Elyria-Mentor, OH",1454,26,0.962,39.6825,100,4.5,8.86075949367089
+"City","Bay Village","OH","Cleveland-Elyria-Mentor, OH",2670,26,0.962,44.8276,75,2,8.86075949367089
+"City","Wadsworth","OH","Cleveland-Elyria-Mentor, OH",1091,26,0.9666,43.1227,83,1,8.86075949367089
+"City","Berea","OH","Cleveland-Elyria-Mentor, OH",1905,26,0.9563,50.9317,93.5,6.75,8.86075949367089
+"City","Bedford","OH","Cleveland-Elyria-Mentor, OH",3259,26,0.9476,35.3846,105,7.75,8.86075949367089
+"City","Rocky River","OH","Cleveland-Elyria-Mentor, OH",1726,26,0.9615,44.7205,74,2.5,8.86075949367089
+"City","Mentor","OH","Cleveland-Elyria-Mentor, OH",640,26,0.9645,41.1609,77,0.75,8.86075949367089
+"City","Seven Hills","OH","Cleveland-Elyria-Mentor, OH",3669,26,0.9556,47.5248,77,4.75,8.86075949367089
+"City","Avon","OH","Cleveland-Elyria-Mentor, OH",1648,26,0.9686,38.7352,85,0.5,8.86075949367089
+"City","North Ridgeville","OH","Cleveland-Elyria-Mentor, OH",1032,26,0.9627,40,84.5,1.25,8.86075949367089
+"City","Broadview Heights","OH","Cleveland-Elyria-Mentor, OH",1875,26,0.9597,35.023,99,3,8.86075949367089
+"City","Willoughby","OH","Cleveland-Elyria-Mentor, OH",1543,26,0.9554,42.0561,111,8.25,8.86075949367089
+"City","Brook Park","OH","Cleveland-Elyria-Mentor, OH",1917,26,0.9601,40.4959,95,4.25,8.86075949367089
+"City","Elyria","OH","Cleveland-Elyria-Mentor, OH",407,26,0.9476,39.3474,102,6,8.86075949367089
+"City","Cleveland","OH","Cleveland-Elyria-Mentor, OH",28,26,0.9544,34.8555,97,4,8.86075949367089
+"City","Lyndhurst","OH","Cleveland-Elyria-Mentor, OH",3008,26,0.9486,55.9829,104,10,8.86075949367089
+"City","Parma","OH","Cleveland-Elyria-Mentor, OH",290,26,0.9569,51.3228,92,5.75,8.86075949367089
+"City","North Olmsted","OH","Cleveland-Elyria-Mentor, OH",956,26,0.9572,48.5294,84,5,8.86075949367089
+"City","Medina","OH","Cleveland-Elyria-Mentor, OH",431,26,0.967,41.7563,90,1.75,8.86075949367089
+"City","Brunswick","OH","Cleveland-Elyria-Mentor, OH",711,26,0.9641,39.8827,86,1.5,8.86075949367089
+"City","Westlake","OH","Cleveland-Elyria-Mentor, OH",945,26,0.9491,43.2258,85,5.5,8.86075949367089
+"City","Shaker Heights","OH","Cleveland-Elyria-Mentor, OH",1106,26,0.9513,51.6447,109,9.75,8.86075949367089
+"City","Painesville","OH","Cleveland-Elyria-Mentor, OH",538,26,0.9627,44.2777,97.5,5.25,8.86075949367089
+"City","Avon Lake","OH","Cleveland-Elyria-Mentor, OH",1486,26,0.9609,44.6429,84,2.75,8.86075949367089
+"City","Eastlake","OH","Cleveland-Elyria-Mentor, OH",2021,26,0.9638,44.7205,90,3.25,8.86075949367089
+"City","Lorain","OH","Cleveland-Elyria-Mentor, OH",381,26,0.9485,31.1111,119,8,8.86075949367089
+"City","Maple Heights","OH","Cleveland-Elyria-Mentor, OH",1429,26,0.9051,30.1887,103,6.5,8.86075949367089
+"City","Mayfield Heights","OH","Cleveland-Elyria-Mentor, OH",1925,26,0.9444,49.3243,96,8.75,8.86075949367089
+"City","Madison","OH","Cleveland-Elyria-Mentor, OH",1751,26,0.9777,39.1509,117.5,3.5,8.86075949367089
+"City","Garfield Heights","OH","Cleveland-Elyria-Mentor, OH",1077,26,0.9039,44.7458,100,9,8.86075949367089
+"City","Lakewood","OH","Cleveland-Elyria-Mentor, OH",587,26,0.9671,37.6812,76,0.25,8.86075949367089
+"City","Middleburg Heights","OH","Cleveland-Elyria-Mentor, OH",2523,26,0.9519,37.6147,112.5,7.25,8.86075949367089
+"City","Parma Heights","OH","Cleveland-Elyria-Mentor, OH",1699,26,0.9474,42.236,93,7,8.86075949367089
+"City","North Royalton","OH","Cleveland-Elyria-Mentor, OH",1020,26,0.9516,39.823,84.5,3.75,8.86075949367089
+"City","Cleveland Heights","OH","Cleveland-Elyria-Mentor, OH",660,26,0.9392,46.2389,102,9.5,8.86075949367089
+"City","Solon","OH","Cleveland-Elyria-Mentor, OH",1393,26,0.9524,52.0468,86,7.5,8.86075949367089
+"City","South Euclid","OH","Cleveland-Elyria-Mentor, OH",1508,26,0.9466,42.517,111,9.25,8.86075949367089
+"City","Elbert","CO","Colorado Springs, CO",4898,67,0.9874,34.5679,103,5,2.72151898734177
+"City","Monument","CO","Colorado Springs, CO",1696,67,0.9745,44.523,82,8,2.72151898734177
+"City","Peyton","CO","Colorado Springs, CO",2542,67,0.9898,41.629,82,7,2.72151898734177
+"City","Black Forest","CO","Colorado Springs, CO",3077,67,0.9676,36.5714,102,9,2.72151898734177
+"City","Cimarron Hills","CO","Colorado Springs, CO",1990,67,0.9867,29.3478,74,2,2.72151898734177
+"City","Fountain","CO","Colorado Springs, CO",1284,67,0.9952,38.2609,70,3,2.72151898734177
+"City","Stratmoor","CO","Colorado Springs, CO",5231,67,1,36.9565,86,4,2.72151898734177
+"City","Woodland Park","CO","Colorado Springs, CO",3524,67,0.968,43.2432,111,10,2.72151898734177
+"City","Colorado Springs","CO","Colorado Springs, CO",24,67,0.985,40.7098,72,6,2.72151898734177
+"City","Security-Widefield","CO","Colorado Springs, CO",1060,67,0.9949,34.1727,67.5,1,2.72151898734177
+"City","Hilliard","OH","Columbus, OH",1111,29,0.9799,47.2973,65,3.33333333333333,3.9873417721519
+"City","Grove City","OH","Columbus, OH",475,29,0.9788,40.9774,82,6.66666666666667,3.9873417721519
+"City","Gahanna","OH","Columbus, OH",970,29,0.9808,46.1538,64,2.77777777777778,3.9873417721519
+"City","Dublin","OH","Columbus, OH",698,29,0.9754,38.7991,71,5.55555555555556,3.9873417721519
+"City","Johnstown","OH","Columbus, OH",3693,29,0.9679,36.3636,107.5,9.44444444444444,3.9873417721519
+"City","Reynoldsburg","OH","Columbus, OH",863,29,0.9776,41.8033,81,7.77777777777778,3.9873417721519
+"City","Sunbury","OH","Columbus, OH",3960,29,0.9664,17.8571,68,2.22222222222222,3.9873417721519
+"City","Lancaster","OH","Columbus, OH",464,29,0.963,41.6667,95,10,3.9873417721519
+"City","Upper Arlington","OH","Columbus, OH",915,29,0.9784,47.7551,68,6.11111111111111,3.9873417721519
+"City","Westerville","OH","Columbus, OH",858,29,0.9815,50.2326,71,5,3.9873417721519
+"City","Pickerington","OH","Columbus, OH",977,29,0.9776,43.6019,92,8.88888888888889,3.9873417721519
+"City","Lincoln Village","OH","Columbus, OH",4533,29,0.981714285714286,29.2308,95,1.11111111111111,3.9873417721519
+"City","Pataskala","OH","Columbus, OH",2998,29,1.2075,31.3725,86.5,0.555555555555556,3.9873417721519
+"City","Newark","OH","Columbus, OH",499,29,1,44.7236,111,8.33333333333333,3.9873417721519
+"City","Columbus","OH","Columbus, OH",11,29,0.9768,37.7191,77,3.88888888888889,3.9873417721519
+"City","Worthington","OH","Columbus, OH",2808,29,0.967,38.7097,59,4.44444444444444,3.9873417721519
+"City","Delaware","OH","Columbus, OH",572,29,0.974,33.5354,87,7.22222222222222,3.9873417721519
+"City","Marysville","OH","Columbus, OH",936,29,0.983,35.3712,91,1.66666666666667,3.9873417721519
+"City","Carrollton","TX","Dallas-Fort Worth-Arlington, TX",156,4,0.9948,23.0126,44,0.576923076923077,0.632911392405063
+"City","Burleson","TX","Dallas-Fort Worth-Arlington, TX",884,4,0.978,31.8841,53,6.73076923076923,0.632911392405063
+"City","Flower Mound","TX","Dallas-Fort Worth-Arlington, TX",391,4,0.9663,27.5938,45,3.84615384615385,0.632911392405063
+"City","Cleburne","TX","Dallas-Fort Worth-Arlington, TX",1198,4,0.9672,27.6018,75,9.03846153846154,0.632911392405063
+"City","Anna","TX","Dallas-Fort Worth-Arlington, TX",3469,4,0.9746,26.7442,58.5,6.34615384615385,0.632911392405063
+"City","Arlington","TX","Dallas-Fort Worth-Arlington, TX",32,4,0.9979,27.6458,56,3.46153846153846,0.632911392405063
+"City","Allen","TX","Dallas-Fort Worth-Arlington, TX",281,4,0.9494,31.384,45,5.38461538461539,0.632911392405063
+"City","Grapevine","TX","Dallas-Fort Worth-Arlington, TX",663,4,0.9785,29.0909,50,4.42307692307692,0.632911392405063
+"City","Farmers Branch","TX","Dallas-Fort Worth-Arlington, TX",1095,4,0.9391,31.4607,48,7.88461538461539,0.632911392405063
+"City","Fort Worth","TX","Dallas-Fort Worth-Arlington, TX",12,4,0.9926,30.318,62,5.96153846153846,0.632911392405063
+"City","Prosper","TX","Dallas-Fort Worth-Arlington, TX",4505,4,0.9042,37.7604,62,9.80769230769231,0.632911392405063
+"City","Colleyville","TX","Dallas-Fort Worth-Arlington, TX",1402,4,0.9297,38.1818,62.5,9.61538461538461,0.632911392405063
+"City","Frisco","TX","Dallas-Fort Worth-Arlington, TX",162,4,0.9438,21.4074,46,2.5,0.632911392405063
+"City","McKinney","TX","Dallas-Fort Worth-Arlington, TX",138,4,0.9577,25.9638,44,3.07692307692308,0.632911392405063
+"City","Mansfield","TX","Dallas-Fort Worth-Arlington, TX",506,4,1.0014,30.7692,53,2.69230769230769,0.632911392405063
+"City","Little Elm","TX","Dallas-Fort Worth-Arlington, TX",871,4,1.0123,30.0885,48,1.53846153846154,0.632911392405063
+"City","Weatherford","TX","Dallas-Fort Worth-Arlington, TX",1714,4,0.9921,36.25,70,8.84615384615385,0.632911392405063
+"City","Plano","TX","Dallas-Fort Worth-Arlington, TX",44,4,0.9467,28.5141,45,4.80769230769231,0.632911392405063
+"City","Melissa","TX","Dallas-Fort Worth-Arlington, TX",5415,4,0.9666,19.7368,65,6.15384615384615,0.632911392405063
+"City","Haltom City","TX","Dallas-Fort Worth-Arlington, TX",708,4,1.0176,30.4348,61.5,3.65384615384615,0.632911392405063
+"City","Desoto","TX","Dallas-Fort Worth-Arlington, TX",588,4,1.0229,25.0965,79,4.23076923076923,0.632911392405063
+"City","Fate","TX","Dallas-Fort Worth-Arlington, TX",5434,4,1.0159,35.2941,68,6.53846153846154,0.632911392405063
+"City","Garland","TX","Dallas-Fort Worth-Arlington, TX",55,4,0.9935,28.0585,52,2.88461538461538,0.632911392405063
+"City","Murphy","TX","Dallas-Fort Worth-Arlington, TX",2435,4,0.9364,20.3883,50,4.61538461538461,0.632911392405063
+"City","Duncanville","TX","Dallas-Fort Worth-Arlington, TX",817,4,1.0009,31.6176,69.5,6.92307692307692,0.632911392405063
+"City","Hurst","TX","Dallas-Fort Worth-Arlington, TX",844,4,0.992,38.0597,54,7.30769230769231,0.632911392405063
+"City","Wylie","TX","Dallas-Fort Worth-Arlington, TX",769,4,0.9836,25.3219,48,2.30769230769231,0.632911392405063
+"City","Grand Prairie","TX","Dallas-Fort Worth-Arlington, TX",92,4,1.0121,28.6913,59,3.26923076923077,0.632911392405063
+"City","Corinth","TX","Dallas-Fort Worth-Arlington, TX",1802,4,0.9605,29.1339,50,5.57692307692308,0.632911392405063
+"City","Sachse","TX","Dallas-Fort Worth-Arlington, TX",2075,4,0.9983,19.2513,46.5,0.384615384615385,0.632911392405063
+"City","Cedar Hill","TX","Dallas-Fort Worth-Arlington, TX",650,4,0.9861,33.5938,59.5,8.07692307692308,0.632911392405063
+"City","Richardson","TX","Dallas-Fort Worth-Arlington, TX",209,4,0.9431,31.875,46,7.11538461538461,0.632911392405063
+"City","Royse City","TX","Dallas-Fort Worth-Arlington, TX",1695,4,1.0043,22.1902,84,5,0.632911392405063
+"City","Waxahachie","TX","Dallas-Fort Worth-Arlington, TX",668,4,0.9459,21.8905,64,7.69230769230769,0.632911392405063
+"City","Lancaster","TX","Dallas-Fort Worth-Arlington, TX",805,4,1.0521,16.6667,77,2.11538461538462,0.632911392405063
+"City","Watauga","TX","Dallas-Fort Worth-Arlington, TX",1510,4,0.9965,29.8701,39,1.34615384615385,0.632911392405063
+"City","Bedford","TX","Dallas-Fort Worth-Arlington, TX",652,4,0.9991,30.1282,47,1.92307692307692,0.632911392405063
+"City","Denton","TX","Dallas-Fort Worth-Arlington, TX",164,4,0.969,26.506,50,4.03846153846154,0.632911392405063
+"City","Southlake","TX","Dallas-Fort Worth-Arlington, TX",1109,4,0.8783,33.3333,71,10,0.632911392405063
+"City","Rockwall","TX","Dallas-Fort Worth-Arlington, TX",821,4,0.9792,33.8936,59,8.26923076923077,0.632911392405063
+"City","North Richland Hills","TX","Dallas-Fort Worth-Arlington, TX",458,4,0.9902,36.8421,65,8.65384615384615,0.632911392405063
+"City","Coppell","TX","Dallas-Fort Worth-Arlington, TX",816,4,0.9967,23.75,47,0.961538461538462,0.632911392405063
+"City","Rowlett","TX","Dallas-Fort Worth-Arlington, TX",563,4,1.019,23.7852,52,0.769230769230769,0.632911392405063
+"City","Keller","TX","Dallas-Fort Worth-Arlington, TX",813,4,0.9396,32.5333,60.5,9.42307692307692,0.632911392405063
+"City","Irving","TX","Dallas-Fort Worth-Arlington, TX",63,4,0.9778,33.7912,57.5,8.46153846153846,0.632911392405063
+"City","Saginaw","TX","Dallas-Fort Worth-Arlington, TX",1571,4,0.9054,25.974,51.5,7.5,0.632911392405063
+"City","Lewisville","TX","Dallas-Fort Worth-Arlington, TX",203,4,0.9903,25.4364,47,1.73076923076923,0.632911392405063
+"City","Mesquite","TX","Dallas-Fort Worth-Arlington, TX",128,4,1.017,24.0876,56,1.15384615384615,0.632911392405063
+"City","Dallas","TX","Dallas-Fort Worth-Arlington, TX",7,4,0.9537,35.2834,59,9.23076923076923,0.632911392405063
+"City","Forney","TX","Dallas-Fort Worth-Arlington, TX",3757,4,1.0125,27.673,73,5.19230769230769,0.632911392405063
+"City","Euless","TX","Dallas-Fort Worth-Arlington, TX",562,4,0.9788,30.6878,54,5.76923076923077,0.632911392405063
+"City","The Colony","TX","Dallas-Fort Worth-Arlington, TX",819,4,1.0153,25.8621,43,0.192307692307692,0.632911392405063
+"City","Dayton","OH","Dayton, OH",118,50,0.9644,36.5427,113,6.15384615384615,8.0379746835443
+"City","Huber Heights","OH","Dayton, OH",831,50,0.964,41.2869,118,9.23076923076923,8.0379746835443
+"City","Beavercreek","OH","Dayton, OH",703,50,0.9717,44.4867,90,3.07692307692308,8.0379746835443
+"City","Miamisburg","OH","Dayton, OH",1516,50,0.9774,48.5915,83,1.53846153846154,8.0379746835443
+"City","Centerville","OH","Dayton, OH",1504,50,0.9681,43.6464,87.5,3.84615384615385,8.0379746835443
+"City","Clayton","OH","Dayton, OH",2444,50,0.9708,53.6585,99,7.69230769230769,8.0379746835443
+"City","Englewood","OH","Dayton, OH",3761,50,0.9554,49.1228,104,10,8.0379746835443
+"City","Kettering","OH","Dayton, OH",494,50,0.9679,51.8717,88.5,6.92307692307692,8.0379746835443
+"City","Tipp City","OH","Dayton, OH",2188,50,0.9684,42.5532,105,5.38461538461539,8.0379746835443
+"City","Riverside","OH","Dayton, OH",1341,50,0.9397,47,85,8.46153846153846,8.0379746835443
+"City","Troy","OH","Dayton, OH",875,50,0.9728,44.964,94.5,4.61538461538461,8.0379746835443
+"City","Piqua","OH","Dayton, OH",2371,50,0.9895,37.7358,109,0.769230769230769,8.0379746835443
+"City","Xenia","OH","Dayton, OH",731,50,0.9739,41.4545,104,2.30769230769231,8.0379746835443
+"City","Ormond Beach","FL","Deltona-Daytona Beach-Ormond Beach, FL",835,78,0.9565,38.0515,107,7.69230769230769,7.46835443037975
+"City","Holly Hill","FL","Deltona-Daytona Beach-Ormond Beach, FL",3463,78,0.9817,24.6377,61.5,0.769230769230769,7.46835443037975
+"City","Edgewater","FL","Deltona-Daytona Beach-Ormond Beach, FL",1238,78,0.9593,42.2619,119,9.23076923076923,7.46835443037975
+"City","Debary","FL","Deltona-Daytona Beach-Ormond Beach, FL",1860,78,0.9848,43.7788,93,3.07692307692308,7.46835443037975
+"City","Deland","FL","Deltona-Daytona Beach-Ormond Beach, FL",448,78,0.965,36.5489,97,3.84615384615385,7.46835443037975
+"City","Deltona","FL","Deltona-Daytona Beach-Ormond Beach, FL",268,78,0.986,36.9441,87,2.30769230769231,7.46835443037975
+"City","Orange City","FL","Deltona-Daytona Beach-Ormond Beach, FL",1636,78,0.9699,30.4636,83,1.53846153846154,7.46835443037975
+"City","Daytona Beach","FL","Deltona-Daytona Beach-Ormond Beach, FL",412,78,0.9549,32.2816,101,6.15384615384615,7.46835443037975
+"City","Port Orange","FL","Deltona-Daytona Beach-Ormond Beach, FL",558,78,0.9629,38.5396,96,4.61538461538461,7.46835443037975
+"City","South Daytona","FL","Deltona-Daytona Beach-Ormond Beach, FL",3458,78,0.9339,33.3333,86,5.38461538461539,7.46835443037975
+"City","New Smyrna Beach","FL","Deltona-Daytona Beach-Ormond Beach, FL",1986,78,0.9467,32.1646,140.5,8.46153846153846,7.46835443037975
+"City","Ormond-by-the-Sea","FL","Deltona-Daytona Beach-Ormond Beach, FL",4913,78,0.9625,41.9048,98,6.92307692307692,7.46835443037975
+"City","Daytona Beach Shores","FL","Deltona-Daytona Beach-Ormond Beach, FL",5399,78,0.9408,35.2941,128,10,7.46835443037975
+"City","Ken Caryl","CO","Denver-Aurora, CO",951,20,0.9956,24.8555,49,2.5,0.316455696202532
+"City","Greenwood Village","CO","Denver-Aurora, CO",3139,20,0.9795,39.604,71,9.64285714285714,0.316455696202532
+"City","Englewood","CO","Denver-Aurora, CO",897,20,0.9907,26.3158,53,5.35714285714286,0.316455696202532
+"City","Littleton","CO","Denver-Aurora, CO",750,20,0.9915,32.9787,52,6.07142857142857,0.316455696202532
+"City","Castle Rock","CO","Denver-Aurora, CO",602,20,0.9911,25.8025,64,6.78571428571429,0.316455696202532
+"City","Conifer","CO","Denver-Aurora, CO",4885,20,0.9861,34.5794,74,9.28571428571429,0.316455696202532
+"City","Aurora","CO","Denver-Aurora, CO",35,20,1,22.5157,51,1.42857142857143,0.316455696202532
+"City","Denver","CO","Denver-Aurora, CO",17,20,0.9905,29.2517,54,7.85714285714286,0.316455696202532
+"City","Parker","CO","Denver-Aurora, CO",294,20,0.9896,28.1933,62,8.21428571428571,0.316455696202532
+"City","Morrison","CO","Denver-Aurora, CO",1894,20,0.9943,31.2,57,7.14285714285714,0.316455696202532
+"City","Bailey","CO","Denver-Aurora, CO",5116,20,0.9925,32.6531,83,8.57142857142857,0.316455696202532
+"City","Thornton","CO","Denver-Aurora, CO",147,20,1,16.8654,49,0.714285714285714,0.316455696202532
+"City","Westminster","CO","Denver-Aurora, CO",169,20,0.9977,24.1299,50,2.14285714285714,0.316455696202532
+"City","Elizabeth","CO","Denver-Aurora, CO",3683,20,0.9877,32.4074,70,8.92857142857143,0.316455696202532
+"City","Northglenn","CO","Denver-Aurora, CO",893,20,1,11.6279,47,0.357142857142857,0.316455696202532
+"City","Commerce City","CO","Denver-Aurora, CO",670,20,1,17.6724,56,2.85714285714286,0.316455696202532
+"City","Brighton","CO","Denver-Aurora, CO",856,20,0.9982,17.931,55,3.21428571428571,0.316455696202532
+"City","Evergreen","CO","Denver-Aurora, CO",1285,20,0.9731,37.9104,81,10,0.316455696202532
+"City","Centennial","CO","Denver-Aurora, CO",205,20,0.9908,26.6,54,5.71428571428571,0.316455696202532
+"City","Lakewood","CO","Denver-Aurora, CO",115,20,0.9954,31.9257,52,4.64285714285714,0.316455696202532
+"City","Highlands Ranch","CO","Denver-Aurora, CO",256,20,0.9924,23.0612,52,3.92857142857143,0.316455696202532
+"City","Sherrelwood","CO","Denver-Aurora, CO",2135,20,1.0011,20.3704,49,1.07142857142857,0.316455696202532
+"City","Welby","CO","Denver-Aurora, CO",3157,20,1.003,13.0435,56,1.78571428571429,0.316455696202532
+"City","Wheat Ridge","CO","Denver-Aurora, CO",1302,20,0.9883,27.451,52,6.42857142857143,0.316455696202532
+"City","Columbine","CO","Denver-Aurora, CO",1344,20,0.9965,37.963,49,4.28571428571429,0.316455696202532
+"City","Arvada","CO","Denver-Aurora, CO",195,20,0.9942,26.0246,52,3.57142857142857,0.316455696202532
+"City","Roxborough Park","CO","Denver-Aurora, CO",5093,20,0.9948,28,55.5,5,0.316455696202532
+"City","Broomfield","CO","Denver-Aurora, CO",498,20,0.9873,22.9025,57,7.5,0.316455696202532
+"City","Warren","MI","Detroit-Warren-Livonia, MI",135,11,0.9648,42.9189,91,6.13636363636364,7.34177215189873
+"City","Howell","MI","Detroit-Warren-Livonia, MI",485,11,0.9765,41.3208,111,5,7.34177215189873
+"City","Commerce Township","MI","Detroit-Warren-Livonia, MI",886,11,0.9732,46.6981,99,7.04545454545455,7.34177215189873
+"City","Waterford","MI","Detroit-Warren-Livonia, MI",360,11,0.9747,48.4634,85,3.40909090909091,7.34177215189873
+"City","Orion","MI","Detroit-Warren-Livonia, MI",966,11,0.9769,47.093,92,4.54545454545455,7.34177215189873
+"City","White Lake","MI","Detroit-Warren-Livonia, MI",1022,11,0.9721,48.4848,92,6.36363636363636,7.34177215189873
+"City","Saint Clair","MI","Detroit-Warren-Livonia, MI",3586,11,0.9513,50.4348,126.5,10,7.34177215189873
+"City","Macomb Township","MI","Detroit-Warren-Livonia, MI",301,11,0.9818,43.7624,95,2.5,7.34177215189873
+"City","Berkley","MI","Detroit-Warren-Livonia, MI",2880,11,0.9761,52.3077,74,1.59090909090909,7.34177215189873
+"City","Wixom","MI","Detroit-Warren-Livonia, MI",2685,11,0.978,49.3333,80,1.36363636363636,7.34177215189873
+"City","Bloomfield Hills","MI","Detroit-Warren-Livonia, MI",5381,11,0.9583,51.1202,94,9.77272727272727,7.34177215189873
+"City","Utica","MI","Detroit-Warren-Livonia, MI",298,11,0.9726,53.2294,95.5,8.63636363636364,7.34177215189873
+"City","Farmington Hills","MI","Detroit-Warren-Livonia, MI",300,11,0.9666,49.3119,78,4.77272727272727,7.34177215189873
+"City","Roseville","MI","Detroit-Warren-Livonia, MI",638,11,0.9821,42.2642,90,0.454545454545455,7.34177215189873
+"City","Port Huron Township","MI","Detroit-Warren-Livonia, MI",751,11,0.9655,39.1156,86,2.27272727272727,7.34177215189873
+"City","Royal Oak","MI","Detroit-Warren-Livonia, MI",493,11,0.9708,58.1911,77,5.22727272727273,7.34177215189873
+"City","Fowlerville","MI","Detroit-Warren-Livonia, MI",2742,11,0.9679,42.3077,102.5,7.5,7.34177215189873
+"City","Beverly Hills","MI","Detroit-Warren-Livonia, MI",4229,11,0.9624,53.5714,75.5,6.81818181818182,7.34177215189873
+"City","Brighton","MI","Detroit-Warren-Livonia, MI",600,11,0.9809,46.1538,91.5,1.81818181818182,7.34177215189873
+"City","Harrison Township","MI","Detroit-Warren-Livonia, MI",1313,11,0.9692,47.807,108,9.54545454545454,7.34177215189873
+"City","Madison Heights","MI","Detroit-Warren-Livonia, MI",1044,11,0.9639,33.0357,77.5,0.909090909090909,7.34177215189873
+"City","Algonac","MI","Detroit-Warren-Livonia, MI",3633,11,0.9646,40.9938,102,8.18181818181818,7.34177215189873
+"City","Clarkston","MI","Detroit-Warren-Livonia, MI",664,11,0.9774,42.1053,86,0.681818181818182,7.34177215189873
+"City","Milford Township","MI","Detroit-Warren-Livonia, MI",1327,11,0.9609,40.404,96.5,7.72727272727273,7.34177215189873
+"City","Troy","MI","Detroit-Warren-Livonia, MI",291,11,0.975,51.3382,82,2.95454545454545,7.34177215189873
+"City","West Bloomfield","MI","Detroit-Warren-Livonia, MI",399,11,0.9609,55.0538,84,8.86363636363636,7.34177215189873
+"City","Ferndale","MI","Detroit-Warren-Livonia, MI",1513,11,0.9617,47,77,5.45454545454545,7.34177215189873
+"City","Eastpointe","MI","Detroit-Warren-Livonia, MI",957,11,0.935,41.1371,92,7.95454545454545,7.34177215189873
+"City","Fort Gratiot","MI","Detroit-Warren-Livonia, MI",2653,11,0.9482,39.2523,92,7.27272727272727,7.34177215189873
+"City","Southfield","MI","Detroit-Warren-Livonia, MI",355,11,0.9794,42.029,90,1.13636363636364,7.34177215189873
+"City","Rochester","MI","Detroit-Warren-Livonia, MI",3405,11,0.9659,50.6667,81,5.90909090909091,7.34177215189873
+"City","Birmingham","MI","Detroit-Warren-Livonia, MI",1825,11,0.9652,50.6289,85,6.59090909090909,7.34177215189873
+"City","Saint Clair Shores","MI","Detroit-Warren-Livonia, MI",472,11,0.9674,56.057,92,9.09090909090909,7.34177215189873
+"City","Clawson","MI","Detroit-Warren-Livonia, MI",3671,11,0.9748,52.9412,80,3.86363636363636,7.34177215189873
+"City","Pontiac","MI","Detroit-Warren-Livonia, MI",463,11,0.9531,33.4821,84,2.72727272727273,7.34177215189873
+"City","Oak Park","MI","Detroit-Warren-Livonia, MI",1054,11,0.9604,40.8696,89,5.68181818181818,7.34177215189873
+"City","Oxford Township","MI","Detroit-Warren-Livonia, MI",1606,11,0.9688,34.2391,91.5,2.04545454545455,7.34177215189873
+"City","Rochester Hills","MI","Detroit-Warren-Livonia, MI",354,11,0.9724,49.4286,79,4.09090909090909,7.34177215189873
+"City","Chesterfield","MI","Detroit-Warren-Livonia, MI",700,11,0.9713,46.7626,100,8.40909090909091,7.34177215189873
+"City","Hazel Park","MI","Detroit-Warren-Livonia, MI",2430,11,0.9586,40,79,3.18181818181818,7.34177215189873
+"City","Pinckney","MI","Detroit-Warren-Livonia, MI",1445,11,0.9638,42.6606,106,9.31818181818182,7.34177215189873
+"City","Clinton Township","MI","Detroit-Warren-Livonia, MI",213,11,0.9743,43.7238,91.5,3.63636363636364,7.34177215189873
+"City","Sterling Heights","MI","Detroit-Warren-Livonia, MI",140,11,0.9726,45.4867,89,4.31818181818182,7.34177215189873
+"City","Novi","MI","Detroit-Warren-Livonia, MI",593,11,0.9754,44.3299,78,0.227272727272727,7.34177215189873
+"City","Middleville","MI","Grand Rapids-Wyoming, MI",3108,55,0.9675,41.4286,92,8.33333333333333,5.88607594936709
+"City","East Grand Rapids","MI","Grand Rapids-Wyoming, MI",4023,55,0.9574,38.3838,67,5.83333333333333,5.88607594936709
+"City","Rockford","MI","Grand Rapids-Wyoming, MI",1056,55,0.9632,45.8515,84,9.16666666666667,5.88607594936709
+"City","Forest Hills","MI","Grand Rapids-Wyoming, MI",1259,55,0.9798,46.0829,79.5,5,5.88607594936709
+"City","Kentwood","MI","Grand Rapids-Wyoming, MI",613,55,0.9831,42.1488,78.5,1.66666666666667,5.88607594936709
+"City","Cedar Springs","MI","Grand Rapids-Wyoming, MI",2178,55,0.9636,35.7143,88.5,7.5,5.88607594936709
+"City","Wyoming","MI","Grand Rapids-Wyoming, MI",539,55,0.9833,44.0171,85,3.33333333333333,5.88607594936709
+"City","Grand Rapids Township","MI","Grand Rapids-Wyoming, MI",69,55,0.9659,45.7447,72.5,6.66666666666667,5.88607594936709
+"City","Lowell Township","MI","Grand Rapids-Wyoming, MI",2508,55,0.9637,51.6129,100,10,5.88607594936709
+"City","Grand Rapids","MI","Grand Rapids-Wyoming, MI",85,55,0.9701,45.1916,78,4.16666666666667,5.88607594936709
+"City","Grandville","MI","Grand Rapids-Wyoming, MI",1076,55,0.9787,37.0629,69,0.833333333333333,5.88607594936709
+"City","Walker","MI","Grand Rapids-Wyoming, MI",1361,55,0.9844,48,77,2.5,5.88607594936709
+"City","Newington","CT","Hartford-West Hartford-East Hartford, CT",1011,39,0.965,49.3464,101,4.54545454545455,8.54430379746835
+"City","Wethersfield","CT","Hartford-West Hartford-East Hartford, CT",1182,39,0.9713,55.6291,104,5.45454545454545,8.54430379746835
+"City","Enfield","CT","Hartford-West Hartford-East Hartford, CT",684,39,0.9614,56.8047,111,10,8.54430379746835
+"City","Glastonbury","CT","Hartford-West Hartford-East Hartford, CT",5180,39,0.9609,48.9703,99.5,8.18181818181818,8.54430379746835
+"City","Manchester","CT","Hartford-West Hartford-East Hartford, CT",480,39,0.9805,51.2415,102,2.72727272727273,8.54430379746835
+"City","Avon","CT","Hartford-West Hartford-East Hartford, CT",2032,39,0.9635,44.373,113.5,6.36363636363636,8.54430379746835
+"City","Bristol","CT","Hartford-West Hartford-East Hartford, CT",453,39,0.9661,50,116,7.27272727272727,8.54430379746835
+"City","Southington","CT","Hartford-West Hartford-East Hartford, CT",982,39,0.9641,47.8125,97,3.63636363636364,8.54430379746835
+"City","West Hartford","CT","Hartford-West Hartford-East Hartford, CT",419,39,0.9751,53.9095,86,1.81818181818182,8.54430379746835
+"City","East Hartford","CT","Hartford-West Hartford-East Hartford, CT",585,39,0.9238,48.4241,105,9.09090909090909,8.54430379746835
+"City","Windsor","CT","Hartford-West Hartford-East Hartford, CT",1081,39,0.9741,47.9592,95,0.909090909090909,8.54430379746835
+"City","Orange Park","FL","Jacksonville, FL",233,35,0.9745,40.8039,105.5,3,6.07594936708861
+"City","Butler Beach","FL","Jacksonville, FL",5294,35,0.939261114589856,23.7037,127,9,6.07594936708861
+"City","Middleburg","FL","Jacksonville, FL",543,35,0.9846,31.8662,103,1,6.07594936708861
+"City","Fruit Cove","FL","Jacksonville, FL",1392,35,0.969,43.4307,94.5,4,6.07594936708861
+"City","Jacksonville","FL","Jacksonville, FL",9,35,0.9752,35.325,96,2,6.07594936708861
+"City","Macclenny","FL","Jacksonville, FL",3247,35,0.9613,40.566,121,7,6.07594936708861
+"City","Saint Augustine","FL","Jacksonville, FL",211,35,0.9599,27.7712,118,5,6.07594936708861
+"City","Fernandina Beach","FL","Jacksonville, FL",1047,35,0.9458,32.6807,130.5,10,6.07594936708861
+"City","Ponte Vedra Beach","FL","Jacksonville, FL",993,35,0.9546,40.7867,114.5,8,6.07594936708861
+"City","Jacksonville Beach","FL","Jacksonville, FL",1539,35,0.9698,55.5957,104.5,6,6.07594936708861
+"City","Dana Point","CA","Los Angeles-Long Beach-Santa Ana, CA",1219,2,0.9755,32.6241,86.5,9.26315789473684,0.886075949367089
+"City","Alhambra","CA","Los Angeles-Long Beach-Santa Ana, CA",283,2,0.9809,29.2683,63,5.05263157894737,0.886075949367089
+"City","South Whittier","CA","Los Angeles-Long Beach-Santa Ana, CA",530,2,0.9966,28.5714,72,3.68421052631579,0.886075949367089
+"City","El Monte","CA","Los Angeles-Long Beach-Santa Ana, CA",241,2,0.9915,33.4975,77,6,0.886075949367089
+"City","Santa Clarita","CA","Los Angeles-Long Beach-Santa Ana, CA",97,2,0.9924,32.0321,64,3.15789473684211,0.886075949367089
+"City","Pasadena","CA","Los Angeles-Long Beach-Santa Ana, CA",126,2,0.986,27.6339,61,2.42105263157895,0.886075949367089
+"City","Pico Rivera","CA","Los Angeles-Long Beach-Santa Ana, CA",409,2,0.9985,28.3465,69,2.10526315789474,0.886075949367089
+"City","Laguna Beach","CA","Los Angeles-Long Beach-Santa Ana, CA",1616,2,0.9577,35,99,9.89473684210526,0.886075949367089
+"City","Aliso Viejo","CA","Los Angeles-Long Beach-Santa Ana, CA",644,2,0.9819,37.7841,71,8,0.886075949367089
+"City","Glendora","CA","Los Angeles-Long Beach-Santa Ana, CA",561,2,0.9786,34.466,62,6.73684210526316,0.886075949367089
+"City","Monrovia","CA","Los Angeles-Long Beach-Santa Ana, CA",732,2,0.9845,34.6405,58,4.84210526315789,0.886075949367089
+"City","La Canada Flintridge","CA","Los Angeles-Long Beach-Santa Ana, CA",1693,2,0.9652,22.9885,59,4.21052631578947,0.886075949367089
+"City","San Gabriel","CA","Los Angeles-Long Beach-Santa Ana, CA",417,2,0.9982,25.9259,57,0.315789473684211,0.886075949367089
+"City","Westminster","CA","Los Angeles-Long Beach-Santa Ana, CA",254,2,0.9828,29.7101,64,4.94736842105263,0.886075949367089
+"City","Azusa","CA","Los Angeles-Long Beach-Santa Ana, CA",500,2,1.0001,26.875,65,0.842105263157895,0.886075949367089
+"City","Buena Park","CA","Los Angeles-Long Beach-Santa Ana, CA",289,2,0.9897,29.7561,63.5,2.94736842105263,0.886075949367089
+"City","Whittier","CA","Los Angeles-Long Beach-Santa Ana, CA",272,2,0.9888,33.887,61.5,4.10526315789474,0.886075949367089
+"City","Rancho Santa Margarita","CA","Los Angeles-Long Beach-Santa Ana, CA",718,2,0.9878,42.5606,69,6.94736842105263,0.886075949367089
+"City","Torrance","CA","Los Angeles-Long Beach-Santa Ana, CA",116,2,0.9865,33.1307,59,4.31578947368421,0.886075949367089
+"City","Lynwood","CA","Los Angeles-Long Beach-Santa Ana, CA",375,2,0.9937,19.7183,72,1.78947368421053,0.886075949367089
+"City","Claremont","CA","Los Angeles-Long Beach-Santa Ana, CA",850,2,0.9839,32.5153,71.5,7.15789473684211,0.886075949367089
+"City","Los Angeles","CA","Los Angeles-Long Beach-Santa Ana, CA",2,2,0.9909,29.5606,69,3.47368421052632,0.886075949367089
+"City","Anaheim","CA","Los Angeles-Long Beach-Santa Ana, CA",34,2,0.9846,30.591,71,5.89473684210526,0.886075949367089
+"City","Downey","CA","Los Angeles-Long Beach-Santa Ana, CA",178,2,0.9911,26.2172,70.5,3.05263157894737,0.886075949367089
+"City","Temple City","CA","Los Angeles-Long Beach-Santa Ana, CA",906,2,0.9855,29.7297,58,2.52631578947368,0.886075949367089
+"City","Agoura Hills","CA","Los Angeles-Long Beach-Santa Ana, CA",1315,2,0.9735,36.2069,71,8.73684210526316,0.886075949367089
+"City","Manhattan Beach","CA","Los Angeles-Long Beach-Santa Ana, CA",874,2,0.9873,28.0303,58,1.47368421052632,0.886075949367089
+"City","Norwalk","CA","Los Angeles-Long Beach-Santa Ana, CA",188,2,0.9955,27.8027,65,1.57894736842105,0.886075949367089
+"City","San Juan Capistrano","CA","Los Angeles-Long Beach-Santa Ana, CA",845,2,0.9783,31.0105,94,8.63157894736842,0.886075949367089
+"City","Lancaster","CA","Los Angeles-Long Beach-Santa Ana, CA",87,2,0.9963,33.5849,88,6.42105263157895,0.886075949367089
+"City","Hawthorne","CA","Los Angeles-Long Beach-Santa Ana, CA",238,2,1,30.6306,55,0.631578947368421,0.886075949367089
+"City","Baldwin Park","CA","Los Angeles-Long Beach-Santa Ana, CA",334,2,1,20.3125,75,1.26315789473684,0.886075949367089
+"City","Monterey Park","CA","Los Angeles-Long Beach-Santa Ana, CA",457,2,0.9904,26.7176,69,2.73684210526316,0.886075949367089
+"City","Palmdale","CA","Los Angeles-Long Beach-Santa Ana, CA",93,2,1,35.0372,84,5.78947368421053,0.886075949367089
+"City","Seal Beach","CA","Los Angeles-Long Beach-Santa Ana, CA",1323,2,0.9885,39.6739,64,5.57894736842105,0.886075949367089
+"City","Gardena","CA","Los Angeles-Long Beach-Santa Ana, CA",473,2,0.9928,26.2712,76.5,3.89473684210526,0.886075949367089
+"City","Pomona","CA","Los Angeles-Long Beach-Santa Ana, CA",113,2,0.9933,31.5126,68,3.78947368421053,0.886075949367089
+"City","La Puente","CA","Los Angeles-Long Beach-Santa Ana, CA",761,2,0.9882,23.6111,80,4.73684210526316,0.886075949367089
+"City","Lake Forest","CA","Los Angeles-Long Beach-Santa Ana, CA",361,2,0.9874,34.5269,67,5.36842105263158,0.886075949367089
+"City","Huntington Beach","CA","Los Angeles-Long Beach-Santa Ana, CA",79,2,0.981,35.8908,75,8.31578947368421,0.886075949367089
+"City","Yorba Linda","CA","Los Angeles-Long Beach-Santa Ana, CA",447,2,0.9837,39.3536,78,8.94736842105263,0.886075949367089
+"City","Cerritos","CA","Los Angeles-Long Beach-Santa Ana, CA",614,2,0.9839,32.2034,69,6.31578947368421,0.886075949367089
+"City","Inglewood","CA","Los Angeles-Long Beach-Santa Ana, CA",130,2,0.986,18.4713,90,5.15789473684211,0.886075949367089
+"City","Compton","CA","Los Angeles-Long Beach-Santa Ana, CA",131,2,1.0013,21.4744,82,1.89473684210526,0.886075949367089
+"City","Orange","CA","Los Angeles-Long Beach-Santa Ana, CA",132,2,0.9812,36.0308,70,7.78947368421053,0.886075949367089
+"City","Cypress","CA","Los Angeles-Long Beach-Santa Ana, CA",618,2,0.9801,34.2657,63,6.52631578947368,0.886075949367089
+"City","Mission Viejo","CA","Los Angeles-Long Beach-Santa Ana, CA",225,2,0.9845,42.1233,65,7.26315789473684,0.886075949367089
+"City","Redondo Beach","CA","Los Angeles-Long Beach-Santa Ana, CA",386,2,0.9901,28.5235,59,1.05263157894737,0.886075949367089
+"City","Arcadia","CA","Los Angeles-Long Beach-Santa Ana, CA",389,2,0.981,30.4843,58,4.63157894736842,0.886075949367089
+"City","Laguna Woods","CA","Los Angeles-Long Beach-Santa Ana, CA",2579,2,0.9698,45.4082,92,10,0.886075949367089
+"City","Rancho Palos Verdes","CA","Los Angeles-Long Beach-Santa Ana, CA",756,2,0.9793,35.1111,66,7.47368421052632,0.886075949367089
+"City","Covina","CA","Los Angeles-Long Beach-Santa Ana, CA",314,2,1,29.4574,74.5,3.36842105263158,0.886075949367089
+"City","Santa Ana","CA","Los Angeles-Long Beach-Santa Ana, CA",36,2,0.9851,31.5044,73,6.84210526315789,0.886075949367089
+"City","Placentia","CA","Los Angeles-Long Beach-Santa Ana, CA",608,2,0.9841,37.3832,61,5.68421052631579,0.886075949367089
+"City","Calabasas","CA","Los Angeles-Long Beach-Santa Ana, CA",1867,2,0.9648,32.6203,87,9.36842105263158,0.886075949367089
+"City","San Clemente","CA","Los Angeles-Long Beach-Santa Ana, CA",413,2,0.9777,36.0902,81,9.47368421052632,0.886075949367089
+"City","West Hollywood","CA","Los Angeles-Long Beach-Santa Ana, CA",901,2,0.9759,35.7843,69.5,8.21052631578947,0.886075949367089
+"City","Costa Mesa","CA","Los Angeles-Long Beach-Santa Ana, CA",172,2,0.9793,34.6154,73.5,8.10526315789474,0.886075949367089
+"City","Lakewood","CA","Los Angeles-Long Beach-Santa Ana, CA",302,2,0.9986,33.3333,63,2.21052631578947,0.886075949367089
+"City","Carson","CA","Los Angeles-Long Beach-Santa Ana, CA",306,2,1.0001,21.7391,70,0.947368421052632,0.886075949367089
+"City","North Tustin","CA","Los Angeles-Long Beach-Santa Ana, CA",1765,2,0.9775,37.1429,71,8.8421052631579,0.886075949367089
+"City","Laguna Hills","CA","Los Angeles-Long Beach-Santa Ana, CA",1120,2,0.9828,34.6154,63.5,6.21052631578947,0.886075949367089
+"City","Malibu","CA","Los Angeles-Long Beach-Santa Ana, CA",1660,2,0.9478,31.7919,118,9.68421052631579,0.886075949367089
+"City","South Gate","CA","Los Angeles-Long Beach-Santa Ana, CA",216,2,1,12.7273,82,1.68421052631579,0.886075949367089
+"City","La Habra","CA","Los Angeles-Long Beach-Santa Ana, CA",461,2,0.9875,36.3208,73,7.36842105263158,0.886075949367089
+"City","Rosemead","CA","Los Angeles-Long Beach-Santa Ana, CA",424,2,0.9857,30.1075,57,2.84210526315789,0.886075949367089
+"City","San Dimas","CA","Los Angeles-Long Beach-Santa Ana, CA",948,2,0.9875,30.9091,64,4,0.886075949367089
+"City","Fountain Valley","CA","Los Angeles-Long Beach-Santa Ana, CA",513,2,0.9844,30,59,3.57894736842105,0.886075949367089
+"City","Ladera Ranch","CA","Los Angeles-Long Beach-Santa Ana, CA",1448,2,0.9865,40.856,85,8.42105263157895,0.886075949367089
+"City","Castaic","CA","Los Angeles-Long Beach-Santa Ana, CA",1452,2,0.9951,39.2523,66.5,5.26315789473684,0.886075949367089
+"City","Burbank","CA","Los Angeles-Long Beach-Santa Ana, CA",199,2,0.9908,29.8658,58,1.15789473684211,0.886075949367089
+"City","Fullerton","CA","Los Angeles-Long Beach-Santa Ana, CA",134,2,0.9859,27.4021,62,2.63157894736842,0.886075949367089
+"City","Santa Monica","CA","Los Angeles-Long Beach-Santa Ana, CA",244,2,0.9999,18.638,61,0.210526315789474,0.886075949367089
+"City","La Mirada","CA","Los Angeles-Long Beach-Santa Ana, CA",617,2,0.9924,28.9157,62.5,1.36842105263158,0.886075949367089
+"City","East Los Angeles","CA","Los Angeles-Long Beach-Santa Ana, CA",149,2,0.982,22.3301,81,6.10526315789474,0.886075949367089
+"City","Long Beach","CA","Los Angeles-Long Beach-Santa Ana, CA",22,2,0.9899,31.1206,73.5,5.47368421052632,0.886075949367089
+"City","Altadena","CA","Los Angeles-Long Beach-Santa Ana, CA",873,2,0.9996,30.303,57,0.736842105263158,0.886075949367089
+"City","Newport Beach","CA","Los Angeles-Long Beach-Santa Ana, CA",418,2,0.9603,34.4554,95.5,9.78947368421053,0.886075949367089
+"City","Lomita","CA","Los Angeles-Long Beach-Santa Ana, CA",1812,2,0.9832,25,68,4.52631578947368,0.886075949367089
+"City","Hacienda Heights","CA","Los Angeles-Long Beach-Santa Ana, CA",549,2,0.9867,32.381,79,7.05263157894737,0.886075949367089
+"City","Brea","CA","Los Angeles-Long Beach-Santa Ana, CA",699,2,0.9805,34.4681,70,7.57894736842105,0.886075949367089
+"City","Montebello","CA","Los Angeles-Long Beach-Santa Ana, CA",443,2,0.9913,19.8529,61,0.421052631578947,0.886075949367089
+"City","Glendale","CA","Los Angeles-Long Beach-Santa Ana, CA",81,2,0.9991,25.8352,61,0.526315789473684,0.886075949367089
+"City","Irvine","CA","Los Angeles-Long Beach-Santa Ana, CA",72,2,0.9782,36.7003,71,8.52631578947368,0.886075949367089
+"City","Culver City","CA","Los Angeles-Long Beach-Santa Ana, CA",807,2,1.0001,23.3645,56,0.105263157894737,0.886075949367089
+"City","Bellflower","CA","Los Angeles-Long Beach-Santa Ana, CA",329,2,0.9913,27.8195,67,2.31578947368421,0.886075949367089
+"City","Walnut","CA","Los Angeles-Long Beach-Santa Ana, CA",1058,2,0.9708,37.8571,71,9.05263157894737,0.886075949367089
+"City","Rowland Heights","CA","Los Angeles-Long Beach-Santa Ana, CA",709,2,0.9743,32.1839,71,7.68421052631579,0.886075949367089
+"City","Duarte","CA","Los Angeles-Long Beach-Santa Ana, CA",1641,2,0.987,26.087,63,2,0.886075949367089
+"City","Diamond Bar","CA","Los Angeles-Long Beach-Santa Ana, CA",627,2,0.9793,39.528,74,9.1578947368421,0.886075949367089
+"City","La Verne","CA","Los Angeles-Long Beach-Santa Ana, CA",1033,2,0.9829,37.3913,61,6.63157894736842,0.886075949367089
+"City","Tustin","CA","Los Angeles-Long Beach-Santa Ana, CA",311,2,0.9846,41.5282,72,7.89473684210526,0.886075949367089
+"City","Garden Grove","CA","Los Angeles-Long Beach-Santa Ana, CA",90,2,0.9863,29.9169,65,4.42105263157895,0.886075949367089
+"City","Laguna Niguel","CA","Los Angeles-Long Beach-Santa Ana, CA",426,2,0.9773,38.8034,77,9.57894736842105,0.886075949367089
+"City","West Covina","CA","Los Angeles-Long Beach-Santa Ana, CA",181,2,0.9907,28.483,68,3.26315789473684,0.886075949367089
+"City","Kings Point","FL","Miami-Fort Lauderdale-Pompano Beach, FL",4006,7,0.9308,25.7463,91,3.97727272727273,6.20253164556962
+"City","West Perrine","FL","Miami-Fort Lauderdale-Pompano Beach, FL",4351,7,0.922619047619048,21.875,97.5,3.86363636363636,6.20253164556962
+"City","The Crossings","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1378,7,0.9698,34.9282,99.5,4.77272727272727,6.20253164556962
+"City","Delray Beach","FL","Miami-Fort Lauderdale-Pompano Beach, FL",445,7,0.9437,28.8317,108,7.84090909090909,6.20253164556962
+"City","Palm Beach","FL","Miami-Fort Lauderdale-Pompano Beach, FL",4876,7,0.8874,14.6907,232,8.06818181818182,6.20253164556962
+"City","Miami","FL","Miami-Fort Lauderdale-Pompano Beach, FL",26,7,0.9579,26.6844,127,6.59090909090909,6.20253164556962
+"City","Sunrise","FL","Miami-Fort Lauderdale-Pompano Beach, FL",263,7,0.9658,33.7982,103,6.13636363636364,6.20253164556962
+"City","Parkland","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1689,7,0.9691,37.9052,107,6.70454545454545,6.20253164556962
+"City","Sunset","FL","Miami-Fort Lauderdale-Pompano Beach, FL",2353,7,0.9572,28.5714,87,2.95454545454545,6.20253164556962
+"City","Key Biscayne","FL","Miami-Fort Lauderdale-Pompano Beach, FL",3425,7,0.9345,26.5517,161.5,9.20454545454546,6.20253164556962
+"City","Coconut Creek","FL","Miami-Fort Lauderdale-Pompano Beach, FL",565,7,0.9692,31.1448,90,2.61363636363636,6.20253164556962
+"City","Homestead","FL","Miami-Fort Lauderdale-Pompano Beach, FL",575,7,0.9812,27.3412,112.5,2.84090909090909,6.20253164556962
+"City","Kendale Lakes","FL","Miami-Fort Lauderdale-Pompano Beach, FL",452,7,0.9741,21.875,86,0.340909090909091,6.20253164556962
+"City","Royal Palm Beach","FL","Miami-Fort Lauderdale-Pompano Beach, FL",937,7,0.9666,40.2439,85,3.75,6.20253164556962
+"City","Princeton","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1545,7,0.9717,15.6818,98,0.681818181818182,6.20253164556962
+"City","Kendall","FL","Miami-Fort Lauderdale-Pompano Beach, FL",321,7,0.9657,32.4693,101,5.11363636363636,6.20253164556962
+"City","North Bay Village","FL","Miami-Fort Lauderdale-Pompano Beach, FL",5010,7,0.9661,28.2686,131,5.90909090909091,6.20253164556962
+"City","Bal Harbour","FL","Miami-Fort Lauderdale-Pompano Beach, FL",5437,7,0.9574,19.9005,148,5.22727272727273,6.20253164556962
+"City","Miami Beach","FL","Miami-Fort Lauderdale-Pompano Beach, FL",262,7,0.9505,24.6467,135,7.15909090909091,6.20253164556962
+"City","Ojus","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1639,7,0.9566,32.8267,133,9.43181818181818,6.20253164556962
+"City","Aventura","FL","Miami-Fort Lauderdale-Pompano Beach, FL",827,7,0.9476,29.1885,146,9.54545454545454,6.20253164556962
+"City","Jupiter","FL","Miami-Fort Lauderdale-Pompano Beach, FL",436,7,0.9564,29.4785,101,5.45454545454545,6.20253164556962
+"City","Doral","FL","Miami-Fort Lauderdale-Pompano Beach, FL",632,7,0.9641,30.2262,119.5,7.04545454545455,6.20253164556962
+"City","Miami Lakes","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1080,7,0.972,31.5315,99,3.29545454545455,6.20253164556962
+"City","Miami Gardens","FL","Miami-Fort Lauderdale-Pompano Beach, FL",170,7,0.9898,27.9732,109.5,2.27272727272727,6.20253164556962
+"City","West Park","FL","Miami-Fort Lauderdale-Pompano Beach, FL",3001,7,0.9642,25.4717,87,1.47727272727273,6.20253164556962
+"City","Fountainbleau","FL","Miami-Fort Lauderdale-Pompano Beach, FL",415,7,0.976,26.2032,89.5,0.568181818181818,6.20253164556962
+"City","Lake Worth","FL","Miami-Fort Lauderdale-Pompano Beach, FL",880,7,0.9698,32.852,109,5.68181818181818,6.20253164556962
+"City","North Miami Beach","FL","Miami-Fort Lauderdale-Pompano Beach, FL",783,7,0.9505,24.3644,115,6.02272727272727,6.20253164556962
+"City","Tamiami","FL","Miami-Fort Lauderdale-Pompano Beach, FL",474,7,0.9709,21.8023,103,1.59090909090909,6.20253164556962
+"City","Glenvar Heights","FL","Miami-Fort Lauderdale-Pompano Beach, FL",2282,7,0.974,30.8108,97,2.72727272727273,6.20253164556962
+"City","Lighthouse Point","FL","Miami-Fort Lauderdale-Pompano Beach, FL",3962,7,0.9454,30.9013,130,10,6.20253164556962
+"City","Hallandale","FL","Miami-Fort Lauderdale-Pompano Beach, FL",836,7,0.9534,30.2439,136,9.09090909090909,6.20253164556962
+"City","Ives Estates","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1293,7,0.9275,29.845,105,8.75,6.20253164556962
+"City","Dania Beach","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1085,7,0.9538,31.0469,111,8.52272727272727,6.20253164556962
+"City","West Palm Beach","FL","Miami-Fort Lauderdale-Pompano Beach, FL",200,7,0.9468,32.5397,115.5,9.65909090909091,6.20253164556962
+"City","Lake Worth Corridor","FL","Miami-Fort Lauderdale-Pompano Beach, FL",2062,7,0.9856,19.5122,108,1.25,6.20253164556962
+"City","Hollywood","FL","Miami-Fort Lauderdale-Pompano Beach, FL",123,7,0.9592,29.7094,112.5,6.93181818181818,6.20253164556962
+"City","North Miami","FL","Miami-Fort Lauderdale-Pompano Beach, FL",449,7,0.9694,24.9004,124.5,3.63636363636364,6.20253164556962
+"City","Pinecrest","FL","Miami-Fort Lauderdale-Pompano Beach, FL",2150,7,0.9526,33.8462,119,9.88636363636364,6.20253164556962
+"City","Surfside","FL","Miami-Fort Lauderdale-Pompano Beach, FL",5225,7,0.9453,21.875,155,7.5,6.20253164556962
+"City","Pompano Beach","FL","Miami-Fort Lauderdale-Pompano Beach, FL",208,7,0.9501,30.6875,108,8.18181818181818,6.20253164556962
+"City","Kendall West","FL","Miami-Fort Lauderdale-Pompano Beach, FL",773,7,0.9839,27.2109,99,1.70454545454545,6.20253164556962
+"City","South Miami Heights","FL","Miami-Fort Lauderdale-Pompano Beach, FL",922,7,0.9978,19.6154,97,0.227272727272727,6.20253164556962
+"City","Lauderdale Lakes","FL","Miami-Fort Lauderdale-Pompano Beach, FL",959,7,0.9525,23.8434,110,4.88636363636364,6.20253164556962
+"City","Village of Palmetto Bay","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1310,7,0.961,34.2193,122.5,8.97727272727273,6.20253164556962
+"City","Naranja","FL","Miami-Fort Lauderdale-Pompano Beach, FL",4590,7,0.9853,27.0492,138,3.52272727272727,6.20253164556962
+"City","University Park","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1110,7,1.0129,28.8,100,1.93181818181818,6.20253164556962
+"City","Plantation","FL","Miami-Fort Lauderdale-Pompano Beach, FL",261,7,0.9638,33.5329,94,4.20454545454545,6.20253164556962
+"City","Tequesta","FL","Miami-Fort Lauderdale-Pompano Beach, FL",4917,7,0.9383,31.0078,102.5,8.63636363636364,6.20253164556962
+"City","Miramar","FL","Miami-Fort Lauderdale-Pompano Beach, FL",145,7,0.9742,30.829,97,2.38636363636364,6.20253164556962
+"City","North Lauderdale","FL","Miami-Fort Lauderdale-Pompano Beach, FL",752,7,0.9846,24.1071,99,0.909090909090909,6.20253164556962
+"City","Leisure City","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1518,7,1.0222,30.7692,86,1.36363636363636,6.20253164556962
+"City","Country Club","FL","Miami-Fort Lauderdale-Pompano Beach, FL",674,7,0.9746,23.3645,99,1.02272727272727,6.20253164556962
+"City","Coral Springs","FL","Miami-Fort Lauderdale-Pompano Beach, FL",151,7,0.9665,35.4795,95,4.09090909090909,6.20253164556962
+"City","Coral Gables","FL","Miami-Fort Lauderdale-Pompano Beach, FL",636,7,0.9622,29.037,116,6.25,6.20253164556962
+"City","West Little River","FL","Miami-Fort Lauderdale-Pompano Beach, FL",883,7,0.9719,20.3822,99,1.13636363636364,6.20253164556962
+"City","Boynton Beach","FL","Miami-Fort Lauderdale-Pompano Beach, FL",112,7,0.962,33.6653,94,4.65909090909091,6.20253164556962
+"City","Deerfield Beach","FL","Miami-Fort Lauderdale-Pompano Beach, FL",487,7,0.9432,29.3103,108,8.29545454545454,6.20253164556962
+"City","Lauderdale-by-the-Sea","FL","Miami-Fort Lauderdale-Pompano Beach, FL",5103,7,0.9503,24.9042,141,7.61363636363636,6.20253164556962
+"City","Wilton Manors","FL","Miami-Fort Lauderdale-Pompano Beach, FL",3769,7,0.9513,41.3333,110,9.77272727272727,6.20253164556962
+"City","Brownsville","FL","Miami-Fort Lauderdale-Pompano Beach, FL",2883,7,0.949913644214162,28.3582,82.5,3.40909090909091,6.20253164556962
+"City","Miami Shores","FL","Miami-Fort Lauderdale-Pompano Beach, FL",3896,7,0.9603,31.3725,104,6.36363636363636,6.20253164556962
+"City","Greenacres","FL","Miami-Fort Lauderdale-Pompano Beach, FL",825,7,0.9731,25.2708,90,0.795454545454545,6.20253164556962
+"City","Fort Lauderdale","FL","Miami-Fort Lauderdale-Pompano Beach, FL",94,7,0.9543,30.0342,115,7.95454545454545,6.20253164556962
+"City","Weston","FL","Miami-Fort Lauderdale-Pompano Beach, FL",373,7,0.9625,37.9641,105,7.27272727272727,6.20253164556962
+"City","Pembroke Pines","FL","Miami-Fort Lauderdale-Pompano Beach, FL",108,7,0.9747,30.5447,90,1.81818181818182,6.20253164556962
+"City","Davie","FL","Miami-Fort Lauderdale-Pompano Beach, FL",228,7,0.968,31.0762,94,3.06818181818182,6.20253164556962
+"City","Richmond West","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1000,7,0.9916,23.2044,88,0.113636363636364,6.20253164556962
+"City","Tamarac","FL","Miami-Fort Lauderdale-Pompano Beach, FL",435,7,0.9617,32.0889,107,6.47727272727273,6.20253164556962
+"City","Margate","FL","Miami-Fort Lauderdale-Pompano Beach, FL",552,7,0.9715,29.9308,91.5,2.15909090909091,6.20253164556962
+"City","Boca Raton","FL","Miami-Fort Lauderdale-Pompano Beach, FL",66,7,0.95,32.4102,114,9.31818181818182,6.20253164556962
+"City","Coral Terrace","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1299,7,0.966,37.2414,115.5,8.40909090909091,6.20253164556962
+"City","Lauderhill","FL","Miami-Fort Lauderdale-Pompano Beach, FL",377,7,0.9621,26.7221,116,5,6.20253164556962
+"City","Cutler Bay","FL","Miami-Fort Lauderdale-Pompano Beach, FL",741,7,0.9741,32.7181,90,2.5,6.20253164556962
+"City","North Palm Beach","FL","Miami-Fort Lauderdale-Pompano Beach, FL",3450,7,0.9309,28.1106,118,8.86363636363636,6.20253164556962
+"City","Juno Beach","FL","Miami-Fort Lauderdale-Pompano Beach, FL",5314,7,0.957915831663327,25.7426,146,6.81818181818182,6.20253164556962
+"City","The Hammocks","FL","Miami-Fort Lauderdale-Pompano Beach, FL",580,7,0.9784,29.4643,98,2.04545454545455,6.20253164556962
+"City","Palm Beach Gardens","FL","Miami-Fort Lauderdale-Pompano Beach, FL",550,7,0.9543,28.4355,105,5.34090909090909,6.20253164556962
+"City","Golden Glades","FL","Miami-Fort Lauderdale-Pompano Beach, FL",933,7,0.9539,25.7028,107.5,4.54545454545455,6.20253164556962
+"City","Riviera Beach","FL","Miami-Fort Lauderdale-Pompano Beach, FL",998,7,0.9603,22.2973,121.5,4.31818181818182,6.20253164556962
+"City","Olympia Heights","FL","Miami-Fort Lauderdale-Pompano Beach, FL",2888,7,0.9593,35.4839,96,5.79545454545455,6.20253164556962
+"City","Sunny Isles Beach","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1663,7,0.9491,23.3271,158,7.72727272727273,6.20253164556962
+"City","Westchester","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1035,7,0.956696878147029,30.0885,100,5.56818181818182,6.20253164556962
+"City","Wellington","FL","Miami-Fort Lauderdale-Pompano Beach, FL",655,7,0.9612,33.4307,110,7.38636363636364,6.20253164556962
+"City","Hialeah","FL","Miami-Fort Lauderdale-Pompano Beach, FL",52,7,0.9945,25.8772,94,0.454545454545455,6.20253164556962
+"City","Cooper City","FL","Miami-Fort Lauderdale-Pompano Beach, FL",1019,7,0.9688,36.5314,84,3.18181818181818,6.20253164556962
+"City","Oakland Park","FL","Miami-Fort Lauderdale-Pompano Beach, FL",735,7,0.9671,36.853,95.5,4.43181818181818,6.20253164556962
+"City","Prior Lake","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1009,15,0.9808,40.1709,91,6.12244897959184,4.43037974683544
+"City","Inver Grove Heights","MN","Minneapolis-St. Paul-Bloomington, MN-WI",889,15,0.9745,51.8797,85,8.97959183673469,4.43037974683544
+"City","New Hope","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1698,15,0.9949,48.913,76,0.612244897959184,4.43037974683544
+"City","Apple Valley","MN","Minneapolis-St. Paul-Bloomington, MN-WI",601,15,0.988,46.3333,88,2.44897959183673,4.43037974683544
+"City","Shakopee","MN","Minneapolis-St. Paul-Bloomington, MN-WI",726,15,0.9868,39.1837,90,2.24489795918367,4.43037974683544
+"City","Champlin","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1416,15,0.9832,52.2124,83.5,6.3265306122449,4.43037974683544
+"City","Burnsville","MN","Minneapolis-St. Paul-Bloomington, MN-WI",440,15,0.9859,45.7746,90.5,3.87755102040816,4.43037974683544
+"City","Rogers","MN","Minneapolis-St. Paul-Bloomington, MN-WI",5336,15,0.9957,56.1644,90,4.48979591836735,4.43037974683544
+"City","Minneapolis","MN","Minneapolis-St. Paul-Bloomington, MN-WI",30,15,0.983,47.9452,84,4.69387755102041,4.43037974683544
+"City","Big Lake","MN","Minneapolis-St. Paul-Bloomington, MN-WI",2040,15,0.9824,44.8,99,8.57142857142857,4.43037974683544
+"City","South Saint Paul","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1690,15,0.9906,47.4359,97,5.30612244897959,4.43037974683544
+"City","Minnetonka","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1531,15,0.9768,51.0274,81,6.93877551020408,4.43037974683544
+"City","Shoreview","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1206,15,0.9827,51.6667,84,7.14285714285714,4.43037974683544
+"City","Brooklyn Park","MN","Minneapolis-St. Paul-Bloomington, MN-WI",332,15,0.9833,42.2886,89.5,4.28571428571429,4.43037974683544
+"City","Rosemount","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1497,15,0.9851,41.25,78,1.42857142857143,4.43037974683544
+"City","Hastings","MN","Minneapolis-St. Paul-Bloomington, MN-WI",2829,15,0.9702,36.5079,83,3.26530612244898,4.43037974683544
+"City","Crystal","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1529,15,0.9924,44.6809,86,1.63265306122449,4.43037974683544
+"City","Eagan","MN","Minneapolis-St. Paul-Bloomington, MN-WI",382,15,0.9886,42.2951,79,0.816326530612245,4.43037974683544
+"City","Fridley","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1141,15,0.9851,43.0894,90,2.85714285714286,4.43037974683544
+"City","Waconia","MN","Minneapolis-St. Paul-Bloomington, MN-WI",5363,15,0.9806,54.4118,88,9.18367346938776,4.43037974683544
+"City","Savage","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1263,15,0.9856,58.3784,88,7.55102040816327,4.43037974683544
+"City","Robbinsdale","MN","Minneapolis-St. Paul-Bloomington, MN-WI",2943,15,0.9934,70.3297,96.5,6.73469387755102,4.43037974683544
+"City","Chanhassen","MN","Minneapolis-St. Paul-Bloomington, MN-WI",2104,15,0.9722,38.0952,98,8.36734693877551,4.43037974683544
+"City","Blaine","MN","Minneapolis-St. Paul-Bloomington, MN-WI",488,15,0.9835,42.3684,94,5.10204081632653,4.43037974683544
+"City","Coon Rapids","MN","Minneapolis-St. Paul-Bloomington, MN-WI",438,15,0.9909,49.2958,82,1.83673469387755,4.43037974683544
+"City","Orono","MN","Minneapolis-St. Paul-Bloomington, MN-WI",4778,15,0.9606,34.0426,124.5,9.59183673469388,4.43037974683544
+"City","Oakdale","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1118,15,0.992,45.082,81,1.02040816326531,4.43037974683544
+"City","Chaska","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1012,15,0.9834,45.2675,95,7.3469387755102,4.43037974683544
+"City","Eden Prairie","MN","Minneapolis-St. Paul-Bloomington, MN-WI",442,15,0.9806,50.4651,85,7.75510204081633,4.43037974683544
+"City","Woodbury","MN","Minneapolis-St. Paul-Bloomington, MN-WI",425,15,0.9847,47.1491,87,3.46938775510204,4.43037974683544
+"City","Andover","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1002,15,0.986,52.1951,114,9.38775510204082,4.43037974683544
+"City","Cottage Grove","MN","Minneapolis-St. Paul-Bloomington, MN-WI",903,15,0.991,37.0192,86,0.408163265306122,4.43037974683544
+"City","Bloomington","MN","Minneapolis-St. Paul-Bloomington, MN-WI",271,15,0.9841,50,80,2.6530612244898,4.43037974683544
+"City","Lakeville","MN","Minneapolis-St. Paul-Bloomington, MN-WI",653,15,0.984,45.0142,92,5.51020408163265,4.43037974683544
+"City","Maple Grove","MN","Minneapolis-St. Paul-Bloomington, MN-WI",429,15,0.9847,50.3226,88,5.91836734693878,4.43037974683544
+"City","White Bear Lake","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1325,15,0.9801,44.697,79,3.06122448979592,4.43037974683544
+"City","Edina","MN","Minneapolis-St. Paul-Bloomington, MN-WI",612,15,0.9698,39.8693,88,6.53061224489796,4.43037974683544
+"City","Richfield","MN","Minneapolis-St. Paul-Bloomington, MN-WI",862,15,0.983,51.8987,75,3.6734693877551,4.43037974683544
+"City","Saint Paul","MN","Minneapolis-St. Paul-Bloomington, MN-WI",42,15,0.9834,50.7884,97,8.77551020408163,4.43037974683544
+"City","Plymouth","MN","Minneapolis-St. Paul-Bloomington, MN-WI",356,15,0.9787,52.1645,84,8.16326530612245,4.43037974683544
+"City","Brooklyn Center","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1025,15,0.9977,48.2759,76,0.204081632653061,4.43037974683544
+"City","Maplewood","MN","Minneapolis-St. Paul-Bloomington, MN-WI",787,15,0.9915,53.7037,91,4.89795918367347,4.43037974683544
+"City","Golden Valley","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1701,15,0.9781,51.8987,83,7.95918367346939,4.43037974683544
+"City","New Brighton","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1526,15,0.9673,54.5455,101,10,4.43037974683544
+"City","Ramsey","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1351,15,0.9875,34.0136,87,1.22448979591837,4.43037974683544
+"City","Elk River","MN","Minneapolis-St. Paul-Bloomington, MN-WI",1388,15,0.9795,48.9362,101,9.79591836734694,4.43037974683544
+"City","Farmington","MN","Minneapolis-St. Paul-Bloomington, MN-WI",910,15,0.9906,51.0823,81.5,2.04081632653061,4.43037974683544
+"City","Saint Louis Park","MN","Minneapolis-St. Paul-Bloomington, MN-WI",662,15,0.9809,50,79,4.08163265306122,4.43037974683544
+"City","Roseville","MN","Minneapolis-St. Paul-Bloomington, MN-WI",899,15,0.9756,44.4444,82.5,5.71428571428571,4.43037974683544
+"City","Lebanon","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",516,33,0.9785,35.1816,91,7.89473684210526,1.32911392405063
+"City","Nashville","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",18,33,0.9817,29.6719,70,2.63157894736842,1.32911392405063
+"City","Dickson","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",1199,33,0.9689,37.6623,85.5,9.47368421052632,1.32911392405063
+"City","Mount Juliet","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",715,33,0.9779,24.0066,78,4.21052631578947,1.32911392405063
+"City","Thompsons Station","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",3119,33,0.982,25.8427,87,3.15789473684211,1.32911392405063
+"City","Fairview","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",3873,33,0.9809,37.069,76,5.26315789473684,1.32911392405063
+"City","Murfreesboro","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",106,33,0.9841,28.6355,75,1.57894736842105,1.32911392405063
+"City","Christiana","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",4958,33,0.9772,24.7619,98,7.36842105263158,1.32911392405063
+"City","Hendersonville","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",456,33,0.9804,36.7568,78,6.31578947368421,1.32911392405063
+"City","La Vergne","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",1075,33,0.9877,16.0494,74,0.526315789473684,1.32911392405063
+"City","Brentwood","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",882,33,0.9769,36.6755,79,8.42105263157895,1.32911392405063
+"City","Portland","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",1546,33,0.9839,33.4559,108,6.84210526315789,1.32911392405063
+"City","Gallatin","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",730,33,0.9797,26.003,97,5.78947368421053,1.32911392405063
+"City","Franklin","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",239,33,0.9825,29.8618,70,2.10526315789474,1.32911392405063
+"City","Goodlettsville","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",2548,33,0.9822,37.8151,75,4.73684210526316,1.32911392405063
+"City","Smyrna","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",658,33,0.9846,24.7788,70,1.05263157894737,1.32911392405063
+"City","Westmoreland","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",4615,33,0.972434915773354,28.5714,109,8.94736842105263,1.32911392405063
+"City","White House","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",3610,33,0.9828,33.1169,82,3.68421052631579,1.32911392405063
+"City","Springfield","TN","Nashville-Davidson--Murfreesboro--Franklin, TN",3408,33,0.9781,41.7647,98,10,1.32911392405063
+"City","Wyckoff","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",2348,1,0.9627,44.6809,119,7.43589743589744,7.78481012658228
+"City","Ridgewood","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1261,1,0.9752,40.1786,108,1.41025641025641,7.78481012658228
+"City","Bergenfield","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1175,1,0.927,33.8583,124,7.69230769230769,7.78481012658228
+"City","Edison","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",206,1,0.9605,33.2703,127,4.35897435897436,7.78481012658228
+"City","West Milford","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",2284,1,0.95,47.4886,154.5,10,7.78481012658228
+"City","Westfield","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1027,1,0.9591,42.5,108,6.02564102564103,7.78481012658228
+"City","Toms River","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",252,1,0.9561,41.966,122.5,8.33333333333333,7.78481012658228
+"City","Hoboken","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",609,1,0.9936,24.4957,107,0.128205128205128,7.78481012658228
+"City","Scotch Plains","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1320,1,0.9619,44.1558,99,4.61538461538461,7.78481012658228
+"City","North Brunswick","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",768,1,0.9585,38.8626,115,5.8974358974359,7.78481012658228
+"City","New York","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",1,1,0.9796,18.8328,150,0.897435897435897,7.78481012658228
+"City","Denville","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",2283,1,0.9647,45.8065,100,4.1025641025641,7.78481012658228
+"City","Morris Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1500,1,0.9737,50,111,3.71794871794872,7.78481012658228
+"City","Old Bridge Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",606,1,0.9722,35.4839,128,2.43589743589744,7.78481012658228
+"City","Rahway","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1132,1,0.9572,33.75,129.5,6.41025641025641,7.78481012658228
+"City","Holiday City-Berkeley","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",3333,1,0.9561,43.7984,119,8.58974358974359,7.78481012658228
+"City","Lakewood Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",231,1,0.9521,32.0513,134,7.30769230769231,7.78481012658228
+"City","Teaneck","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",774,1,0.9489,38.0282,151.5,9.61538461538461,7.78481012658228
+"City","Marlboro","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1988,1,0.9718,43.3071,125,5,7.78481012658228
+"City","Hawthorne","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1952,1,0.984682713347921,41.0714,114,1.28205128205128,7.78481012658228
+"City","Metuchen","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",2494,1,0.9661,43.6893,115,4.87179487179487,7.78481012658228
+"City","New City","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",1029,1,0.9664,51.5152,140,9.1025641025641,7.78481012658228
+"City","Massapequa","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",560,1,0.9652,38.0435,144,7.17948717948718,7.78481012658228
+"City","Vernon Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1858,1,0.9465,33.4286,176,9.74358974358974,7.78481012658228
+"City","Dumont","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",2209,1,0.9474,40,124,8.71794871794872,7.78481012658228
+"City","Morganville","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",4572,1,0.9649,40.8537,123,5.51282051282051,7.78481012658228
+"City","Barnegat Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1779,1,0.9625,31.9277,138.5,5.25641025641026,7.78481012658228
+"City","Piscataway Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",567,1,0.955,43.4084,129,9.23076923076923,7.78481012658228
+"City","Wall Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1419,1,0.9474,38.1643,122.5,7.94871794871795,7.78481012658228
+"City","Yonkers","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",89,1,0.9731,33.812,176,5.38461538461539,7.78481012658228
+"City","South Plainfield","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1391,1,0.9641,36.0544,109,2.17948717948718,7.78481012658228
+"City","Valley Stream","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",459,1,0.9575,28.3208,149,7.05128205128205,7.78481012658228
+"City","Freehold Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",947,1,0.9606,39.2377,119.5,6.15384615384615,7.78481012658228
+"City","Ronkonkoma","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",814,1,0.9757,35.9223,192,5.64102564102564,7.78481012658228
+"City","Cranford","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1436,1,0.9674,48.2456,111.5,5.12820512820513,7.78481012658228
+"City","Fanwood","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",4960,1,0.9749,32.4324,93.5,0.256410256410256,7.78481012658228
+"City","Montgomery Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1522,1,0.9695,38.5093,113,1.92307692307692,7.78481012658228
+"City","Carteret","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1441,1,0.9534,26.9231,143,6.79487179487179,7.78481012658228
+"City","Franklin Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",795,1,0.9611,42.3313,117.5,6.66666666666667,7.78481012658228
+"City","Perth Amboy","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",554,1,0.9354,27.4775,145,8.07692307692308,7.78481012658228
+"City","Ocean Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",4968,1,0.958762886597938,27.2,151,6.53846153846154,7.78481012658228
+"City","Hackensack","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",719,1,0.9581,30.7317,127.5,4.74358974358974,7.78481012658228
+"City","Paterson","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",114,1,0.9483,19.2243,194.5,8.46153846153846,7.78481012658228
+"City","Point Pleasant","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1976,1,0.963,35.9551,135,6.28205128205128,7.78481012658228
+"City","Warren","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",2718,1,0.9519,47.7477,115,8.97435897435897,7.78481012658228
+"City","Parsippany-Troy Hills Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",534,1,0.9692,43.75,111,3.58974358974359,7.78481012658228
+"City","East Brunswick","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",657,1,0.9632,37.7778,124,4.48717948717949,7.78481012658228
+"City","Jefferson Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1550,1,0.9591,47.012,128,8.84615384615385,7.78481012658228
+"City","Chatham Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",2037,1,0.9816,45.7143,104,1.53846153846154,7.78481012658228
+"City","Holiday City South","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",5398,1,0.9656,46.4286,100.5,3.97435897435897,7.78481012658228
+"City","Linden","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",754,1,0.9669,30.605,168,5.76923076923077,7.78481012658228
+"City","Elizabeth","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",148,1,0.9413,19.9461,160,8.2051282051282,7.78481012658228
+"City","Clifton","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",275,1,0.9762,31.6901,119,0.512820512820513,7.78481012658228
+"City","Middlesex","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",3112,1,0.973,36.4706,128,2.56410256410256,7.78481012658228
+"City","Brentwood","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",444,1,0.9828,18.9516,151.5,0.769230769230769,7.78481012658228
+"City","Jackson","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",528,1,0.9671,36.2429,120,2.82051282051282,7.78481012658228
+"City","Howell","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",810,1,0.9712,41.5335,119,3.20512820512821,7.78481012658228
+"City","Manalapan","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",935,1,0.965,40.9449,117,4.23076923076923,7.78481012658228
+"City","Jersey City","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",48,1,0.9732,27.4306,130.5,1.02564102564103,7.78481012658228
+"City","Union","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",555,1,0.962,33.9623,121,3.33333333333333,7.78481012658228
+"City","Little Egg Harbor","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",3826,1,0.9611,30.0926,120,2.94871794871795,7.78481012658228
+"City","Patchogue","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",669,1,0.9424,28.5714,193,9.48717948717949,7.78481012658228
+"City","Madison","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",2536,1,0.9767,48.1013,105,2.30769230769231,7.78481012658228
+"City","Wayne","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",526,1,0.9685,47.9167,124.5,6.92307692307692,7.78481012658228
+"City","Monroe Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1084,1,0.959,31.3433,109,2.05128205128205,7.78481012658228
+"City","Manchester","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",707,1,0.9659,37.4603,118,3.07692307692308,7.78481012658228
+"City","Morristown","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1921,1,0.9728,29.6296,118.5,0.641025641025641,7.78481012658228
+"City","Lacey","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1353,1,0.9709,44.359,138,7.56410256410256,7.78481012658228
+"City","Branchburg","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",2887,1,0.9773,40.3846,119,1.66666666666667,7.78481012658228
+"City","Mahwah","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1205,1,0.9653,47.191,126,7.82051282051282,7.78481012658228
+"City","Commack","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",1083,1,0.9492,40.5882,175,9.87179487179487,7.78481012658228
+"City","Brick","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",335,1,0.9588,45.3109,133,9.35897435897436,7.78481012658228
+"City","Bridgewater","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",830,1,0.9705,42.616,105.5,2.69230769230769,7.78481012658228
+"City","Mount Vernon","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",385,1,0.9803,29.3963,155,1.79487179487179,7.78481012658228
+"City","Roselle","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1647,1,0.9776,25.5102,149,1.15384615384615,7.78481012658228
+"City","East Hampton","NY","New York-Northern New Jersey-Long Island, NY-NJ-PA",5441,1,0.9756,25.2288,321,3.46153846153846,7.78481012658228
+"City","Randolph","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1227,1,0.9772,50.5682,118,3.84615384615385,7.78481012658228
+"City","Rockaway Township","NJ","New York-Northern New Jersey-Long Island, NY-NJ-PA",1840,1,0.9768,35.7143,103.5,0.384615384615385,7.78481012658228
+"City","Yukon","OK","Oklahoma City, OK",514,38,0.9934,21.6521,75,1.11111111111111,2.15189873417722
+"City","Guthrie","OK","Oklahoma City, OK",1373,38,0.9567,31.9149,83,8.88888888888889,2.15189873417722
+"City","Edmond","OK","Oklahoma City, OK",287,38,0.9825,36.9301,67,3.33333333333333,2.15189873417722
+"City","Mustang","OK","Oklahoma City, OK",2219,38,0.9797,27.027,69,2.22222222222222,2.15189873417722
+"City","Bethany","OK","Oklahoma City, OK",2081,38,0.9662,50,68,10,2.15189873417722
+"City","Oklahoma City","OK","Oklahoma City, OK",20,38,0.9781,35.8101,76,6.66666666666667,2.15189873417722
+"City","Moore","OK","Oklahoma City, OK",574,38,0.9819,35.5236,76,4.44444444444444,2.15189873417722
+"City","Midwest City","OK","Oklahoma City, OK",535,38,0.9812,37.3887,82,7.77777777777778,2.15189873417722
+"City","Norman","OK","Oklahoma City, OK",174,38,0.9766,29.6178,77,5.55555555555556,2.15189873417722
+"City","Mount Dora","FL","Orlando-Kissimmee, FL",1236,24,0.9644,38.8235,128.5,9.11764705882353,5.12658227848101
+"City","Lady Lake","FL","Orlando-Kissimmee, FL",1173,24,0.9631,29.4606,97,5.58823529411765,5.12658227848101
+"City","Kissimmee","FL","Orlando-Kissimmee, FL",525,24,0.9712,35.2294,89,4.41176470588235,5.12658227848101
+"City","Azalea Park","FL","Orlando-Kissimmee, FL",3415,24,0.9463,28.5714,73,2.35294117647059,5.12658227848101
+"City","Saint Cloud","FL","Orlando-Kissimmee, FL",397,24,0.9769,35.1178,94,3.82352941176471,5.12658227848101
+"City","Clermont","FL","Orlando-Kissimmee, FL",1617,24,0.9776,37.9104,92,4.70588235294118,5.12658227848101
+"City","Pine Hills","FL","Orlando-Kissimmee, FL",802,24,0.9723,26.616,86,1.17647058823529,5.12658227848101
+"City","Casselberry","FL","Orlando-Kissimmee, FL",747,24,0.9869,40.2214,90,3.23529411764706,5.12658227848101
+"City","Conway","FL","Orlando-Kissimmee, FL",3025,24,0.9582,37.5,84,5.88235294117647,5.12658227848101
+"City","Fairview Shores","FL","Orlando-Kissimmee, FL",4534,24,0.9759,31.0345,84,0.882352941176471,5.12658227848101
+"City","Eustis","FL","Orlando-Kissimmee, FL",894,24,0.9453,35.1621,113,9.70588235294118,5.12658227848101
+"City","Altamonte Springs","FL","Orlando-Kissimmee, FL",481,24,0.9693,41.4248,89,7.64705882352941,5.12658227848101
+"City","Lake Mary","FL","Orlando-Kissimmee, FL",685,24,0.9721,36.8159,86.5,4.11764705882353,5.12658227848101
+"City","Winter Garden","FL","Orlando-Kissimmee, FL",1053,24,0.9794,27.9018,83,0.294117647058824,5.12658227848101
+"City","Tavares","FL","Orlando-Kissimmee, FL",2054,24,0.9599,37.8676,139,9.41176470588235,5.12658227848101
+"City","Maitland","FL","Orlando-Kissimmee, FL",2612,24,0.9476,44.9664,113,10,5.12658227848101
+"City","Hunters Creek","FL","Orlando-Kissimmee, FL",3535,24,0.974,37.037,83.5,2.05882352941176,5.12658227848101
+"City","Citrus Ridge","FL","Orlando-Kissimmee, FL",1974,24,0.9665,31.1573,101,7.05882352941176,5.12658227848101
+"City","Ocoee","FL","Orlando-Kissimmee, FL",934,24,0.9769,39.3443,86,3.52941176470588,5.12658227848101
+"City","Oviedo","FL","Orlando-Kissimmee, FL",336,24,0.9784,44.5916,81,2.94117647058824,5.12658227848101
+"City","Windermere","FL","Orlando-Kissimmee, FL",1823,24,0.9656,29.2414,107,6.47058823529412,5.12658227848101
+"City","Leesburg","FL","Orlando-Kissimmee, FL",1579,24,0.9381,31.0954,114.5,8.23529411764706,5.12658227848101
+"City","Lockhart","FL","Orlando-Kissimmee, FL",3242,24,0.9501,27.8689,83,2.64705882352941,5.12658227848101
+"City","Winter Park","FL","Orlando-Kissimmee, FL",1023,24,0.9548,42.522,96,8.82352941176471,5.12658227848101
+"City","Longwood","FL","Orlando-Kissimmee, FL",607,24,0.9577,43.5955,92,8.52941176470588,5.12658227848101
+"City","Poinciana","FL","Orlando-Kissimmee, FL",1203,24,0.9908,35.8306,91,1.76470588235294,5.12658227848101
+"City","Orlando","FL","Orlando-Kissimmee, FL",47,24,0.9654,34.5191,91,5.29411764705882,5.12658227848101
+"City","Sanford","FL","Orlando-Kissimmee, FL",292,24,0.9833,42.9038,96,6.17647058823529,5.12658227848101
+"City","Yeehaw Junction","FL","Orlando-Kissimmee, FL",1218,24,0.9828,32.7273,86,1.47058823529412,5.12658227848101
+"City","Winter Springs","FL","Orlando-Kissimmee, FL",745,24,0.9673,43.6047,77,5,5.12658227848101
+"City","Meadow Woods","FL","Orlando-Kissimmee, FL",1548,24,0.9904,25.9366,90,0.588235294117647,5.12658227848101
+"City","Fruitland Park","FL","Orlando-Kissimmee, FL",2840,24,0.9738,32.8767,115,7.35294117647059,5.12658227848101
+"City","Doctor Phillips","FL","Orlando-Kissimmee, FL",4522,24,0.953,42.1875,88.5,7.94117647058824,5.12658227848101
+"City","Apopka","FL","Orlando-Kissimmee, FL",227,24,0.9732,35.6223,97,6.76470588235294,5.12658227848101
+"City","Ojai","CA","Oxnard-Thousand Oaks-Ventura, CA",1742,52,0.9692,40.9396,101.5,10,1.89873417721519
+"City","Moorpark","CA","Oxnard-Thousand Oaks-Ventura, CA",840,52,0.9814,42.381,65,5,1.89873417721519
+"City","Port Hueneme","CA","Oxnard-Thousand Oaks-Ventura, CA",1346,52,0.9798,24,69,3,1.89873417721519
+"City","Thousand Oaks","CA","Oxnard-Thousand Oaks-Ventura, CA",299,52,0.9797,38.3863,65,4,1.89873417721519
+"City","Westlake Village","CA","Oxnard-Thousand Oaks-Ventura, CA",2190,52,0.9759,33.8462,72,9,1.89873417721519
+"City","Ventura","CA","Oxnard-Thousand Oaks-Ventura, CA",176,52,0.9843,32.7473,67,2,1.89873417721519
+"City","Simi Valley","CA","Oxnard-Thousand Oaks-Ventura, CA",144,52,0.9861,39.8671,75,7,1.89873417721519
+"City","Oxnard","CA","Oxnard-Thousand Oaks-Ventura, CA",64,52,0.9898,25.9328,69,1,1.89873417721519
+"City","Newbury Park","CA","Oxnard-Thousand Oaks-Ventura, CA",687,52,0.9822,41.3223,70,8,1.89873417721519
+"City","Camarillo","CA","Oxnard-Thousand Oaks-Ventura, CA",310,52,0.9796,36.6834,66,6,1.89873417721519
+"City","Cocoa","FL","Palm Bay-Melbourne-Titusville, FL",363,74,0.9649,36.2563,93.5,5.83333333333333,5.82278481012658
+"City","Indian Harbour Beach","FL","Palm Bay-Melbourne-Titusville, FL",4682,74,0.9733,28.0303,100,1.66666666666667,5.82278481012658
+"City","Merritt Island","FL","Palm Bay-Melbourne-Titusville, FL",737,74,0.9673,37.0614,94,6.66666666666667,5.82278481012658
+"City","Cocoa Beach","FL","Palm Bay-Melbourne-Titusville, FL",3061,74,0.9575,30.7432,106,7.5,5.82278481012658
+"City","West Melbourne","FL","Palm Bay-Melbourne-Titusville, FL",2115,74,0.9659,23.6434,81,0.833333333333333,5.82278481012658
+"City","Melbourne Beach","FL","Palm Bay-Melbourne-Titusville, FL",3911,74,0.9452,29.8182,128,10,5.82278481012658
+"City","Satellite Beach","FL","Palm Bay-Melbourne-Titusville, FL",4155,74,0.9609,41.6667,93.5,8.33333333333333,5.82278481012658
+"City","Palm Bay","FL","Palm Bay-Melbourne-Titusville, FL",196,74,0.9757,35.8892,83,3.33333333333333,5.82278481012658
+"City","Cape Canaveral","FL","Palm Bay-Melbourne-Titusville, FL",4165,74,0.958,28.4946,97,5,5.82278481012658
+"City","Rockledge","FL","Palm Bay-Melbourne-Titusville, FL",775,74,0.9746,34.3964,89,2.5,5.82278481012658
+"City","Melbourne","FL","Palm Bay-Melbourne-Titusville, FL",316,74,0.9698,34.9925,83,4.16666666666667,5.82278481012658
+"City","Titusville","FL","Palm Bay-Melbourne-Titusville, FL",529,74,0.9646,36.8493,105,9.16666666666667,5.82278481012658
+"City","Lower Makefield","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",988,5,0.9686,53.11,96,4.66666666666667,8.60759493670886
+"City","Willingboro","NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",971,5,0.9502,43.3022,122,8.22222222222222,8.60759493670886
+"City","Lumberton","NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3457,5,0.9805,48.3146,101,1.77777777777778,8.60759493670886
+"City","Lower Southampton Township","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3539,5,0.9616,62.7907,104.5,9.33333333333333,8.60759493670886
+"City","King of Prussia","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1835,5,0.98,55.1724,92,2.66666666666667,8.60759493670886
+"City","Levittown","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",553,5,0.9747,56.0127,102,4.22222222222222,8.60759493670886
+"City","Tredyffrin","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1511,5,0.968,48.4848,89,3.77777777777778,8.60759493670886
+"City","North East","MD","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2646,5,0.9823,28.5714,123,1.33333333333333,8.60759493670886
+"City","Bensalem","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",521,5,0.9645,57.5,111,8.88888888888889,8.60759493670886
+"City","Northampton Township","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1215,5,0.969,53.7975,99,5.33333333333333,8.60759493670886
+"City","Newark","DE","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",124,5,0.9856,46.003,98,1.11111111111111,8.60759493670886
+"City","Maple Shade","NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1948,5,0.9573,50.6944,131,9.77777777777778,8.60759493670886
+"City","Medford","NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1364,5,0.9762,48.1229,141.5,5.77777777777778,8.60759493670886
+"City","Abington","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2725,5,0.9685,42.2535,91.5,2.22222222222222,8.60759493670886
+"City","Bear","DE","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",781,5,0.9864,35.3712,96,0.222222222222222,8.60759493670886
+"City","Phoenixville","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2483,5,0.9768,37.3984,102,0.666666666666667,8.60759493670886
+"City","Washington Township","NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",675,5,0.9633,48.6068,107.5,7.33333333333333,8.60759493670886
+"City","Doylestown Township","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1209,5,0.9714,43.4783,98,2,8.60759493670886
+"City","Lansdale","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2426,5,0.9679,31.4961,87,0.888888888888889,8.60759493670886
+"City","Delran","NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2278,5,0.986691142726021,44.9612,129,3.33333333333333,8.60759493670886
+"City","Lower Merion Township","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",911,5,0.9462,51.3699,102,8.44444444444444,8.60759493670886
+"City","Mt Laurel Township","NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",833,5,0.9655,49.5702,105,6.66666666666667,8.60759493670886
+"City","Chester Springs","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3372,5,0.9719,47.2973,96,2.44444444444444,8.60759493670886
+"City","Middletown Township","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",997,5,0.972,62.931,93,4.44444444444444,8.60759493670886
+"City","Elkton","MD","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",678,5,0.9812,39.0397,131,3.11111111111111,8.60759493670886
+"City","Buckingham","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1773,5,0.9659,46.4455,116,6.88888888888889,8.60759493670886
+"City","Hatfield Township","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1735,5,0.9687,51.2821,90,4,8.60759493670886
+"City","Gloucester","NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",509,5,0.9743,44.6939,136,4.88888888888889,8.60759493670886
+"City","Pottstown","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1501,5,0.9441,45.2514,148,10,8.60759493670886
+"City","Philadelphia","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",4,5,0.9531,44.3533,104,6,8.60759493670886
+"City","Warminster","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1055,5,0.9718,58.6466,98,5.11111111111111,8.60759493670886
+"City","Evesham","NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",860,5,0.9675,45.1713,121,6.44444444444444,8.60759493670886
+"City","East Norriton","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2984,5,0.971,57.1429,110.5,7.11111111111111,8.60759493670886
+"City","Burlington Township","NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",946,5,0.9643,40.6143,133,8,8.60759493670886
+"City","West Deptford Township","NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1536,5,0.9709,45,99,2.88888888888889,8.60759493670886
+"City","Bristol Township","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1100,5,0.9707,57.9235,145,9.55555555555556,8.60759493670886
+"City","Williamstown","NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2963,5,0.9739,42.1875,111.5,3.55555555555556,8.60759493670886
+"City","New Castle","DE","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",476,5,0.9825,43.0556,97,0.444444444444444,8.60759493670886
+"City","Norristown","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",924,5,0.9261,36.8421,125,7.77777777777778,8.60759493670886
+"City","Cinnaminson","NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2571,5,0.9656,52.7559,114,8.66666666666667,8.60759493670886
+"City","Wilmington","DE","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",357,5,0.9641,48.4321,137,9.11111111111111,8.60759493670886
+"City","Warrington","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1383,5,0.9698,55.1471,106,6.22222222222222,8.60759493670886
+"City","Newtown Township","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2025,5,0.9658,60.5505,97,7.55555555555556,8.60759493670886
+"City","West Chester","PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",192,5,0.9759,47.1579,91,1.55555555555556,8.60759493670886
+"City","Deptford Township","NJ","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1163,5,0.9669,44.1048,112,5.55555555555556,8.60759493670886
+"City","Casa Grande","AZ","Phoenix-Mesa-Scottsdale, AZ",350,13,0.9727,34.8214,111,6.92307692307692,4.49367088607595
+"City","Peoria","AZ","Phoenix-Mesa-Scottsdale, AZ",110,13,0.9814,44.9191,85,6.53846153846154,4.49367088607595
+"City","Maricopa","AZ","Phoenix-Mesa-Scottsdale, AZ",540,13,0.9786,47.0812,118,8.46153846153846,4.49367088607595
+"City","Sun City","AZ","Phoenix-Mesa-Scottsdale, AZ",785,13,0.9744,32.6019,74,1.53846153846154,4.49367088607595
+"City","Anthem","AZ","Phoenix-Mesa-Scottsdale, AZ",917,13,0.9722,53.3493,100,9.23076923076923,4.49367088607595
+"City","Florence","AZ","Phoenix-Mesa-Scottsdale, AZ",1004,13,0.9724,32.8947,126.5,7.30769230769231,4.49367088607595
+"City","Tempe","AZ","Phoenix-Mesa-Scottsdale, AZ",102,13,0.9751,47.0426,70,5.38461538461539,4.49367088607595
+"City","Gilbert","AZ","Phoenix-Mesa-Scottsdale, AZ",65,13,0.9823,45.6198,78,3.84615384615385,4.49367088607595
+"City","Avondale","AZ","Phoenix-Mesa-Scottsdale, AZ",369,13,0.985,42.3246,69,1.15384615384615,4.49367088607595
+"City","Mesa","AZ","Phoenix-Mesa-Scottsdale, AZ",21,13,0.9823,38.3065,73,1.92307692307692,4.49367088607595
+"City","Paradise Valley","AZ","Phoenix-Mesa-Scottsdale, AZ",3224,13,0.9227,37.8016,208.5,10,4.49367088607595
+"City","Surprise","AZ","Phoenix-Mesa-Scottsdale, AZ",161,13,0.9841,38.7218,85,2.69230769230769,4.49367088607595
+"City","El Mirage","AZ","Phoenix-Mesa-Scottsdale, AZ",1015,13,1,35.567,67.5,0.384615384615385,4.49367088607595
+"City","Queen Creek","AZ","Phoenix-Mesa-Scottsdale, AZ",153,13,0.9837,40.813,96.5,4.23076923076923,4.49367088607595
+"City","Sun City West","AZ","Phoenix-Mesa-Scottsdale, AZ",1207,13,0.9718,34.4444,83,4.61538461538461,4.49367088607595
+"City","Glendale","AZ","Phoenix-Mesa-Scottsdale, AZ",49,13,0.9872,42.7356,80,2.30769230769231,4.49367088607595
+"City","Wickenburg","AZ","Phoenix-Mesa-Scottsdale, AZ",4980,13,0.941109205260149,25.6983,133.5,7.69230769230769,4.49367088607595
+"City","Fountain Hills","AZ","Phoenix-Mesa-Scottsdale, AZ",1540,13,0.9673,40.0335,124,9.61538461538461,4.49367088607595
+"City","Scottsdale","AZ","Phoenix-Mesa-Scottsdale, AZ",61,13,0.9687,40.5735,105,8.84615384615385,4.49367088607595
+"City","Phoenix","AZ","Phoenix-Mesa-Scottsdale, AZ",5,13,0.979,43.5473,78,6.15384615384615,4.49367088607595
+"City","Chandler","AZ","Phoenix-Mesa-Scottsdale, AZ",45,13,0.9796,46.0208,71,3.46153846153846,4.49367088607595
+"City","Litchfield Park","AZ","Phoenix-Mesa-Scottsdale, AZ",4308,13,0.9692,38.7097,71,5.76923076923077,4.49367088607595
+"City","Buckeye","AZ","Phoenix-Mesa-Scottsdale, AZ",616,13,0.9809,36.1111,95,3.07692307692308,4.49367088607595
+"City","Gold Canyon","AZ","Phoenix-Mesa-Scottsdale, AZ",3930,13,0.9701,33.6336,164,8.07692307692308,4.49367088607595
+"City","Goodyear","AZ","Phoenix-Mesa-Scottsdale, AZ",410,13,0.9829,44.2065,91.5,5,4.49367088607595
+"City","Apache Junction","AZ","Phoenix-Mesa-Scottsdale, AZ",597,13,0.9856,36.4261,76,0.769230769230769,4.49367088607595
+"City","Penn Hills","PA","Pittsburgh, PA",727,21,0.9592,45.6693,124,9.375,8.10126582278481
+"City","Lower Burrell","PA","Pittsburgh, PA",3665,21,0.9803,53.6082,94,4.375,8.10126582278481
+"City","Murrysville","PA","Pittsburgh, PA",1667,21,0.9648,35.9281,99,6.25,8.10126582278481
+"City","Mount Lebanon","PA","Pittsburgh, PA",932,21,0.9608,51.5021,78,8.125,8.10126582278481
+"City","Bethel Park","PA","Pittsburgh, PA",1073,21,0.9676,50,80.5,3.75,8.10126582278481
+"City","South Strabane Township","PA","Pittsburgh, PA",4382,21,0.9659,38.8889,90,3.125,8.10126582278481
+"City","Baldwin Township","PA","Pittsburgh, PA",1584,21,0.966,50,80,6.875,8.10126582278481
+"City","Pittsburgh","PA","Pittsburgh, PA",39,21,0.9529,39.9242,92,8.75,8.10126582278481
+"City","Ross Township","PA","Pittsburgh, PA",990,21,0.968,53.6842,92.5,7.5,8.10126582278481
+"City","Hempfield Township","PA","Pittsburgh, PA",677,21,0.9676,40.8333,99,5.625,8.10126582278481
+"City","Cranberry Township","PA","Pittsburgh, PA",1153,21,0.9822,34.7639,80,1.25,8.10126582278481
+"City","North Huntingdon","PA","Pittsburgh, PA",986,21,0.9704,40.201,84.5,1.875,8.10126582278481
+"City","North Strabane Township","PA","Pittsburgh, PA",3166,21,0.9796,27.2727,72.5,0.625,8.10126582278481
+"City","Mccandless Township","PA","Pittsburgh, PA",1103,21,0.9611,43.5897,77,5,8.10126582278481
+"City","Monroeville","PA","Pittsburgh, PA",1127,21,0.9559,54.5852,119.5,10,8.10126582278481
+"City","Shaler Township","PA","Pittsburgh, PA",1096,21,0.9781,48.4375,73,2.5,8.10126582278481
+"City","Tualatin","OR","Portland-Vancouver-Beaverton, OR-WA",1233,22,0.9919,46.6667,62,5.94594594594595,1.70886075949367
+"City","Sandy","OR","Portland-Vancouver-Beaverton, OR-WA",2326,22,0.9948,33.9181,97.5,5.40540540540541,1.70886075949367
+"City","Battle Ground","WA","Portland-Vancouver-Beaverton, OR-WA",950,22,0.9909,36.0825,77,5.67567567567568,1.70886075949367
+"City","Aloha","OR","Portland-Vancouver-Beaverton, OR-WA",623,22,0.9962,38.7755,58,2.16216216216216,1.70886075949367
+"City","West Linn","OR","Portland-Vancouver-Beaverton, OR-WA",1082,22,0.9769,41.2587,69,9.72972972972973,1.70886075949367
+"City","Mill Plain","WA","Portland-Vancouver-Beaverton, OR-WA",3736,22,0.9845,36.9231,70,6.48648648648649,1.70886075949367
+"City","Forest Grove","OR","Portland-Vancouver-Beaverton, OR-WA",1308,22,0.9975,28.4024,74,1.62162162162162,1.70886075949367
+"City","Hillsboro","OR","Portland-Vancouver-Beaverton, OR-WA",224,22,0.999,33.7838,59,0.540540540540541,1.70886075949367
+"City","Felida","WA","Portland-Vancouver-Beaverton, OR-WA",4853,22,0.9786,37.3134,96.5,10,1.70886075949367
+"City","Saint Helens","OR","Portland-Vancouver-Beaverton, OR-WA",2173,22,0.9965,34.4828,86.5,4.05405405405405,1.70886075949367
+"City","Five Corners","WA","Portland-Vancouver-Beaverton, OR-WA",1970,22,0.9995,35.2941,68,1.89189189189189,1.70886075949367
+"City","Gresham","OR","Portland-Vancouver-Beaverton, OR-WA",297,22,0.9942,41.0468,77,7.02702702702703,1.70886075949367
+"City","West Slope","OR","Portland-Vancouver-Beaverton, OR-WA",5192,22,0.977772838408535,39.3939,58.5,6.21621621621622,1.70886075949367
+"City","West Haven-Sylvan","OR","Portland-Vancouver-Beaverton, OR-WA",4648,22,0.9683,33.9623,75,8.10810810810811,1.70886075949367
+"City","Oak Hills","OR","Portland-Vancouver-Beaverton, OR-WA",3909,22,0.991,38.2353,58,3.24324324324324,1.70886075949367
+"City","Lake Oswego","OR","Portland-Vancouver-Beaverton, OR-WA",728,22,0.977,38.5882,75,9.18918918918919,1.70886075949367
+"City","Milwaukie","OR","Portland-Vancouver-Beaverton, OR-WA",1723,22,0.9962,34.2105,52,1.08108108108108,1.70886075949367
+"City","Salmon Creek","WA","Portland-Vancouver-Beaverton, OR-WA",1805,22,0.9901,43.3566,76,8.91891891891892,1.70886075949367
+"City","Happy Valley","OR","Portland-Vancouver-Beaverton, OR-WA",1279,22,0.9882,36.5385,67,4.86486486486486,1.70886075949367
+"City","Newberg","OR","Portland-Vancouver-Beaverton, OR-WA",1126,22,0.9942,45.5056,81,8.37837837837838,1.70886075949367
+"City","Oatfield","OR","Portland-Vancouver-Beaverton, OR-WA",2667,22,0.9915,39.2405,62,4.59459459459459,1.70886075949367
+"City","Sherwood","OR","Portland-Vancouver-Beaverton, OR-WA",1142,22,0.989,38.2022,71,6.75675675675676,1.70886075949367
+"City","Cedar Hills","OR","Portland-Vancouver-Beaverton, OR-WA",4767,22,0.995,28.8462,59,0.810810810810811,1.70886075949367
+"City","McMinnville","OR","Portland-Vancouver-Beaverton, OR-WA",865,22,0.9769,30.622,103,8.64864864864865,1.70886075949367
+"City","Wilsonville","OR","Portland-Vancouver-Beaverton, OR-WA",1869,22,0.9786,33.1169,68,5.13513513513514,1.70886075949367
+"City","Cedar Mill","OR","Portland-Vancouver-Beaverton, OR-WA",2960,22,0.9936,37.2093,61,2.7027027027027,1.70886075949367
+"City","Orchards","WA","Portland-Vancouver-Beaverton, OR-WA",1947,22,0.9968,25,62,0.27027027027027,1.70886075949367
+"City","Portland","OR","Portland-Vancouver-Beaverton, OR-WA",19,22,0.998,39.1888,55,1.35135135135135,1.70886075949367
+"City","Washougal","WA","Portland-Vancouver-Beaverton, OR-WA",1764,22,0.9906,34.1727,93.5,7.2972972972973,1.70886075949367
+"City","Camas","WA","Portland-Vancouver-Beaverton, OR-WA",1049,22,0.9809,38.3212,82.5,9.45945945945946,1.70886075949367
+"City","Canby","OR","Portland-Vancouver-Beaverton, OR-WA",3220,22,0.9986,42.2222,71,4.32432432432432,1.70886075949367
+"City","Beaverton","OR","Portland-Vancouver-Beaverton, OR-WA",217,22,0.992,40.1806,56,3.51351351351351,1.70886075949367
+"City","Oregon City","OR","Portland-Vancouver-Beaverton, OR-WA",570,22,0.9881,30.7167,62,2.43243243243243,1.70886075949367
+"City","Tigard","OR","Portland-Vancouver-Beaverton, OR-WA",631,22,0.9864,43.6567,62,7.83783783783784,1.70886075949367
+"City","Troutdale","OR","Portland-Vancouver-Beaverton, OR-WA",1912,22,0.9882,27.4725,65,2.97297297297297,1.70886075949367
+"City","Vancouver","WA","Portland-Vancouver-Beaverton, OR-WA",105,22,0.9955,37.2591,67,3.78378378378378,1.70886075949367
+"City","Ridgefield","WA","Portland-Vancouver-Beaverton, OR-WA",2276,22,0.9842,32.4786,84,7.56756756756757,1.70886075949367
+"City","Raleigh","NC","Raleigh-Cary, NC",31,41,0.9806,36.9811,75,6.66666666666667,1.9620253164557
+"City","Morrisville","NC","Raleigh-Cary, NC",1625,41,0.9818,33.5766,59,3.33333333333333,1.9620253164557
+"City","Knightdale","NC","Raleigh-Cary, NC",1434,41,0.9815,25,85,4.16666666666667,1.9620253164557
+"City","Zebulon","NC","Raleigh-Cary, NC",1368,41,0.9812,32.7014,102.5,7.5,1.9620253164557
+"City","Fuquay Varina","NC","Raleigh-Cary, NC",758,41,0.9733,34.5733,84,9.16666666666667,1.9620253164557
+"City","Garner","NC","Raleigh-Cary, NC",648,41,0.9783,29.1066,84,5,1.9620253164557
+"City","Youngsville","NC","Raleigh-Cary, NC",3302,41,0.9801,33.7209,99.5,8.33333333333333,1.9620253164557
+"City","Cary","NC","Raleigh-Cary, NC",141,41,0.9838,33.2497,65,2.5,1.9620253164557
+"City","Wake Forest","NC","Raleigh-Cary, NC",470,41,0.9848,29.4925,81,1.66666666666667,1.9620253164557
+"City","Clayton","NC","Raleigh-Cary, NC",547,41,0.9782,35.7962,98,10,1.9620253164557
+"City","Holly Springs","NC","Raleigh-Cary, NC",1442,41,0.9816,37.0474,73,5.83333333333333,1.9620253164557
+"City","Apex","NC","Raleigh-Cary, NC",374,41,0.9868,30.2752,64,0.833333333333333,1.9620253164557
+"City","Midlothian","VA","Richmond, VA",232,37,0.985,40.9156,88,2.85714285714286,3.73417721518987
+"City","Chester","VA","Richmond, VA",704,37,0.98,40.2516,94,4.28571428571429,3.73417721518987
+"City","East Highland Park","VA","Richmond, VA",2768,37,0.948275862068966,40,107.5,10,3.73417721518987
+"City","Mechanicsville","VA","Richmond, VA",460,37,0.9816,37.8601,83,0.714285714285714,3.73417721518987
+"City","Ashland","VA","Richmond, VA",1973,37,0.9538,42.3529,90,8.57142857142857,3.73417721518987
+"City","Sandston","VA","Richmond, VA",3180,37,0.9507,31.6667,110,7.85714285714286,3.73417721518987
+"City","Bon Air","VA","Richmond, VA",2310,37,0.9789,45.977,66.5,3.57142857142857,3.73417721518987
+"City","Petersburg","VA","Richmond, VA",450,37,0.973634651600753,33.1719,102,5,3.73417721518987
+"City","Colonial Heights","VA","Richmond, VA",1101,37,0.9744,36.5385,108,7.14285714285714,3.73417721518987
+"City","Chesterfield","VA","Richmond, VA",581,37,0.982,34.6457,97,2.14285714285714,3.73417721518987
+"City","Mineral","VA","Richmond, VA",4545,37,0.9429,29.703,131,9.28571428571429,3.73417721518987
+"City","Glen Allen","VA","Richmond, VA",390,37,0.9772,43.9614,82,5.71428571428571,3.73417721518987
+"City","Ruther Glen","VA","Richmond, VA",2606,37,0.9869,44.385,129,6.42857142857143,3.73417721518987
+"City","Richmond","VA","Richmond, VA",68,37,0.9794,36.6419,82,1.42857142857143,3.73417721518987
+"City","Riverside","CA","Riverside-San Bernardino-Ontario, CA",40,12,0.9971,31.8501,66,1.34615384615385,1.39240506329114
+"City","Yucaipa","CA","Riverside-San Bernardino-Ontario, CA",590,12,0.9869,37.037,89,7.30769230769231,1.39240506329114
+"City","Hemet","CA","Riverside-San Bernardino-Ontario, CA",160,12,0.9855,33.617,79,5.76923076923077,1.39240506329114
+"City","Big Bear Lake","CA","Riverside-San Bernardino-Ontario, CA",5429,12,0.9664,37.7483,91,9.23076923076923,1.39240506329114
+"City","Highland","CA","Riverside-San Bernardino-Ontario, CA",643,12,0.9973,24.0816,75,1.15384615384615,1.39240506329114
+"City","Winchester","CA","Riverside-San Bernardino-Ontario, CA",1117,12,0.9984,42.9719,83.5,5.38461538461539,1.39240506329114
+"City","Cathedral City","CA","Riverside-San Bernardino-Ontario, CA",629,12,0.9762,28.9683,95,6.73076923076923,1.39240506329114
+"City","Victorville","CA","Riverside-San Bernardino-Ontario, CA",143,12,0.9954,35.6798,80,4.42307692307692,1.39240506329114
+"City","Redlands","CA","Riverside-San Bernardino-Ontario, CA",359,12,0.977,32.4242,75,4.61538461538461,1.39240506329114
+"City","Perris","CA","Riverside-San Bernardino-Ontario, CA",405,12,0.9983,26.4463,78,1.92307692307692,1.39240506329114
+"City","Upland","CA","Riverside-San Bernardino-Ontario, CA",322,12,0.9787,34.6154,69,3.65384615384615,1.39240506329114
+"City","Temecula","CA","Riverside-San Bernardino-Ontario, CA",168,12,0.9873,42.6587,76,5.96153846153846,1.39240506329114
+"City","Fontana","CA","Riverside-San Bernardino-Ontario, CA",58,12,0.9968,29.5337,70,1.73076923076923,1.39240506329114
+"City","Palm Springs","CA","Riverside-San Bernardino-Ontario, CA",654,12,0.9649,28.8168,87,7.11538461538461,1.39240506329114
+"City","Beaumont","CA","Riverside-San Bernardino-Ontario, CA",806,12,0.9893,34.0336,84,5,1.39240506329114
+"City","San Bernardino","CA","Riverside-San Bernardino-Ontario, CA",54,12,1.0001,23.913,73.5,0.769230769230769,1.39240506329114
+"City","Big Bear City","CA","Riverside-San Bernardino-Ontario, CA",3238,12,0.9608,31.7633,91,8.26923076923077,1.39240506329114
+"City","Menifee","CA","Riverside-San Bernardino-Ontario, CA",748,12,0.9885,37.5415,76,4.80769230769231,1.39240506329114
+"City","Indio","CA","Riverside-San Bernardino-Ontario, CA",223,12,0.9822,36.0452,86,7.5,1.39240506329114
+"City","Chino","CA","Riverside-San Bernardino-Ontario, CA",288,12,0.9857,26,70,2.11538461538462,1.39240506329114
+"City","San Jacinto","CA","Riverside-San Bernardino-Ontario, CA",666,12,0.9957,30.9677,76.5,2.5,1.39240506329114
+"City","Wildomar","CA","Riverside-San Bernardino-Ontario, CA",914,12,0.9925,31.4815,87,4.03846153846154,1.39240506329114
+"City","Phelan","CA","Riverside-San Bernardino-Ontario, CA",1403,12,0.97,32.6923,76,5.57692307692308,1.39240506329114
+"City","Crestline","CA","Riverside-San Bernardino-Ontario, CA",5250,12,0.9653,33.2117,112.5,9.42307692307692,1.39240506329114
+"City","Banning","CA","Riverside-San Bernardino-Ontario, CA",965,12,0.9768,31.5254,84,6.53846153846154,1.39240506329114
+"City","Adelanto","CA","Riverside-San Bernardino-Ontario, CA",925,12,1,33.1776,77,2.30769230769231,1.39240506329114
+"City","Canyon Lake","CA","Riverside-San Bernardino-Ontario, CA",3965,12,0.9667,50.9524,106,10,1.39240506329114
+"City","Hesperia","CA","Riverside-San Bernardino-Ontario, CA",207,12,0.997,35.89,78,3.26923076923077,1.39240506329114
+"City","Yucca Valley","CA","Riverside-San Bernardino-Ontario, CA",1306,12,0.9633,30.5699,97,8.07692307692308,1.39240506329114
+"City","Lake Arrowhead","CA","Riverside-San Bernardino-Ontario, CA",4790,12,0.9743,36.5188,107.5,8.84615384615385,1.39240506329114
+"City","Rancho Cucamonga","CA","Riverside-San Bernardino-Ontario, CA",98,12,0.9897,35.9029,70,2.88461538461538,1.39240506329114
+"City","Norco","CA","Riverside-San Bernardino-Ontario, CA",1068,12,0.985,42.9348,77,6.92307692307692,1.39240506329114
+"City","Rancho Mirage","CA","Riverside-San Bernardino-Ontario, CA",2380,12,0.9445,28.9855,129.5,9.03846153846154,1.39240506329114
+"City","Palm Desert","CA","Riverside-San Bernardino-Ontario, CA",548,12,0.9626,31.5315,110,8.65384615384615,1.39240506329114
+"City","Colton","CA","Riverside-San Bernardino-Ontario, CA",536,12,0.9987,22.9412,69,0.384615384615385,1.39240506329114
+"City","Helendale","CA","Riverside-San Bernardino-Ontario, CA",5305,12,0.9805,44.5455,99,9.61538461538461,1.39240506329114
+"City","Twentynine Palms","CA","Riverside-San Bernardino-Ontario, CA",1666,12,0.9703,33.687,108,8.46153846153846,1.39240506329114
+"City","Murrieta","CA","Riverside-San Bernardino-Ontario, CA",194,12,0.9868,37.983,77,6.15384615384615,1.39240506329114
+"City","Ontario","CA","Riverside-San Bernardino-Ontario, CA",91,12,0.9989,26.9027,66,0.576923076923077,1.39240506329114
+"City","Chino Hills","CA","Riverside-San Bernardino-Ontario, CA",368,12,0.981,37.7129,71,5.19230769230769,1.39240506329114
+"City","Lake Elsinore","CA","Riverside-San Bernardino-Ontario, CA",408,12,0.9887,33.4601,78.5,3.84615384615385,1.39240506329114
+"City","Corona","CA","Riverside-San Bernardino-Ontario, CA",50,12,0.9885,39.637,74,4.23076923076923,1.39240506329114
+"City","Indian Wells","CA","Riverside-San Bernardino-Ontario, CA",4951,12,0.96969696969697,24.4444,153,7.69230769230769,1.39240506329114
+"City","Rialto","CA","Riverside-San Bernardino-Ontario, CA",219,12,1.0011,22.8659,68,0.192307692307692,1.39240506329114
+"City","Barstow","CA","Riverside-San Bernardino-Ontario, CA",961,12,0.9687,35.533,117,9.80769230769231,1.39240506329114
+"City","Apple Valley","CA","Riverside-San Bernardino-Ontario, CA",315,12,0.9967,43.3094,82,6.34615384615385,1.39240506329114
+"City","Moreno Valley","CA","Riverside-San Bernardino-Ontario, CA",83,12,1,26.6921,69,0.961538461538462,1.39240506329114
+"City","La Quinta","CA","Riverside-San Bernardino-Ontario, CA",864,12,0.9601,25.0251,105,7.88461538461539,1.39240506329114
+"City","Desert Hot Springs","CA","Riverside-San Bernardino-Ontario, CA",692,12,0.9881,27.6762,85,3.46153846153846,1.39240506329114
+"City","Joshua Tree","CA","Riverside-San Bernardino-Ontario, CA",4187,12,0.9881,27.9762,81,3.07692307692308,1.39240506329114
+"City","Blythe","CA","Riverside-San Bernardino-Ontario, CA",1430,12,1.00591715976331,26.506,123,2.69230769230769,1.39240506329114
+"City","Sun City","CA","Riverside-San Bernardino-Ontario, CA",1960,12,1,31.3559,75,1.53846153846154,1.39240506329114
+"City","Citrus Heights","CA","Sacramento--Arden-Arcade--Roseville, CA",280,23,0.9918,29.2517,67,2.5,1.58227848101266
+"City","Davis","CA","Sacramento--Arden-Arcade--Roseville, CA",512,23,0.9939,32.5301,55.5,0.416666666666667,1.58227848101266
+"City","Orangevale","CA","Sacramento--Arden-Arcade--Roseville, CA",994,23,0.9826,34.5455,65,5.83333333333333,1.58227848101266
+"City","West Sacramento","CA","Sacramento--Arden-Arcade--Roseville, CA",596,23,0.9843,20.3593,55,2.08333333333333,1.58227848101266
+"City","North Highlands","CA","Sacramento--Arden-Arcade--Roseville, CA",720,23,0.9851,35.1563,82.5,7.5,1.58227848101266
+"City","Sacramento","CA","Sacramento--Arden-Arcade--Roseville, CA",23,23,0.998,31.6239,63,1.25,1.58227848101266
+"City","Vineyard","CA","Sacramento--Arden-Arcade--Roseville, CA",1488,23,0.9936,20.2128,67.5,1.66666666666667,1.58227848101266
+"City","South Lake Tahoe","CA","Sacramento--Arden-Arcade--Roseville, CA",1039,23,0.9611,37.3576,88,8.75,1.58227848101266
+"City","Auburn","CA","Sacramento--Arden-Arcade--Roseville, CA",691,23,0.9777,40.3636,81,9.16666666666667,1.58227848101266
+"City","Lincoln","CA","Sacramento--Arden-Arcade--Roseville, CA",592,23,0.9856,37.2222,68,6.66666666666667,1.58227848101266
+"City","Arden-Arcade","CA","Sacramento--Arden-Arcade--Roseville, CA",285,23,0.9854,38.8235,64,6.25,1.58227848101266
+"City","Elk Grove","CA","Sacramento--Arden-Arcade--Roseville, CA",107,23,1,33.0447,60,0.833333333333333,1.58227848101266
+"City","Rancho Cordova","CA","Sacramento--Arden-Arcade--Roseville, CA",468,23,0.985,30.5136,75,5.41666666666667,1.58227848101266
+"City","Rocklin","CA","Sacramento--Arden-Arcade--Roseville, CA",434,23,0.9865,35.0299,60,2.91666666666667,1.58227848101266
+"City","Woodland","CA","Sacramento--Arden-Arcade--Roseville, CA",451,23,0.9826,38.5714,64,7.08333333333333,1.58227848101266
+"City","Galt","CA","Sacramento--Arden-Arcade--Roseville, CA",974,23,0.987,31.4286,84.5,5,1.58227848101266
+"City","Rosemont","CA","Sacramento--Arden-Arcade--Roseville, CA",1421,23,0.9907,39.5604,56,3.75,1.58227848101266
+"City","Roseville","CA","Sacramento--Arden-Arcade--Roseville, CA",179,23,0.9882,38.896,63,4.16666666666667,1.58227848101266
+"City","El Dorado Hills","CA","Sacramento--Arden-Arcade--Roseville, CA",857,23,0.9822,47.2843,88.5,9.58333333333333,1.58227848101266
+"City","Carmichael","CA","Sacramento--Arden-Arcade--Roseville, CA",489,23,0.9839,44.2688,69,7.91666666666667,1.58227848101266
+"City","Fair Oaks","CA","Sacramento--Arden-Arcade--Roseville, CA",743,23,0.9934,39.7059,65.5,4.58333333333333,1.58227848101266
+"City","Folsom","CA","Sacramento--Arden-Arcade--Roseville, CA",351,23,0.9862,33.8608,61,3.33333333333333,1.58227848101266
+"City","Granite Bay","CA","Sacramento--Arden-Arcade--Roseville, CA",1629,23,0.9788,43.5374,92,10,1.58227848101266
+"City","Placerville","CA","Sacramento--Arden-Arcade--Roseville, CA",855,23,0.9796,37.8571,90,8.33333333333333,1.58227848101266
+"City","Santee","CA","San Diego-Carlsbad-San Marcos, CA",545,16,0.9834,37.6426,60,1.36363636363636,3.10126582278481
+"City","Poway","CA","San Diego-Carlsbad-San Marcos, CA",619,16,0.9811,36.4,64.5,2.27272727272727,3.10126582278481
+"City","Escondido","CA","San Diego-Carlsbad-San Marcos, CA",137,16,0.9784,35.6792,66,4.09090909090909,3.10126582278481
+"City","Lakeside","CA","San Diego-Carlsbad-San Marcos, CA",710,16,0.9863,40.6593,69,3.18181818181818,3.10126582278481
+"City","Carlsbad","CA","San Diego-Carlsbad-San Marcos, CA",187,16,0.9759,38.7464,70,7.72727272727273,3.10126582278481
+"City","Ramona","CA","San Diego-Carlsbad-San Marcos, CA",848,16,0.9828,36.8794,103,7.27272727272727,3.10126582278481
+"City","Spring Valley","CA","San Diego-Carlsbad-San Marcos, CA",362,16,0.9816,34.2857,61,1.81818181818182,3.10126582278481
+"City","Encinitas","CA","San Diego-Carlsbad-San Marcos, CA",433,16,0.9731,39.1429,68,8.63636363636364,3.10126582278481
+"City","Coronado","CA","San Diego-Carlsbad-San Marcos, CA",1439,16,0.9538,19.6891,94,8.18181818181818,3.10126582278481
+"City","Fallbrook","CA","San Diego-Carlsbad-San Marcos, CA",622,16,0.9736,41.6465,87,10,3.10126582278481
+"City","San Marcos","CA","San Diego-Carlsbad-San Marcos, CA",282,16,0.9772,41.7476,60,5.45454545454545,3.10126582278481
+"City","El Cajon","CA","San Diego-Carlsbad-San Marcos, CA",100,16,0.9843,38.5915,69,3.63636363636364,3.10126582278481
+"City","La Mesa","CA","San Diego-Carlsbad-San Marcos, CA",358,16,0.9863,44.9568,64,2.72727272727273,3.10126582278481
+"City","Bonita","CA","San Diego-Carlsbad-San Marcos, CA",3110,16,0.9737,42.2535,78,9.09090909090909,3.10126582278481
+"City","Vista","CA","San Diego-Carlsbad-San Marcos, CA",171,16,0.982,39.4175,70,5,3.10126582278481
+"City","Valley Center","CA","San Diego-Carlsbad-San Marcos, CA",1553,16,0.9818,36.7876,93,6.36363636363636,3.10126582278481
+"City","Alpine","CA","San Diego-Carlsbad-San Marcos, CA",2229,16,0.9783,30.4688,77.5,4.54545454545455,3.10126582278481
+"City","Oceanside","CA","San Diego-Carlsbad-San Marcos, CA",74,16,0.9808,39.0681,71,6.81818181818182,3.10126582278481
+"City","Chula Vista","CA","San Diego-Carlsbad-San Marcos, CA",51,16,0.9863,33.0867,65,0.909090909090909,3.10126582278481
+"City","San Diego","CA","San Diego-Carlsbad-San Marcos, CA",6,16,0.9782,38.5369,66,5.90909090909091,3.10126582278481
+"City","Solana Beach","CA","San Diego-Carlsbad-San Marcos, CA",3689,16,0.9731,47.3118,76,9.54545454545454,3.10126582278481
+"City","Lemon Grove","CA","San Diego-Carlsbad-San Marcos, CA",1295,16,0.9908,28,64,0.454545454545455,3.10126582278481
+"City","Concord","CA","San Francisco-Oakland-Fremont, CA",146,10,0.995,27.3256,52,8.71794871794872,0.126582278481013
+"City","Alamo","CA","San Francisco-Oakland-Fremont, CA",2502,10,0.9652,26.8657,63,9.74358974358974,0.126582278481013
+"City","Union City","CA","San Francisco-Oakland-Fremont, CA",395,10,1.0066,23.9316,49,4.61538461538461,0.126582278481013
+"City","Oakland","CA","San Francisco-Oakland-Fremont, CA",29,10,1.0654,18.0556,47,2.30769230769231,0.126582278481013
+"City","Alameda","CA","San Francisco-Oakland-Fremont, CA",344,10,1.0297,15.0943,43.5,1.53846153846154,0.126582278481013
+"City","Lafayette","CA","San Francisco-Oakland-Fremont, CA",1166,10,1.0036,25,42,3.33333333333333,0.126582278481013
+"City","Castro Valley","CA","San Francisco-Oakland-Fremont, CA",621,10,1.0132,32.0313,45,4.35897435897436,0.126582278481013
+"City","Martinez","CA","San Francisco-Oakland-Fremont, CA",649,10,1.0002,29.6053,45.5,4.87179487179487,0.126582278481013
+"City","Dublin","CA","San Francisco-Oakland-Fremont, CA",791,10,0.9938,21.7877,47,6.41025641025641,0.126582278481013
+"City","Fremont","CA","San Francisco-Oakland-Fremont, CA",62,10,1.0199,18.6782,42,2.05128205128205,0.126582278481013
+"City","Tiburon","CA","San Francisco-Oakland-Fremont, CA",4340,10,0.9861,35.3846,86,10,0.126582278481013
+"City","San Rafael","CA","San Francisco-Oakland-Fremont, CA",364,10,1.0005,28.8043,47,5.64102564102564,0.126582278481013
+"City","Moraga","CA","San Francisco-Oakland-Fremont, CA",2487,10,1,29.0323,44,5.12820512820513,0.126582278481013
+"City","Berkeley","CA","San Francisco-Oakland-Fremont, CA",175,10,1.1024,11.1111,41,0.769230769230769,0.126582278481013
+"City","Mill Valley","CA","San Francisco-Oakland-Fremont, CA",1062,10,1.0074,25.2174,44.5,3.07692307692308,0.126582278481013
+"City","Newark","CA","San Francisco-Oakland-Fremont, CA",729,10,1.0059,23.4568,46,3.58974358974359,0.126582278481013
+"City","Pittsburg","CA","San Francisco-Oakland-Fremont, CA",279,10,1,24.3386,57,7.69230769230769,0.126582278481013
+"City","Walnut Creek","CA","San Francisco-Oakland-Fremont, CA",296,10,0.9991,26.4706,45,5.8974358974359,0.126582278481013
+"City","San Ramon","CA","San Francisco-Oakland-Fremont, CA",348,10,0.9986,22.0183,47,5.38461538461539,0.126582278481013
+"City","Antioch","CA","San Francisco-Oakland-Fremont, CA",215,10,1,35.2518,61,9.48717948717949,0.126582278481013
+"City","San Mateo","CA","San Francisco-Oakland-Fremont, CA",214,10,1.0352,9.7122,39,0.256410256410256,0.126582278481013
+"City","Pleasant Hill","CA","San Francisco-Oakland-Fremont, CA",921,10,1.0002,28.8136,48,7.43589743589744,0.126582278481013
+"City","Orinda","CA","San Francisco-Oakland-Fremont, CA",2205,10,1.0299,25.3968,46.5,2.82051282051282,0.126582278481013
+"City","Pleasanton","CA","San Francisco-Oakland-Fremont, CA",376,10,1,26.3158,47,6.66666666666667,0.126582278481013
+"City","Richmond","CA","San Francisco-Oakland-Fremont, CA",267,10,1.0168,21.0145,60,4.1025641025641,0.126582278481013
+"City","Danville","CA","San Francisco-Oakland-Fremont, CA",546,10,0.9974,35.0515,46,7.94871794871795,0.126582278481013
+"City","Novato","CA","San Francisco-Oakland-Fremont, CA",462,10,1,29.2818,48,8.2051282051282,0.126582278481013
+"City","Daly City","CA","San Francisco-Oakland-Fremont, CA",220,10,1.0501,13.4921,47.5,1.79487179487179,0.126582278481013
+"City","Brentwood","CA","San Francisco-Oakland-Fremont, CA",388,10,1,33.9806,59,9.23076923076923,0.126582278481013
+"City","San Anselmo","CA","San Francisco-Oakland-Fremont, CA",2386,10,0.9878,27.6596,50,8.97435897435897,0.126582278481013
+"City","San Pablo","CA","San Francisco-Oakland-Fremont, CA",531,10,1.016,25.5102,61.5,6.15384615384615,0.126582278481013
+"City","Hayward","CA","San Francisco-Oakland-Fremont, CA",121,10,1.0001,24.7813,55,7.17948717948718,0.126582278481013
+"City","El Sobrante","CA","San Francisco-Oakland-Fremont, CA",1450,10,1.0333,15.3846,49,2.56410256410256,0.126582278481013
+"City","Redwood City","CA","San Francisco-Oakland-Fremont, CA",317,10,1.0212,12.1795,39,1.02564102564103,0.126582278481013
+"City","Burlingame","CA","San Francisco-Oakland-Fremont, CA",1102,10,1.0324,9.3333,38,0.512820512820513,0.126582278481013
+"City","San Francisco","CA","San Francisco-Oakland-Fremont, CA",10,10,1.088,17.5238,40,1.28205128205128,0.126582278481013
+"City","Livermore","CA","San Francisco-Oakland-Fremont, CA",248,10,0.9941,28.0645,48,8.46153846153846,0.126582278481013
+"City","San Leandro","CA","San Francisco-Oakland-Fremont, CA",204,10,1.0059,18.4971,49,3.84615384615385,0.126582278481013
+"City","Oakley","CA","San Francisco-Oakland-Fremont, CA",842,10,1.0001,21.3115,61,6.92307692307692,0.126582278481013
+"City","Palo Alto","CA","San Jose-Sunnyvale-Santa Clara, CA",396,28,1.0882,13.7931,32,2.30769230769231,0.0632911392405063
+"City","Los Altos","CA","San Jose-Sunnyvale-Santa Clara, CA",1115,28,1.1,10,29,0.769230769230769,0.0632911392405063
+"City","Campbell","CA","San Jose-Sunnyvale-Santa Clara, CA",671,28,1.0274,17.3469,40,5.38461538461539,0.0632911392405063
+"City","Mountain View","CA","San Jose-Sunnyvale-Santa Clara, CA",343,28,1.1074,5,35,1.53846153846154,0.0632911392405063
+"City","Milpitas","CA","San Jose-Sunnyvale-Santa Clara, CA",387,28,1.0103,18.3673,43,6.15384615384615,0.0632911392405063
+"City","Sunnyvale","CA","San Jose-Sunnyvale-Santa Clara, CA",125,28,1.0655,5.1282,36,3.07692307692308,0.0632911392405063
+"City","Hollister","CA","San Jose-Sunnyvale-Santa Clara, CA",615,28,0.9943,30.2222,65,9.23076923076923,0.0632911392405063
+"City","San Jose","CA","San Jose-Sunnyvale-Santa Clara, CA",8,28,1.0029,21.854,43,6.92307692307692,0.0632911392405063
+"City","Cupertino","CA","San Jose-Sunnyvale-Santa Clara, CA",492,28,1.039,11.2903,35,3.84615384615385,0.0632911392405063
+"City","Morgan Hill","CA","San Jose-Sunnyvale-Santa Clara, CA",1088,28,0.988,36.4706,58,10,0.0632911392405063
+"City","Los Gatos","CA","San Jose-Sunnyvale-Santa Clara, CA",958,28,0.9988,26.1194,46,7.69230769230769,0.0632911392405063
+"City","Gilroy","CA","San Jose-Sunnyvale-Santa Clara, CA",501,28,0.9932,27.2401,62,8.46153846153846,0.0632911392405063
+"City","Santa Clara","CA","San Jose-Sunnyvale-Santa Clara, CA",167,28,1.0557,12.4183,37,4.61538461538461,0.0632911392405063
+"City","Snohomish","WA","Seattle-Tacoma-Bellevue, WA",465,14,0.9875,39.5928,69,9.12280701754386,0.949367088607595
+"City","North Bend","WA","Seattle-Tacoma-Bellevue, WA",3027,14,0.9917,32.3308,65,3.85964912280702,0.949367088607595
+"City","South Hill","WA","Seattle-Tacoma-Bellevue, WA",634,14,0.9939,37.3206,84,7.71929824561404,0.949367088607595
+"City","Lake Stevens","WA","Seattle-Tacoma-Bellevue, WA",1121,14,0.9965,29.1829,72.5,2.28070175438596,0.949367088607595
+"City","Bellevue","WA","Seattle-Tacoma-Bellevue, WA",150,14,0.9912,31.6901,48,1.92982456140351,0.949367088607595
+"City","Stanwood","WA","Seattle-Tacoma-Bellevue, WA",1652,14,0.9969,39.0805,90,7.54385964912281,0.949367088607595
+"City","Mountlake Terrace","WA","Seattle-Tacoma-Bellevue, WA",1890,14,0.9954,31.0345,47,1.05263157894737,0.949367088607595
+"City","Seattle Hill-Silver Firs","WA","Seattle-Tacoma-Bellevue, WA",881,14,0.9968,36.6667,57,2.98245614035088,0.949367088607595
+"City","Mill Creek","WA","Seattle-Tacoma-Bellevue, WA",2010,14,0.9857,36.9565,54,5.6140350877193,0.949367088607595
+"City","North Creek","WA","Seattle-Tacoma-Bellevue, WA",973,14,0.9949,36.3636,56.5,3.15789473684211,0.949367088607595
+"City","Spanaway","WA","Seattle-Tacoma-Bellevue, WA",679,14,1,37.9902,91,6.49122807017544,0.949367088607595
+"City","Edmonds","WA","Seattle-Tacoma-Bellevue, WA",706,14,0.9891,34.8659,53,4.3859649122807,0.949367088607595
+"City","Kirkland","WA","Seattle-Tacoma-Bellevue, WA",313,14,0.9904,33.4426,52,2.45614035087719,0.949367088607595
+"City","Orting","WA","Seattle-Tacoma-Bellevue, WA",2779,14,0.994,38.0282,82,8.24561403508772,0.949367088607595
+"City","Marysville","WA","Seattle-Tacoma-Bellevue, WA",341,14,0.9952,33.3333,69,4.03508771929825,0.949367088607595
+"City","Des Moines","WA","Seattle-Tacoma-Bellevue, WA",1042,14,0.9902,32.4324,64,4.56140350877193,0.949367088607595
+"City","Kent","WA","Seattle-Tacoma-Bellevue, WA",242,14,0.9984,32.265,68,1.75438596491228,0.949367088607595
+"City","Auburn","WA","Seattle-Tacoma-Bellevue, WA",569,14,1,30.787,72,1.57894736842105,0.949367088607595
+"City","Paine Field-Lake Stickney","WA","Seattle-Tacoma-Bellevue, WA",984,14,0.9895,35.3659,60.5,5.43859649122807,0.949367088607595
+"City","Puyallup","WA","Seattle-Tacoma-Bellevue, WA",868,14,0.9975,44.6097,86.5,8.59649122807017,0.949367088607595
+"City","Shoreline","WA","Seattle-Tacoma-Bellevue, WA",556,14,1,33.8182,45,0.701754385964912,0.949367088607595
+"City","University Place","WA","Seattle-Tacoma-Bellevue, WA",955,14,0.9803,37.9747,77,9.64912280701754,0.949367088607595
+"City","East Hill-Meridian","WA","Seattle-Tacoma-Bellevue, WA",1253,14,0.9943,31.25,62,2.63157894736842,0.949367088607595
+"City","Woodinville","WA","Seattle-Tacoma-Bellevue, WA",824,14,0.9899,37.5527,58,6.14035087719298,0.949367088607595
+"City","Kenmore","WA","Seattle-Tacoma-Bellevue, WA",1661,14,0.9853,42.6752,53,8.42105263157895,0.949367088607595
+"City","Parkland","WA","Seattle-Tacoma-Bellevue, WA",1212,14,0.9896,35.2941,100.5,9.47368421052632,0.949367088607595
+"City","Covington","WA","Seattle-Tacoma-Bellevue, WA",2290,14,1,37.594,72,4.73684210526316,0.949367088607595
+"City","Newcastle","WA","Seattle-Tacoma-Bellevue, WA",4364,14,0.964571428571429,35.3535,55,7.01754385964912,0.949367088607595
+"City","Issaquah","WA","Seattle-Tacoma-Bellevue, WA",544,14,0.9956,29.7872,51,0.87719298245614,0.949367088607595
+"City","Seatac","WA","Seattle-Tacoma-Bellevue, WA",1156,14,0.9811,30.5556,79,7.36842105263158,0.949367088607595
+"City","Lakeland North","WA","Seattle-Tacoma-Bellevue, WA",2613,14,0.9902,34.5588,74,6.31578947368421,0.949367088607595
+"City","Edgewood","WA","Seattle-Tacoma-Bellevue, WA",4450,14,0.992125984251969,27.2727,95,5.96491228070175,0.949367088607595
+"City","Everett","WA","Seattle-Tacoma-Bellevue, WA",201,14,0.9962,33.5185,70,3.68421052631579,0.949367088607595
+"City","Seattle","WA","Seattle-Tacoma-Bellevue, WA",15,14,1,28.6581,46,0.175438596491228,0.949367088607595
+"City","Gig Harbor","WA","Seattle-Tacoma-Bellevue, WA",568,14,0.9803,41.5945,94,10,0.949367088607595
+"City","Mercer Island","WA","Seattle-Tacoma-Bellevue, WA",1453,14,0.9771,20.2899,65,5.08771929824561,0.949367088607595
+"City","Tacoma","WA","Seattle-Tacoma-Bellevue, WA",75,14,0.9935,37.5243,83,8.07017543859649,0.949367088607595
+"City","Bonney Lake","WA","Seattle-Tacoma-Bellevue, WA",765,14,0.9947,30.6723,90.5,5.78947368421053,0.949367088607595
+"City","Buckley","WA","Seattle-Tacoma-Bellevue, WA",2403,14,0.998,40.566,91,7.89473684210526,0.949367088607595
+"City","Picnic Point-North Lynnwood","WA","Seattle-Tacoma-Bellevue, WA",1024,14,0.9954,27.2727,60,1.40350877192982,0.949367088607595
+"City","Mukilteo","WA","Seattle-Tacoma-Bellevue, WA",2036,14,0.9854,35.0877,68,6.84210526315789,0.949367088607595
+"City","Enumclaw","WA","Seattle-Tacoma-Bellevue, WA",1743,14,0.9893,35.1064,87,8.7719298245614,0.949367088607595
+"City","Lakewood","WA","Seattle-Tacoma-Bellevue, WA",411,14,0.9839,37.0262,88,9.82456140350877,0.949367088607595
+"City","Monroe","WA","Seattle-Tacoma-Bellevue, WA",3292,14,1,18.0851,66.5,0.526315789473684,0.949367088607595
+"City","Maple Valley","WA","Seattle-Tacoma-Bellevue, WA",1147,14,0.9897,36.1446,62,5.26315789473684,0.949367088607595
+"City","Redmond","WA","Seattle-Tacoma-Bellevue, WA",309,14,0.9888,26.5038,54,2.10526315789474,0.949367088607595
+"City","Bryn Mawr-Skyway","WA","Seattle-Tacoma-Bellevue, WA",2975,14,0.982,23.3333,68,4.91228070175439,0.949367088607595
+"City","Federal Way","WA","Seattle-Tacoma-Bellevue, WA",247,14,0.9965,35.619,65,3.50877192982456,0.949367088607595
+"City","Arlington","WA","Seattle-Tacoma-Bellevue, WA",746,14,0.9977,39.1892,85.5,6.66666666666667,0.949367088607595
+"City","Lynnwood","WA","Seattle-Tacoma-Bellevue, WA",834,14,1,33.9474,56,1.2280701754386,0.949367088607595
+"City","Burien","WA","Seattle-Tacoma-Bellevue, WA",981,14,0.9848,39.1813,69,9.29824561403509,0.949367088607595
+"City","Renton","WA","Seattle-Tacoma-Bellevue, WA",133,14,0.9855,30.1607,59,4.21052631578947,0.949367088607595
+"City","Graham","WA","Seattle-Tacoma-Bellevue, WA",1229,14,0.9976,42.3256,98,8.94736842105263,0.949367088607595
+"City","Vashon","WA","Seattle-Tacoma-Bellevue, WA",3934,14,0.9772,30.9278,69,7.19298245614035,0.949367088607595
+"City","Bothell","WA","Seattle-Tacoma-Bellevue, WA",803,14,0.9946,36.5854,51,2.80701754385965,0.949367088607595
+"City","Sammamish","WA","Seattle-Tacoma-Bellevue, WA",680,14,0.9854,28.2192,57,3.33333333333333,0.949367088607595
+"City","Snoqualmie","WA","Seattle-Tacoma-Bellevue, WA",4555,14,1,22.8346,63,0.350877192982456,0.949367088607595
+"City","Lake Saint Louis","MO","St. Louis, MO-IL",2909,17,0.9769,38.2488,95.5,4.73684210526316,4.93670886075949
+"City","Saint Louis","MO","St. Louis, MO-IL",37,17,0.9798,50.6421,87,6.05263157894737,4.93670886075949
+"City","Alton","IL","St. Louis, MO-IL",1176,17,0.936395759717314,47.6534,133,10,4.93670886075949
+"City","Troy","IL","St. Louis, MO-IL",3763,17,0.9734,51.0067,125,8.94736842105263,4.93670886075949
+"City","Ballwin","MO","St. Louis, MO-IL",1031,17,0.9196,40.8867,65.5,3.68421052631579,4.93670886075949
+"City","University City","MO","St. Louis, MO-IL",879,17,0.988,58.209,83,5.78947368421053,4.93670886075949
+"City","Overland","MO","St. Louis, MO-IL",2236,17,1.0128,49.6,90,5.52631578947368,4.93670886075949
+"City","Webster Groves","MO","St. Louis, MO-IL",1449,17,0.9452,55.7823,69,6.57894736842105,4.93670886075949
+"City","Fairview Heights","IL","St. Louis, MO-IL",2626,17,0.9724,45.5621,130.5,7.89473684210526,4.93670886075949
+"City","Glen Carbon","IL","St. Louis, MO-IL",2624,17,0.972426470588235,43.2692,93.5,6.31578947368421,4.93670886075949
+"City","Arnold","MO","St. Louis, MO-IL",808,17,1.0472,38.6029,82,1.05263157894737,4.93670886075949
+"City","Wildwood","MO","St. Louis, MO-IL",846,17,0.9419,43.5443,90,7.10526315789474,4.93670886075949
+"City","Washington","MO","St. Louis, MO-IL",1589,17,1.0194,36.8613,159.5,4.47368421052632,4.93670886075949
+"City","Eureka","MO","St. Louis, MO-IL",4657,17,1.0238,25.641,82,0.263157894736842,4.93670886075949
+"City","Belleville","IL","St. Louis, MO-IL",683,17,0.945,46.9858,120,9.21052631578947,4.93670886075949
+"City","Saint Peters","MO","St. Louis, MO-IL",504,17,0.9842,33.3333,72,0.526315789473684,4.93670886075949
+"City","Columbia","IL","St. Louis, MO-IL",3020,17,0.9652,48.8372,104,8.1578947368421,4.93670886075949
+"City","Florissant","MO","St. Louis, MO-IL",579,17,1.0617,46.3087,95,2.89473684210526,4.93670886075949
+"City","Oakville","MO","St. Louis, MO-IL",832,17,1.014,51.2563,71,1.84210526315789,4.93670886075949
+"City","Granite City","IL","St. Louis, MO-IL",920,17,0.9511,46.1268,98.5,7.63157894736842,4.93670886075949
+"City","Spanish Lake","MO","St. Louis, MO-IL",1989,17,1.08701417848207,48.6726,85.5,2.36842105263158,4.93670886075949
+"City","Affton","MO","St. Louis, MO-IL",1856,17,1.0325,52.7397,80.5,3.15789473684211,4.93670886075949
+"City","Shiloh","IL","St. Louis, MO-IL",2441,17,0.9661,41.4634,109,6.84210526315789,4.93670886075949
+"City","Edwardsville","IL","St. Louis, MO-IL",1657,17,0.9622,49.5283,99,8.42105263157895,4.93670886075949
+"City","De Soto","MO","St. Louis, MO-IL",1668,17,1.0473,40.4545,126,3.42105263157895,4.93670886075949
+"City","Festus","MO","St. Louis, MO-IL",1139,17,1.0429,31.6489,117,1.57894736842105,4.93670886075949
+"City","Mehlville","MO","St. Louis, MO-IL",1135,17,1.0004,48.1865,75,2.63157894736842,4.93670886075949
+"City","Maplewood","MO","St. Louis, MO-IL",4750,17,1,59.5238,74,4.21052631578947,4.93670886075949
+"City","Fenton","MO","St. Louis, MO-IL",736,17,1.025,40.3774,77,0.789473684210526,4.93670886075949
+"City","Godfrey","IL","St. Louis, MO-IL",2650,17,0.961908426317815,51.0067,121.5,9.47368421052632,4.93670886075949
+"City","Saint Charles","MO","St. Louis, MO-IL",346,17,0.9767,48.9691,80,5.26315789473684,4.93670886075949
+"City","Kirkwood","MO","St. Louis, MO-IL",1228,17,0.9801,59.2784,68,3.94736842105263,4.93670886075949
+"City","Wentzville","MO","St. Louis, MO-IL",1379,17,0.9836,28.4116,98,2.10526315789474,4.93670886075949
+"City","O Fallon","MO","St. Louis, MO-IL",349,17,0.9795,39.9651,75,1.31578947368421,4.93670886075949
+"City","Chesterfield","MO","St. Louis, MO-IL",721,17,0.8708,42.517,69.5,5,4.93670886075949
+"City","Cahokia","IL","St. Louis, MO-IL",3055,17,0.847457627118644,28.3784,210.5,7.36842105263158,4.93670886075949
+"City","O Fallon","IL","St. Louis, MO-IL",1715,17,0.9643,49.6063,112.5,8.68421052631579,4.93670886075949
+"City","Collinsville","IL","St. Louis, MO-IL",1324,17,0.9519,47.1861,139,9.73684210526316,4.93670886075949
+"City","Citrus Park","FL","Tampa-St. Petersburg-Clearwater, FL",1254,18,0.9796,38.3085,82.5,2.32558139534884,6.89873417721519
+"City","Brandon","FL","Tampa-St. Petersburg-Clearwater, FL",284,18,0.9759,38.3686,83,3.02325581395349,6.89873417721519
+"City","Ruskin","FL","Tampa-St. Petersburg-Clearwater, FL",1334,18,0.9659,36.9792,135.5,8.37209302325581,6.89873417721519
+"City","Oldsmar","FL","Tampa-St. Petersburg-Clearwater, FL",1532,18,0.965,31.3253,84,2.55813953488372,6.89873417721519
+"City","Zephyrhills","FL","Tampa-St. Petersburg-Clearwater, FL",3148,18,0.9499,31.7647,107,7.90697674418605,6.89873417721519
+"City","Plant City","FL","Tampa-St. Petersburg-Clearwater, FL",328,18,0.9653,24.5614,85,1.16279069767442,6.89873417721519
+"City","Land O Lakes","FL","Tampa-St. Petersburg-Clearwater, FL",532,18,0.9743,42.5684,102,6.27906976744186,6.89873417721519
+"City","Lutz","FL","Tampa-St. Petersburg-Clearwater, FL",478,18,0.9738,42.8571,94.5,6.04651162790698,6.89873417721519
+"City","Treasure Island","FL","Tampa-St. Petersburg-Clearwater, FL",4947,18,0.9346,33.8542,125,9.06976744186047,6.89873417721519
+"City","Odessa","FL","Tampa-St. Petersburg-Clearwater, FL",1286,18,0.9708,42.7509,95,8.13953488372093,6.89873417721519
+"City","Pinellas Park","FL","Tampa-St. Petersburg-Clearwater, FL",626,18,0.9714,37.9747,76.5,3.48837209302326,6.89873417721519
+"City","Gulfport","FL","Tampa-St. Petersburg-Clearwater, FL",3396,18,0.9683,35.0575,75,1.86046511627907,6.89873417721519
+"City","Wimauma","FL","Tampa-St. Petersburg-Clearwater, FL",2991,18,0.9784,26.9406,113,1.62790697674419,6.89873417721519
+"City","Spring Hill","FL","Tampa-St. Petersburg-Clearwater, FL",221,18,0.9537,36.0418,103,8.83720930232558,6.89873417721519
+"City","Westchase","FL","Tampa-St. Petersburg-Clearwater, FL",1355,18,0.9717,35.8779,87,3.25581395348837,6.89873417721519
+"City","Hudson","FL","Tampa-St. Petersburg-Clearwater, FL",682,18,0.9584,37.9267,115,9.30232558139535,6.89873417721519
+"City","Port Richey","FL","Tampa-St. Petersburg-Clearwater, FL",688,18,0.9486,31.1881,82,4.18604651162791,6.89873417721519
+"City","Gibsonton","FL","Tampa-St. Petersburg-Clearwater, FL",3100,18,0.9822,25.7353,95,0.465116279069767,6.89873417721519
+"City","Greater Northdale","FL","Tampa-St. Petersburg-Clearwater, FL",1610,18,0.9831,40,69,0.697674418604651,6.89873417721519
+"City","Sun City Center","FL","Tampa-St. Petersburg-Clearwater, FL",1717,18,0.9556,32.684,93,5.81395348837209,6.89873417721519
+"City","Holiday","FL","Tampa-St. Petersburg-Clearwater, FL",908,18,0.9573,30.4348,89,4.65116279069767,6.89873417721519
+"City","Apollo Beach","FL","Tampa-St. Petersburg-Clearwater, FL",3350,18,0.964,29.4505,132.5,5.58139534883721,6.89873417721519
+"City","Temple Terrace","FL","Tampa-St. Petersburg-Clearwater, FL",1260,18,0.9782,40.4494,90,4.41860465116279,6.89873417721519
+"City","Palm Harbor","FL","Tampa-St. Petersburg-Clearwater, FL",342,18,0.9724,37.7436,84,3.72093023255814,6.89873417721519
+"City","Wesley Chapel","FL","Tampa-St. Petersburg-Clearwater, FL",511,18,0.9802,38.5382,81.5,2.09302325581395,6.89873417721519
+"City","Valrico","FL","Tampa-St. Petersburg-Clearwater, FL",430,18,0.9728,42.5455,84,4.88372093023256,6.89873417721519
+"City","Town 'n' Country","FL","Tampa-St. Petersburg-Clearwater, FL",295,18,0.9743,37.8049,77,1.3953488372093,6.89873417721519
+"City","Saint Petersburg","FL","Tampa-St. Petersburg-Clearwater, FL",46,18,0.9627,37.8556,90,6.74418604651163,6.89873417721519
+"City","Largo","FL","Tampa-St. Petersburg-Clearwater, FL",269,18,0.9594,34.5576,89,5.11627906976744,6.89873417721519
+"City","Seffner","FL","Tampa-St. Petersburg-Clearwater, FL",1226,18,0.9811,32.8042,78,0.232558139534884,6.89873417721519
+"City","Tampa","FL","Tampa-St. Petersburg-Clearwater, FL",33,18,0.9603,37.8149,89,7.44186046511628,6.89873417721519
+"City","Greater Carrollwood","FL","Tampa-St. Petersburg-Clearwater, FL",869,18,0.96,41.9872,82.5,7.67441860465116,6.89873417721519
+"City","Dunedin","FL","Tampa-St. Petersburg-Clearwater, FL",826,18,0.9649,33.4963,89,3.95348837209302,6.89873417721519
+"City","New Port Richey","FL","Tampa-St. Petersburg-Clearwater, FL",166,18,0.9563,36.042,103,8.6046511627907,6.89873417721519
+"City","Lake Magdalene","FL","Tampa-St. Petersburg-Clearwater, FL",1013,18,0.9688,38.9706,94,6.97674418604651,6.89873417721519
+"City","Egypt Lake-Leto","FL","Tampa-St. Petersburg-Clearwater, FL",861,18,0.9627,37.931,88,6.51162790697674,6.89873417721519
+"City","Saint Pete Beach","FL","Tampa-St. Petersburg-Clearwater, FL",4118,18,0.944,37.788,116.5,9.76744186046512,6.89873417721519
+"City","Safety Harbor","FL","Tampa-St. Petersburg-Clearwater, FL",2374,18,0.972,34.466,82,0.930232558139535,6.89873417721519
+"City","Riverview","FL","Tampa-St. Petersburg-Clearwater, FL",230,18,0.9732,33.8825,93,2.7906976744186,6.89873417721519
+"City","Clearwater","FL","Tampa-St. Petersburg-Clearwater, FL",163,18,0.9641,37.74,95,7.2093023255814,6.89873417721519
+"City","Tarpon Springs","FL","Tampa-St. Petersburg-Clearwater, FL",792,18,0.9595,42.1136,103.5,9.53488372093023,6.89873417721519
+"City","Seminole","FL","Tampa-St. Petersburg-Clearwater, FL",515,18,0.9691,42.4915,83,5.34883720930233,6.89873417721519
+"City","West and East Lealman","FL","Tampa-St. Petersburg-Clearwater, FL",1672,18,0.9464,41.9689,97,10,6.89873417721519
+"City","Collinsville","OK","Tulsa, OK",4090,45,0.9857,20.0873,97,3,2.08860759493671
+"City","Sapulpa","OK","Tulsa, OK",1070,45,0.9668,27.9412,100,9,2.08860759493671
+"City","Owasso","OK","Tulsa, OK",820,45,0.9904,24.283,82.5,1,2.08860759493671
+"City","Claremore","OK","Tulsa, OK",645,45,0.9863,24.918,111.5,6,2.08860759493671
+"City","Glenpool","OK","Tulsa, OK",3724,45,0.984771573604061,19.7309,91,2,2.08860759493671
+"City","Tulsa","OK","Tulsa, OK",27,45,0.9697,35.5081,92,8,2.08860759493671
+"City","Jenks","OK","Tulsa, OK",2186,45,0.977,19.7674,87.5,4,2.08860759493671
+"City","Sand Springs","OK","Tulsa, OK",1187,45,0.9768,30.4833,104.5,10,2.08860759493671
+"City","Bixby","OK","Tulsa, OK",1517,45,0.9772,28.97,90,7,2.08860759493671
+"City","Broken Arrow","OK","Tulsa, OK",198,45,0.9842,25.9002,83,5,2.08860759493671
+"City","North Bethesda","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",695,6,0.9859,51.6393,82,8.05970149253731,2.91139240506329
+"City","Bealeton","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",4959,6,0.9669,41.5385,70,6.71641791044776,2.91139240506329
+"City","Lusby","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",1514,6,0.974,42.5656,131,10,2.91139240506329
+"City","Frederick","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",157,6,0.9901,41.3127,90,5.07462686567164,2.91139240506329
+"City","Springfield","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",189,6,0.9899,50.995,62,4.32835820895522,2.91139240506329
+"City","Groveton","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",1473,6,0.995,56.25,65.5,3.13432835820896,2.91139240506329
+"City","Fairfax","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",109,6,0.9852,44.801,62,4.17910447761194,2.91139240506329
+"City","Stafford","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",330,6,0.9881,43.0657,85,5.52238805970149,2.91139240506329
+"City","Bethesda","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",422,6,0.9867,41.0909,78,4.77611940298507,2.91139240506329
+"City","Potomac","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",676,6,0.9786,47.138,91,9.25373134328358,2.91139240506329
+"City","Gaithersburg","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",392,6,0.9856,50.7645,84.5,8.65671641791045,2.91139240506329
+"City","Fredericksburg","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",101,6,0.9793,41.7989,88,7.91044776119403,2.91139240506329
+"City","Vienna","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",421,6,0.9833,44.868,66,5.37313432835821,2.91139240506329
+"City","Great Falls","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",2172,6,0.9493,42.233,103,9.55223880597015,2.91139240506329
+"City","Fort Washington","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",591,6,0.9988,29.1262,117,2.38805970149254,2.91139240506329
+"City","Arlington","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",67,6,0.9904,45.0413,59,1.49253731343284,2.91139240506329
+"City","Lorton","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",939,6,0.9891,47.2527,69,4.62686567164179,2.91139240506329
+"City","Gainesville","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",1447,6,0.9851,47.2103,82.5,7.76119402985075,2.91139240506329
+"City","Thurmont","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",3559,6,0.9812,52.0833,101,9.85074626865672,2.91139240506329
+"City","Silver Spring","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",43,6,0.9884,44.7368,82,5.22388059701493,2.91139240506329
+"City","Manassas Park","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",2979,6,0.9968,50.6329,63,1.94029850746269,2.91139240506329
+"City","Centreville","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",378,6,0.9873,52.3929,64,5.82089552238806,2.91139240506329
+"City","Chantilly","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",624,6,0.9882,47.8916,66,4.47761194029851,2.91139240506329
+"City","Germantown","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",259,6,0.984,43.6229,86,7.61194029850746,2.91139240506329
+"City","Falls Church","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",165,6,0.9879,48.847,59,3.73134328358209,2.91139240506329
+"City","La Plata","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",1650,6,0.9829,47.2637,113,9.70149253731343,2.91139240506329
+"City","Mount Vernon","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",918,6,0.984,50.625,73,7.3134328358209,2.91139240506329
+"City","Reston","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",432,6,0.9833,51.4894,65,6.86567164179105,2.91139240506329
+"City","Oakton","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",2069,6,0.9755,48.2143,74,8.80597014925373,2.91139240506329
+"City","Warrenton","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",1057,6,0.9946,42.2794,77,1.64179104477612,2.91139240506329
+"City","Sudley","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",4575,6,1,54.717,60.5,1.19402985074627,2.91139240506329
+"City","District Heights","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",784,6,0.9737,28.6713,115,8.50746268656716,2.91139240506329
+"City","Chesapeake Beach","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",4227,6,0.9938,46.2687,109.5,7.16417910447761,2.91139240506329
+"City","Purcellville","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",2302,6,0.9875,45.6044,81,6.26865671641791,2.91139240506329
+"City","Annandale","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",510,6,0.9912,44.7115,59,1.04477611940298,2.91139240506329
+"City","Herndon","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",266,6,0.9837,51.25,66,7.01492537313433,2.91139240506329
+"City","Sterling","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",257,6,0.9909,48.2679,67,3.58208955223881,2.91139240506329
+"City","Alexandria","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",122,6,0.9881,42.2892,66,2.6865671641791,2.91139240506329
+"City","Washington","DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",16,6,1,35.3467,59,0.149253731343284,2.91139240506329
+"City","Manassas","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",804,6,0.9921,40.6114,68,0.746268656716418,2.91139240506329
+"City","Laurel","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",197,6,0.9957,36.9983,91,2.53731343283582,2.91139240506329
+"City","Rockville","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",490,6,0.988,44.1667,76,4.92537313432836,2.91139240506329
+"City","Bowie","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",246,6,1,32.1918,102,0.895522388059702,2.91139240506329
+"City","Rose Hill","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",2315,6,0.994,46.6667,64,1.7910447761194,2.91139240506329
+"City","Waldorf","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",318,6,1,39.7959,120,4.02985074626866,2.91139240506329
+"City","Spotsylvania","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",942,6,0.9761,37.7005,106,9.1044776119403,2.91139240506329
+"City","Greater Upper Marlboro","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",1192,6,0.9946,20.2091,116,2.23880597014925,2.91139240506329
+"City","Ashburn","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",325,6,0.9815,42.8571,71,5.97014925373134,2.91139240506329
+"City","New Market","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",4062,6,0.996,21.6374,94,0.298507462686567,2.91139240506329
+"City","Olney","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",1528,6,0.9827,48.2517,79,8.35820895522388,2.91139240506329
+"City","Lanham Seabrook","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",1935,6,0.9995,32.9114,105,1.34328358208955,2.91139240506329
+"City","Bristow","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",1051,6,0.9979,50.2242,65,2.08955223880597,2.91139240506329
+"City","Mc Lean","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",583,6,0.9717,45.8824,76,8.95522388059701,2.91139240506329
+"City","Front Royal","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",1064,6,0.9768,33.5443,96,7.46268656716418,2.91139240506329
+"City","Clinton","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",854,6,0.9984,34.375,124,3.88059701492537,2.91139240506329
+"City","Montgomery Village","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",1021,6,0.9819,45.8498,82,8.2089552238806,2.91139240506329
+"City","Burke","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",722,6,0.9912,52.8736,61,3.28358208955224,2.91139240506329
+"City","Leesburg","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",326,6,0.9858,45.9948,77,6.41791044776119,2.91139240506329
+"City","Temple Hills","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",843,6,1,36.0215,122.5,2.98507462686567,2.91139240506329
+"City","Huntingtown","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",2897,6,0.9901,37.013,118.5,6.56716417910448,2.91139240506329
+"City","Dumfries","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",1223,6,0.9909,49.1304,80,5.67164179104478,2.91139240506329
+"City","North Potomac","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",1307,6,0.9844,43.3962,80,6.11940298507463,2.91139240506329
+"City","Franconia","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",859,6,0.9913,52.7363,62.5,3.43283582089552,2.91139240506329
+"City","Woodbridge","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",78,6,0.9937,44.6602,73,2.83582089552239,2.91139240506329
+"City","Takoma Park","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",1342,6,1,43.2836,74,0.597014925373134,2.91139240506329
+"City","Haymarket","VA","Washington-Arlington-Alexandria, DC-VA-MD-WV",1552,6,0.9766,50,87.5,9.40298507462687,2.91139240506329
+"City","Greater Landover","MD","Washington-Arlington-Alexandria, DC-VA-MD-WV",1415,6,1,18.6047,107,0.447761194029851,2.91139240506329

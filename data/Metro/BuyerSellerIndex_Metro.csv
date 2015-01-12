@@ -1,0 +1,159 @@
+"RegionName","CBSA Title","SizeRankMetro","SaleToListPrice","PctPriceCut","DaysOnMarket","BuyerSellerIndex"
+"New York","New York-Northern New Jersey-Long Island, NY-NJ-PA",1,0.9671,31.0166,137,7.78481012658228
+"Los Angeles","Los Angeles-Long Beach-Santa Ana, CA",2,0.9874,31.4645,70,0.886075949367089
+"Chicago","Chicago-Naperville-Joliet, IL-IN-WI",3,0.9666,44.6651,103,8.73417721518987
+"Dallas-Fort Worth","Dallas-Fort Worth-Arlington, TX",4,0.9864,29.8646,54,0.632911392405063
+"Philadelphia","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",5,0.9691,46.3185,106,8.60759493670886
+"Washington","Washington-Arlington-Alexandria, DC-VA-MD-WV",6,0.9889,40.9958,77,2.91139240506329
+"Miami-Fort Lauderdale","Miami-Fort Lauderdale-Pompano Beach, FL",7,0.9616,29.5259,107,6.20253164556962
+"Atlanta","Atlanta-Sandy Springs-Marietta, GA",8,0.9753,32.8836,90,3.16455696202532
+"Boston","Boston-Cambridge-Quincy, MA-NH",9,0.9811,42.3056,77,3.79746835443038
+"San Francisco","San Francisco-Oakland-Fremont, CA",10,1.0077,22.7674,46,0.126582278481013
+"Detroit","Detroit-Warren-Livonia, MI",11,0.9701,43.1204,91,7.34177215189873
+"Riverside","Riverside-San Bernardino-Ontario, CA",12,0.9871,32.7863,79,1.39240506329114
+"Phoenix","Phoenix-Mesa-Scottsdale, AZ",13,0.9792,41.575,83,4.49367088607595
+"Seattle","Seattle-Tacoma-Bellevue, WA",14,0.9946,33.93,62,0.949367088607595
+"Minneapolis-St Paul","Minneapolis-St. Paul-Bloomington, MN-WI",15,0.9834,44.9503,89,4.43037974683544
+"San Diego","San Diego-Carlsbad-San Marcos, CA",16,0.9795,37.3152,68,3.10126582278481
+"St. Louis","St. Louis, MO-IL",17,0.9796,42.3086,88,4.93670886075949
+"Tampa","Tampa-St. Petersburg-Clearwater, FL",18,0.9658,36.9624,93,6.89873417721519
+"Baltimore","Baltimore-Towson, MD",19,0.9843,45.8371,103,5.69620253164557
+"Denver","Denver-Aurora, CO",20,0.9943,27.2391,55,0.316455696202532
+"Pittsburgh","Pittsburgh, PA",21,0.9631,40.4091,95,8.10126582278481
+"Portland","Portland-Vancouver-Beaverton, OR-WA",22,0.9921,37.3014,65,1.70886075949367
+"Sacramento","Sacramento--Arden-Arcade--Roseville, CA",23,0.9866,34.6567,69,1.58227848101266
+"Orlando","Orlando-Kissimmee, FL",24,0.9711,35.6083,93,5.12658227848101
+"Cincinnati","Cincinnati-Middletown, OH-KY-IN",25,0.9643,35.6795,94,6.70886075949367
+"Cleveland","Cleveland-Elyria-Mentor, OH",26,0.9587,42.2893,94,8.86075949367089
+"Las Vegas","Las Vegas-Paradise, NV",27,0.9863,31.9422,84,1.45569620253165
+"San Jose","San Jose-Sunnyvale-Santa Clara, CA",28,1.007,22.0701,42,0.0632911392405063
+"Columbus","Columbus, OH",29,0.9771,38.3923,80,3.9873417721519
+"Charlotte","Charlotte-Gastonia-Concord, NC-SC",30,0.9728,29.3358,89,2.34177215189873
+"Virginia Beach","Virginia Beach-Norfolk-Newport News, VA-NC",31,0.9822,39.8665,95,4.24050632911392
+"Providence","Providence-New Bedford-Fall River, RI-MA",32,0.9653,44.0557,101,8.67088607594937
+"Nashville","Nashville-Davidson--Murfreesboro--Franklin, TN",33,0.9814,30.0997,77,1.32911392405063
+"Milwaukee","Milwaukee-Waukesha-West Allis, WI",34,0.9669,44.0611,99,8.35443037974684
+"Jacksonville","Jacksonville, FL",35,0.9698,34.6022,103,6.07594936708861
+"Memphis","Memphis, TN-MS-AR",36,0.9728,32.1076,92,3.35443037974684
+"Richmond","Richmond, VA",37,0.9796,36.5973,91,3.73417721518987
+"Oklahoma City","Oklahoma City, OK",38,0.979,33.8025,76,2.15189873417722
+"Hartford","Hartford-West Hartford-East Hartford, CT",39,0.9691,45.968,107,8.54430379746835
+"New Orleans","New Orleans-Metairie-Kenner, LA",40,0.9694,33.08,102,5.18987341772152
+"Raleigh","Raleigh-Cary, NC",41,0.9815,34.3705,77,1.9620253164557
+"Rochester","Rochester, NY",42,0.974,42.3129,105,7.65822784810127
+"Tucson","Tucson, AZ",43,0.9768,39.9151,97,5.94936708860759
+"Honolulu","Honolulu, HI",44,0.9893,24.2537,74,0.379746835443038
+"Tulsa","Tulsa, OK",45,0.9774,30.0265,91,2.08860759493671
+"Fresno","Fresno, CA",46,0.9871,31.94,74,1.0126582278481
+"Stamford","Bridgeport-Stamford-Norwalk, CT",47,0.9647,43.3585,109,9.17721518987342
+"Albany","Albany-Schenectady-Troy, NY",48,0.9709,43.7001,122,9.11392405063291
+"New Haven","New Haven-Milford, CT",49,0.9602,43.2129,112,9.55696202531646
+"Dayton","Dayton, OH",50,0.9687,43.4213,99,8.0379746835443
+"Bakersfield","Bakersfield, CA",51,0.9896,33.8394,75,1.26582278481013
+"Ventura","Oxnard-Thousand Oaks-Ventura, CA",52,0.9835,35.2941,70,1.89873417721519
+"Allentown","Allentown-Bethlehem-Easton, PA-NJ",53,0.9651,43.1972,111,9.24050632911392
+"Worcester","Worcester, MA",54,0.9718,48.2316,101,7.84810126582278
+"Grand Rapids","Grand Rapids-Wyoming, MI",55,0.9717,41.823,83,5.88607594936709
+"Columbia","Columbia, SC",56,0.9679,35.9954,121,8.22784810126582
+"Greensboro","Greensboro-High Point, NC",57,0.9665,37.0274,114,8.29113924050633
+"Akron","Akron, OH",58,0.9676,41.5337,87,7.15189873417722
+"Sarasota","Bradenton-Sarasota-Venice, FL",59,0.9636,30.6437,98,5.06329113924051
+"Little Rock","Little Rock-North Little Rock-Conway, AR",60,0.971,34.9418,109,6.45569620253165
+"Knoxville","Knoxville, TN",61,0.9624,36.346,105,8.16455696202532
+"Springfield","Springfield, MA",62,0.9719,50.4684,97,7.59493670886076
+"Stockton","Stockton, CA",63,1,31.9635,68,0.759493670886076
+"Poughkeepsie","Poughkeepsie-Newburgh-Middletown, NY",64,0.9632,40.4971,176,9.87341772151899
+"Charleston","Charleston-North Charleston-Summerville, SC",65,0.9711,21.9427,101,2.21518987341772
+"Toledo","Toledo, OH",66,0.9627,36.2581,90,6.9620253164557
+"Colorado Springs","Colorado Springs, CO",67,0.985,39.129,76,2.72151898734177
+"Greenville","Greenville-Mauldin-Easley, SC",68,0.9686,32.2195,95,4.36708860759494
+"Fort Myers","Cape Coral-Fort Myers, FL",69,0.965,26.7923,112,5
+"Lakeland","Lakeland-Winter Haven, FL",70,0.9689,32.7089,102,5.31645569620253
+"Des Moines","Des Moines-West Des Moines, IA",71,0.978,40.247,87,4.62025316455696
+"Madison","Madison, WI",72,0.974,39.4181,89,5.37974683544304
+"Augusta","Augusta-Richmond County, GA-SC",73,0.9685,29.4787,117,5.63291139240506
+"Melbourne","Palm Bay-Melbourne-Titusville, FL",74,0.9667,34.7313,92,5.82278481012658
+"Lancaster","Lancaster, PA",75,0.9782,38.5773,97,5.25316455696202
+"Modesto","Modesto, CA",76,0.9929,36.5479,66.5,1.64556962025316
+"Durham","Durham, NC",77,0.9752,30.9402,90,2.65822784810127
+"Daytona Beach","Deltona-Daytona Beach-Ormond Beach, FL",78,0.9628,35.6266,100,7.46835443037975
+"Santa Rosa","Santa Rosa-Petaluma, CA",79,0.9987,32.5501,54,0.69620253164557
+"Winston-Salem","Winston-Salem, NC",80,0.9599,34.7245,121,8.92405063291139
+"Spokane","Spokane, WA",81,0.9846,43.5162,89,4.11392405063291
+"Lansing","Lansing-East Lansing, MI",82,0.9733,44.8276,97,7.27848101265823
+"Pensacola","Pensacola-Ferry Pass-Brent, FL",83,0.9705,34.5374,113,6.64556962025316
+"Visalia","Visalia-Porterville, CA",84,0.9861,35.2632,78,1.83544303797468
+"York","York-Hanover, PA",85,0.9721,39.6149,99.5,6.51898734177215
+"Reno","Reno-Sparks, NV",86,0.9841,34.3368,77,1.77215189873418
+"Port St. Lucie","Port St. Lucie, FL",87,0.9661,28.2898,107,4.87341772151899
+"Santa Barbara","Santa Barbara-Santa Maria-Goleta, CA",88,0.9838,28.4519,74,0.822784810126582
+"Salinas","Salinas, CA",89,0.9817,28.9834,77,1.07594936708861
+"Vallejo","Vallejo-Fairfield, CA",90,0.9954,34.7632,61,1.13924050632911
+"Mobile","Mobile, AL",91,0.9672,26.195,122,5.44303797468354
+"Canton","Canton-Massillon, OH",92,0.9708,40.5395,84,6.13924050632911
+"Manchester","Manchester-Nashua, NH",93,0.9824,42.4991,79,3.60759493670886
+"Salem","Salem, OR",94,0.9883,36.4625,91,2.59493670886076
+"Tallahassee","Tallahassee, FL",95,0.9703,33.5834,110,6.26582278481013
+"Fayetteville","Fayetteville, NC",96,0.9806,35.0696,109,4.55696202531646
+"Eugene","Eugene-Springfield, OR",97,0.9805,43.164,81,4.30379746835443
+"Rockford","Rockford, IL",98,0.9556,48.3038,100,9.43037974683544
+"Ann Arbor","Ann Arbor, MI",99,0.9769,37.1653,83,3.67088607594937
+"Ocala","Ocala, FL",100,0.9587,30.5056,110,7.21518987341772
+"Kalamazoo","Kalamazoo-Portage, MI",101,0.9693,39.4336,102,7.53164556962025
+"Naples","Naples-Marco Island, FL",102,0.9589,23.0634,121,6.32911392405063
+"Green Bay","Green Bay, WI",103,0.9735,36.9853,109,6.58227848101266
+"Lincoln","Lincoln, NE",104,0.9815,36.1111,76,2.53164556962025
+"Fort Collins","Fort Collins-Loveland, CO",105,0.9895,25.5928,63,0.253164556962025
+"Utica","Utica-Rome, NY",106,0.9588,38.0589,133,9.68354430379747
+"Boulder","Boulder, CO",107,0.9865,28.4959,61,0.569620253164557
+"Spartanburg","Spartanburg, SC",108,0.9599,33.9564,122,8.79746835443038
+"Atlantic City","Atlantic City-Hammonton, NJ",109,0.9429,35.7493,156.5,9.81012658227848
+"New London","Norwich-New London, CT",110,0.9552,41.8499,121,9.74683544303798
+"San Luis Obispo","San Luis Obispo-Paso Robles, CA",111,0.9786,34.5602,84,3.0379746835443
+"Gainesville","Gainesville, FL",112,0.9603,36.1452,101.5,7.9746835443038
+"Santa Cruz","Santa Cruz-Watsonville, CA",113,0.9875,28.801,66,0.506329113924051
+"Cedar Rapids","Cedar Rapids, IA",114,0.975,42.7318,95,6.39240506329114
+"Merced","Merced, CA",115,0.9828,28.5383,83.5,1.20253164556962
+"Olympia","Olympia, WA",116,0.9856,35.7376,85,2.40506329113924
+"Binghamton","Binghamton, NY",117,0.9619,46.6747,146,10
+"Bremerton","Bremerton-Silverdale, WA",118,0.9843,37.9327,87.5,3.29113924050633
+"Yakima","Yakima, WA",119,0.9793,35.1901,106.5,4.74683544303798
+"Champaign-Urbana","Champaign-Urbana, IL",120,0.9637,45.6119,103,9.05063291139241
+"Chico","Chico, CA",121,0.9775,41.1607,76,4.17721518987342
+"Prescott","Prescott, AZ",122,0.9715,35.8919,91,4.81012658227848
+"Medford","Medford, OR",123,0.9809,39.7719,86,3.86075949367089
+"Bellingham","Bellingham, WA",124,0.9796,37.2314,93,4.05063291139241
+"Johnson City","Johnson City, TN",125,0.9609,35.2601,121.5,8.9873417721519
+"Yuma","Yuma, AZ",126,0.98,33.0561,105,3.54430379746835
+"Anderson","Anderson, SC",127,0.954,31.6717,122,8.41772151898734
+"Hilo","Hilo, HI",128,0.9613,27.3395,122,6.77215189873418
+"Destin","Fort Walton Beach-Crestview-Destin, FL",129,0.9712,35.9319,102,6.0126582278481
+"Jacksonville","Jacksonville, NC",130,0.9849,31.228,117,3.22784810126582
+"Redding","Redding, CA",131,0.9794,37.2515,80,3.41772151898734
+"El Centro","El Centro, CA",132,1,26.8191,67,0.189873417721519
+"Muskegon","Muskegon-Norton Shores, MI",133,0.9644,35.0295,103,7.40506329113924
+"Panama City","Panama City-Lynn Haven, FL",134,0.9578,29.2001,113,7.0253164556962
+"Yuba City","Yuba City, CA",135,0.987,38.08,71,2.0253164556962
+"Pueblo","Pueblo, CO",136,0.9747,37.9945,87,4.68354430379747
+"Bend","Bend, OR",137,0.9813,34.2014,85,2.46835443037975
+"Kahului","Kahului-Wailuku, HI",138,0.9753,24.031,112,2.78481012658228
+"State College","State College, PA",139,0.9714,35.2041,83,3.92405063291139
+"Hanford","Hanford-Corcoran, CA",140,0.9893,25.9494,79,0.443037974683544
+"Burlington","Burlington, NC",141,0.9564,36.3472,117,9.30379746835443
+"Madera","Madera, CA",142,0.9809,37.5,85,3.48101265822785
+"Grand Junction","Grand Junction, CO",143,0.974,39.2091,92,5.50632911392405
+"Springfield","Springfield, OH",144,0.9675,41.8122,106,8.48101265822785
+"Vero Beach","Sebastian-Vero Beach, FL",145,0.9569,25.5175,123,7.08860759493671
+"Morristown","Morristown, TN",146,0.9628,27.3746,153,7.91139240506329
+"Napa","Napa, CA",147,0.9816,32.8125,65,1.51898734177215
+"Battle Creek","Battle Creek, MI",148,0.9561,40.7478,142,9.93670886075949
+"Flagstaff","Flagstaff, AZ",149,0.967,32.9768,100,5.56962025316456
+"Salisbury","Salisbury, MD",150,0.9655,32.6421,119,7.72151898734177
+"Mount Vernon","Mount Vernon-Anacortes, WA",151,0.9824,33.0033,98,2.84810126582278
+"Cleveland","Cleveland, TN",152,0.972,36.9386,109,6.83544303797468
+"Jackson","Jackson, TN",153,0.9603,37.4379,126,9.49367088607595
+"Bay City","Bay City, MI",154,0.9489,41.8705,100.5,9.36708860759494
+"Sumter","Sumter, SC",155,0.9684,25.348,132,5.75949367088608
+"Cumberland","Cumberland, MD-WV",156,0.9479,34.2738,162,9.62025316455696
+"Corvallis","Corvallis, OR",157,0.9896,38.8128,79.5,2.27848101265823
+"Carson City","Carson City, NV",158,0.9762,34.3511,79.5,2.9746835443038
