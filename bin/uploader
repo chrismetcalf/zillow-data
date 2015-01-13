@@ -1,0 +1,94 @@
+#!/usr/bin/env ruby
+#
+# Please please please don't use this as is. This uses a deprecated API that
+# nobody should be using anymore.
+
+require 'trollop'
+require 'highline/import'
+require 'find'
+require 'csv'
+require 'fileutils'
+require 'net/http/post/multipart'
+require 'net/https'
+require 'json'
+require 'launchy'
+require 'soda/client'
+
+# Options
+opts = Trollop::options do
+  opt :domain,        "Site domain",                                      :type => :string
+  opt :username,      "Socrata username/email",                           :type => :string
+  opt :path,          "Path of CSVs to upload",                           :type => :string
+  opt :metadata,      "Additional extended metadata to include, as JSON", :type => :string
+  opt :publish,       "Publish datasets after import"
+  opt :public,        "Make public after import"
+  opt :open,          "Open URLs after import"
+  opt :verbose,       "Be loud and proud!"
+end
+
+opts[:app_token] = "U1QdA5umyhtlklE7zEFolwkJJ"
+
+# Ask for a password
+opts[:password] = ask("Password: ") { |q| q.echo = "*" }
+
+client = SODA::Client.new(opts)
+
+# Find all of the CSV files in our data directory
+Find.find(opts[:path]) do |path|
+  next unless File.file?(path) && path.match(/\.csv$/)
+
+  begin
+    filename = File.split(path)[1]
+
+    puts "Processing \"#{path}\""
+
+    url = URI.parse("https://#{opts[:domain]}/api/imports")
+    File.open(path) do |file|
+      req = Net::HTTP::Post::Multipart.new url.path,
+        "file" => UploadIO.new(file, "text/csv", filename)
+
+      # Set up basic auth & app token
+      req.basic_auth opts[:username], opts[:password]
+      req.add_field("X-App-Token", opts[:app_token])
+
+      # We wants us some SSL and we're really patient
+      http = Net::HTTP.new(url.host, url.port)
+      http.use_ssl = true
+      http.read_timeout = 60 * 20 # 20 minutes
+
+      response = http.request(req)
+
+      # Something went wrong...
+      raise "Error importing #{filename}: #{response.body}" if response.code != "200"
+      dataset = JSON.parse(response.body)
+
+      puts "Imported \"#{dataset["name"]}\" as https://#{opts[:domain]}/d/#{dataset["id"]}"
+      if opts[:metadata]
+        # We've got some custom metdata, deal with that
+        dataset["metadata"] = {
+          "custom_fields" => JSON.parse(opts[:metadata])
+        }
+        client.put("/api/views/#{dataset["id"]}.json", dataset)
+        puts "Added metadata: #{opts[:metadata]}"
+      end
+
+      if opts[:publish]
+        # Publish this dataset
+        client.post("/api/views/#{dataset["id"]}/publication.json")
+        puts "Published!"
+      end
+
+      if opts[:public]
+        # Make it public
+        client.put("/api/views/#{dataset["id"]}", nil, { :method => "setPermission", :value => "public.read" })
+        puts "Marked public!"
+      end
+
+      if opts[:open]
+        Launchy.open("https://#{opts[:domain]}/d/#{dataset["id"]}")
+      end
+    end
+  rescue Exception => e
+    puts "Error loading #{path}: #{e.inspect}"
+  end
+end

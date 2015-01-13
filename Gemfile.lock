@@ -1,8 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    addressable (2.3.6)
     hashie (3.3.2)
     highline (1.6.21)
+    launchy (2.4.3)
+      addressable (~> 2.3)
+    multipart-post (2.0.0)
     soda-ruby (0.2.12)
       hashie
     trollop (2.1.1)
@@ -12,5 +16,7 @@ PLATFORMS
 
 DEPENDENCIES
   highline
+  launchy
+  multipart-post
   soda-ruby
   trollop
