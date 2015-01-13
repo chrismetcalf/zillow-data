@@ -29,21 +29,22 @@ opts[:app_token] = "U1QdA5umyhtlklE7zEFolwkJJ"
 # Find all of the CSV files in our data directory
 Find.find(opts[:input]) do |path|
   next unless File.file? path
-  out_file = path.gsub(opts[:input], opts[:output])
 
   csv = CSV.new(open(path), { :headers => :first_row })
   rows = csv.read
   headers = csv.headers
 
-  date_headers = headers.grep /^\d{4}-\d{2}$/
-  if date_headers.size > 0
-    # If our headers contain dates, we deed to do some magic
+  # Make sure the path exists where we want to write
+  out_file = path.gsub(opts[:input], opts[:output])
+  FileUtils.mkdir_p(File.split(out_file).first)
 
-    # Make sure the path exists where we want to write
-    FileUtils.mkdir_p(File.split(out_file).first)
+  puts "Writing #{path} to #{out_file}..."
+  # Write this sucker
+  CSV.open(out_file, "w") do |out_csv|
+    date_headers = headers.grep /^\d{4}-\d{2}$/
+    if date_headers.size > 0
+      # If our headers contain dates, we deed to do some magic
 
-    # Write this sucker
-    CSV.open(out_file, "w") do |out_csv|
       # Build up our new headers
       fixed_headers = headers.reject { |h| h.match /^\d{4}-\d{2}$/ }
 
@@ -58,9 +59,13 @@ Find.find(opts[:input]) do |path|
           out_csv << fixed_headers.collect { |h| row[h] } + [date, row[date]]
         end
       end
+    else
+      # This case is a bit simpler...
+      out_csv << headers.collect { |h| h.split(/(?=[A-Z])/).join(" ") }
+
+      rows.each do |row|
+        out_csv << row
+      end
     end
-  else
-    # Do nothing
-    puts "Noop: #{path}"
   end
 end
