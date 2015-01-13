@@ -1,8 +1,5 @@
 #!/usr/bin/env ruby
-#
-# Get it? Flipper?
 
-require 'soda/client'
 require 'trollop'
 require 'highline/import'
 require 'find'
@@ -11,20 +8,10 @@ require 'fileutils'
 
 # Options
 opts = Trollop::options do
-  opt :domain,        "Site domain",                                   :type => :string
-  opt :username,      "Socrata username/email",                        :type => :string
   opt :input,         "Directory for input",                           :type => :string
   opt :output,        "Directory for output",                          :type => :string
   opt :verbose,       "Be loud and proud!"
 end
-
-opts[:app_token] = "U1QdA5umyhtlklE7zEFolwkJJ"
-
-# Ask for a password
-# opts[:password] = ask("Password: ") { |q| q.echo = "*" }
-
-# Set up our client
-# client = SODA::Client.new(opts)
 
 # Find all of the CSV files in our data directory
 Find.find(opts[:input]) do |path|
