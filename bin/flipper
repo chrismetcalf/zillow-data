@@ -1,0 +1,66 @@
+#!/usr/bin/env ruby
+#
+# Get it? Flipper?
+
+require 'soda/client'
+require 'trollop'
+require 'highline/import'
+require 'find'
+require 'csv'
+require 'fileutils'
+
+# Options
+opts = Trollop::options do
+  opt :domain,        "Site domain",                                   :type => :string
+  opt :username,      "Socrata username/email",                        :type => :string
+  opt :input,         "Directory for input",                           :type => :string
+  opt :output,        "Directory for output",                          :type => :string
+  opt :verbose,       "Be loud and proud!"
+end
+
+opts[:app_token] = "U1QdA5umyhtlklE7zEFolwkJJ"
+
+# Ask for a password
+# opts[:password] = ask("Password: ") { |q| q.echo = "*" }
+
+# Set up our client
+# client = SODA::Client.new(opts)
+
+# Find all of the CSV files in our data directory
+Find.find(opts[:input]) do |path|
+  next unless File.file? path
+  out_file = path.gsub(opts[:input], opts[:output])
+
+  csv = CSV.new(open(path), { :headers => :first_row })
+  rows = csv.read
+  headers = csv.headers
+
+  date_headers = headers.grep /^\d{4}-\d{2}$/
+  if date_headers.size > 0
+    # If our headers contain dates, we deed to do some magic
+
+    # Make sure the path exists where we want to write
+    FileUtils.mkdir_p(File.split(out_file).first)
+
+    # Write this sucker
+    CSV.open(out_file, "w") do |out_csv|
+      # Build up our new headers
+      fixed_headers = headers.reject { |h| h.match /^\d{4}-\d{2}$/ }
+
+      # Write out our modified headers
+      out_csv <<
+        fixed_headers.collect { |h| h.split(/(?=[A-Z])/).join(" ") } + ["Month", "Value"]
+
+      # Now iterate through our rows
+      rows.each do |row|
+        # Each date header gets its own row...
+        date_headers.each do |date|
+          out_csv << fixed_headers.collect { |h| row[h] } + [date, row[date]]
+        end
+      end
+    end
+  else
+    # Do nothing
+    puts "Noop: #{path}"
+  end
+end
