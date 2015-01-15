@@ -14,6 +14,11 @@ require 'json'
 require 'launchy'
 require 'soda/client'
 
+# These things take time, and I want to know what times those are
+def log(message)
+  puts "[#{Time.now.to_s}] #{message}"
+end
+
 # Options
 opts = Trollop::options do
   opt :domain,        "Site domain",                                      :type => :string
@@ -27,6 +32,7 @@ opts = Trollop::options do
 end
 
 opts[:app_token] = "U1QdA5umyhtlklE7zEFolwkJJ"
+opts[:timeout] = 60 * 20 # 20 Minutes
 
 # Ask for a password
 opts[:password] = ask("Password: ") { |q| q.echo = "*" }
@@ -40,11 +46,10 @@ Find.find(opts[:path]) do |path|
   begin
     filename = File.split(path)[1]
 
-    puts "Processing \"#{path}\""
-
-    url = URI.parse("https://#{opts[:domain]}/api/imports")
     File.open(path) do |file|
-      req = Net::HTTP::Post::Multipart.new url.path,
+      # Upload and scan our file
+      url = URI.parse("https://#{opts[:domain]}/api/imports2?method=scan")
+      req = Net::HTTP::Post::Multipart.new url.path + "?" + url.query,
         "file" => UploadIO.new(file, "text/csv", filename)
 
       # Set up basic auth & app token
@@ -54,41 +59,63 @@ Find.find(opts[:path]) do |path|
       # We wants us some SSL and we're really patient
       http = Net::HTTP.new(url.host, url.port)
       http.use_ssl = true
-      http.read_timeout = 60 * 20 # 20 minutes
+      http.read_timeout = opts[:timeout]
 
+      log "Uploading \"#{path}\", size #{file.size / (1024*1024)}Mb"
       response = http.request(req)
 
       # Something went wrong...
-      raise "Error importing #{filename}: #{response.body}" if response.code != "200"
-      dataset = JSON.parse(response.body)
+      raise "Error scanning #{filename}: #{response.body}" if response.code != "200"
 
-      puts "Imported \"#{dataset["name"]}\" as https://#{opts[:domain]}/d/#{dataset["id"]}"
+      # Looks like we successfully scanned
+      scan = JSON.parse(response.body)
+      file_id = scan["fileId"]
+
+      # Now we import and poll until we get the good news!
+      # We'll either get back a dataset or a ticket
+      dataset = client.post("/api/imports2.json", nil, {
+        "fileId" => file_id,
+        "name" => filename,
+        "skip" => 1
+      })
+
+      while dataset["ticket"] do
+        log "Waiting on #{dataset["ticket"]}: #{dataset.inspect}"
+        sleep 10
+        # We got a golden ticket. Keep polling until we get a dataset back
+        dataset = client.get("/api/imports2.json", { :ticket => dataset["ticket"] })
+      end
+
+      log "Imported \"#{dataset["name"]}\" as https://#{opts[:domain]}/d/#{dataset["id"]}"
       if opts[:metadata]
         # We've got some custom metdata, deal with that
         dataset["metadata"] = {
           "custom_fields" => JSON.parse(opts[:metadata])
         }
         client.put("/api/views/#{dataset["id"]}.json", dataset)
-        puts "Added metadata: #{opts[:metadata]}"
+        log "Added metadata: #{opts[:metadata]}"
       end
 
       if opts[:publish]
         # Publish this dataset
         client.post("/api/views/#{dataset["id"]}/publication.json")
-        puts "Published!"
+        log "Published!"
       end
 
       if opts[:public]
         # Make it public
         client.put("/api/views/#{dataset["id"]}", nil, { :method => "setPermission", :value => "public.read" })
-        puts "Marked public!"
+        log "Marked public!"
       end
 
       if opts[:open]
         Launchy.open("https://#{opts[:domain]}/d/#{dataset["id"]}")
       end
     end
+  rescue Interrupt => i
+    log "Caught interrupt, bailing out!"
+    exit 1
   rescue Exception => e
-    puts "Error loading #{path}: #{e.inspect}"
+    log "Error loading #{path}: #{e.inspect}"
   end
 end
