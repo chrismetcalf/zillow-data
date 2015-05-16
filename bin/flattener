@@ -1,0 +1,46 @@
+#!/usr/bin/env ruby
+
+require 'trollop'
+require 'highline/import'
+require 'find'
+require 'csv'
+require 'fileutils'
+require 'nokogiri'
+require 'facets/string/titlecase'
+
+class String
+  def titleize
+    split(/(\W)/).map(&:capitalize).join
+  end
+end
+
+# Options
+opts = Trollop::options do
+  opt :input,         "Filename for input",                           :type => :string
+  opt :output,        "Filename for output",                          :type => :string
+  opt :verbose,       "Be loud and proud!"
+  opt :xpath,         "XPath for the element to iterate on",          :type => :string
+end
+
+# Open our XML victim
+doc = Nokogiri::XML(File.open(opts[:input])) do |config|
+  config.noblanks
+end
+
+# Horribly innefficient, probably will OOM
+header = []
+records = []
+doc.xpath(opts[:xpath]).each do |record|
+  # Update our header set
+  header = (header + record.children.collect { |c| c.name }).uniq
+  records.push(record.children.inject({}) { |mem, c| mem[c.name] = c.children.text; mem })
+end
+
+# Output this sucker
+CSV.open(opts[:output], "wb") do |csv|
+  csv << header.sort.collect { |h| h.gsub(/_+/, " " ).titleize }
+
+  records.each do |rec|
+    csv << header.sort.collect { |h| rec[h] }
+  end
+end
